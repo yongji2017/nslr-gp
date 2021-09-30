@@ -1,0 +1,1184 @@
+15/09/2021 - 15:32:55: INFO - Process started...
+15/09/2021 - 15:32:55: INFO - input file: C:\projects\gp\data\template.gdb.zip
+15/09/2021 - 15:32:55: ERROR - error name 'uuid' is not defined
+15/09/2021 - 15:33:39: INFO - Process started...
+15/09/2021 - 15:33:39: INFO - input file: C:\projects\gp\data\template.gdb.zip
+15/09/2021 - 15:33:39: INFO - scratchFolder C:\Users\yxz\AppData\Local\Temp\scratch
+15/09/2021 - 15:33:39: INFO - Zip Folder C:\Users\yxz\AppData\Local\Temp\scratch\b7bfbfa4-15d5-11ec-89e5-342eb7df08df
+15/09/2021 - 15:33:40: INFO - dirpath C:\Users\yxz\AppData\Local\Temp\scratch\b7bfbfa4-15d5-11ec-89e5-342eb7df08df
+15/09/2021 - 15:33:40: INFO - dirpath C:\Users\yxz\AppData\Local\Temp\scratch\b7bfbfa4-15d5-11ec-89e5-342eb7df08df\template.gdb
+15/09/2021 - 15:33:40: INFO - filename SpeedLimitZoneGeometryDraft
+15/09/2021 - 15:33:40: INFO - fc C:\Users\yxz\AppData\Local\Temp\scratch\b7bfbfa4-15d5-11ec-89e5-342eb7df08df\template.gdb\SpeedLimitZoneGeometryDraft
+15/09/2021 - 15:33:40: INFO - filename RCAZone
+15/09/2021 - 15:33:40: INFO - fc C:\Users\yxz\AppData\Local\Temp\scratch\b7bfbfa4-15d5-11ec-89e5-342eb7df08df\template.gdb\RCAZone
+15/09/2021 - 15:33:40: INFO - filename SpeedLimitZoneGeometryCertified
+15/09/2021 - 15:33:40: INFO - fc C:\Users\yxz\AppData\Local\Temp\scratch\b7bfbfa4-15d5-11ec-89e5-342eb7df08df\template.gdb\SpeedLimitZoneGeometryCertified
+15/09/2021 - 15:33:40: INFO - filename SpeedLimitZoneClarification
+15/09/2021 - 15:33:40: INFO - fc C:\Users\yxz\AppData\Local\Temp\scratch\b7bfbfa4-15d5-11ec-89e5-342eb7df08df\template.gdb\SpeedLimitZoneClarification
+15/09/2021 - 15:44:57: INFO - Process started...
+15/09/2021 - 15:44:57: INFO - input file: C:\projects\gp\data\template.gdb.zip
+15/09/2021 - 15:44:57: INFO - scratchFolder C:\Users\yxz\AppData\Local\Temp\scratch
+15/09/2021 - 15:44:57: INFO - Zip Folder C:\Users\yxz\AppData\Local\Temp\scratch\4bd03758-15d7-11ec-aa20-342eb7df08df
+15/09/2021 - 15:44:58: INFO - filename SpeedLimitZoneGeometryDraft
+15/09/2021 - 15:44:58: INFO - fc C:\Users\yxz\AppData\Local\Temp\scratch\4bd03758-15d7-11ec-aa20-342eb7df08df\template.gdb\SpeedLimitZoneGeometryDraft
+15/09/2021 - 15:44:58: INFO - filename RCAZone
+15/09/2021 - 15:44:58: INFO - fc C:\Users\yxz\AppData\Local\Temp\scratch\4bd03758-15d7-11ec-aa20-342eb7df08df\template.gdb\RCAZone
+15/09/2021 - 15:44:58: INFO - filename SpeedLimitZoneGeometryCertified
+15/09/2021 - 15:44:58: INFO - fc C:\Users\yxz\AppData\Local\Temp\scratch\4bd03758-15d7-11ec-aa20-342eb7df08df\template.gdb\SpeedLimitZoneGeometryCertified
+15/09/2021 - 15:44:58: INFO - filename SpeedLimitZoneClarification
+15/09/2021 - 15:44:58: INFO - fc C:\Users\yxz\AppData\Local\Temp\scratch\4bd03758-15d7-11ec-aa20-342eb7df08df\template.gdb\SpeedLimitZoneClarification
+15/09/2021 - 15:44:58: INFO - filename RCAZoneReference
+15/09/2021 - 15:44:58: INFO - fc C:\Users\yxz\AppData\Local\Temp\scratch\4bd03758-15d7-11ec-aa20-342eb7df08df\template.gdb\RCAZoneReference
+15/09/2021 - 15:44:58: INFO - filename SpeedLimitZone
+15/09/2021 - 15:44:58: INFO - fc C:\Users\yxz\AppData\Local\Temp\scratch\4bd03758-15d7-11ec-aa20-342eb7df08df\template.gdb\SpeedLimitZone
+15/09/2021 - 15:44:58: INFO - filename SpeedLimitZoneLaneSpeed
+15/09/2021 - 15:44:58: INFO - fc C:\Users\yxz\AppData\Local\Temp\scratch\4bd03758-15d7-11ec-aa20-342eb7df08df\template.gdb\SpeedLimitZoneLaneSpeed
+15/09/2021 - 15:44:58: INFO - filename SpeedLimitZoneVariablePeriod
+15/09/2021 - 15:44:58: INFO - fc C:\Users\yxz\AppData\Local\Temp\scratch\4bd03758-15d7-11ec-aa20-342eb7df08df\template.gdb\SpeedLimitZoneVariablePeriod
+15/09/2021 - 15:44:58: INFO - filename SpeedLimitZoneVariableSpeed
+15/09/2021 - 15:44:58: INFO - fc C:\Users\yxz\AppData\Local\Temp\scratch\4bd03758-15d7-11ec-aa20-342eb7df08df\template.gdb\SpeedLimitZoneVariableSpeed
+15/09/2021 - 15:44:58: INFO - filename SpeedManagementPlan
+15/09/2021 - 15:44:58: INFO - fc C:\Users\yxz\AppData\Local\Temp\scratch\4bd03758-15d7-11ec-aa20-342eb7df08df\template.gdb\SpeedManagementPlan
+15/09/2021 - 15:44:58: INFO - filename SpeedManagementPlanRCAZoneReference
+15/09/2021 - 15:44:58: INFO - fc C:\Users\yxz\AppData\Local\Temp\scratch\4bd03758-15d7-11ec-aa20-342eb7df08df\template.gdb\SpeedManagementPlanRCAZoneReference
+15/09/2021 - 15:44:58: INFO - filename LegalInstrument
+15/09/2021 - 15:44:58: INFO - fc C:\Users\yxz\AppData\Local\Temp\scratch\4bd03758-15d7-11ec-aa20-342eb7df08df\template.gdb\LegalInstrument
+15/09/2021 - 15:44:58: INFO - filename SpeedLimitZoneCorrection
+15/09/2021 - 15:44:58: INFO - fc C:\Users\yxz\AppData\Local\Temp\scratch\4bd03758-15d7-11ec-aa20-342eb7df08df\template.gdb\SpeedLimitZoneCorrection
+15/09/2021 - 15:44:58: INFO - filename SpeedLimitZoneJustification
+15/09/2021 - 15:44:58: INFO - fc C:\Users\yxz\AppData\Local\Temp\scratch\4bd03758-15d7-11ec-aa20-342eb7df08df\template.gdb\SpeedLimitZoneJustification
+15/09/2021 - 15:44:58: INFO - filename LegalInstrumentSupportingText
+15/09/2021 - 15:44:58: INFO - fc C:\Users\yxz\AppData\Local\Temp\scratch\4bd03758-15d7-11ec-aa20-342eb7df08df\template.gdb\LegalInstrumentSupportingText
+15/09/2021 - 16:43:37: INFO - Process started...
+15/09/2021 - 16:43:37: INFO - input file: C:\projects\gp\data\template.gdb.zip
+15/09/2021 - 16:43:37: INFO - scratchFolder C:\Users\yxz\AppData\Local\Temp\scratch
+15/09/2021 - 16:43:37: INFO - Zip Folder C:\Users\yxz\AppData\Local\Temp\scratch\7ddf8f70-15df-11ec-9a54-342eb7df08df
+15/09/2021 - 16:43:37: INFO - filename SpeedLimitZoneGeometryDraft
+15/09/2021 - 16:43:37: INFO - fc C:\Users\yxz\AppData\Local\Temp\scratch\7ddf8f70-15df-11ec-9a54-342eb7df08df\template.gdb\SpeedLimitZoneGeometryDraft
+15/09/2021 - 16:43:37: INFO - filename RCAZone
+15/09/2021 - 16:43:37: INFO - fc C:\Users\yxz\AppData\Local\Temp\scratch\7ddf8f70-15df-11ec-9a54-342eb7df08df\template.gdb\RCAZone
+15/09/2021 - 16:43:38: INFO - filename SpeedLimitZoneGeometryCertified
+15/09/2021 - 16:43:38: INFO - filename SpeedLimitZoneClarification
+15/09/2021 - 16:43:38: INFO - filename RCAZoneReference
+15/09/2021 - 16:43:38: INFO - filename SpeedLimitZone
+15/09/2021 - 16:43:38: INFO - fc C:\Users\yxz\AppData\Local\Temp\scratch\7ddf8f70-15df-11ec-9a54-342eb7df08df\template.gdb\SpeedLimitZone
+15/09/2021 - 16:43:38: INFO - filename SpeedLimitZoneLaneSpeed
+15/09/2021 - 16:43:38: INFO - filename SpeedLimitZoneVariablePeriod
+15/09/2021 - 16:43:38: INFO - filename SpeedLimitZoneVariableSpeed
+15/09/2021 - 16:43:38: INFO - filename SpeedManagementPlan
+15/09/2021 - 16:43:38: INFO - filename SpeedManagementPlanRCAZoneReference
+15/09/2021 - 16:43:38: INFO - filename LegalInstrument
+15/09/2021 - 16:43:38: INFO - filename SpeedLimitZoneCorrection
+15/09/2021 - 16:43:38: INFO - filename SpeedLimitZoneJustification
+15/09/2021 - 16:43:38: INFO - filename LegalInstrumentSupportingText
+15/09/2021 - 16:43:38: ERROR - No output is generated
+15/09/2021 - 16:43:38: ERROR - No output is generated
+15/09/2021 - 16:48:20: INFO - Process started...
+15/09/2021 - 16:48:20: INFO - input file: C:\projects\gp\data\template.gdb.zip
+15/09/2021 - 16:48:20: INFO - Zip Folder C:\Users\yxz\AppData\Local\Temp\scratch\26c46442-15e0-11ec-b17f-342eb7df08df
+15/09/2021 - 16:48:21: INFO - filename SpeedLimitZoneGeometryDraft
+15/09/2021 - 16:48:21: INFO - fc C:\Users\yxz\AppData\Local\Temp\scratch\26c46442-15e0-11ec-b17f-342eb7df08df\template.gdb\SpeedLimitZoneGeometryDraft
+15/09/2021 - 16:48:21: INFO - filename RCAZone
+15/09/2021 - 16:48:21: INFO - fc C:\Users\yxz\AppData\Local\Temp\scratch\26c46442-15e0-11ec-b17f-342eb7df08df\template.gdb\RCAZone
+15/09/2021 - 16:48:21: INFO - filename SpeedLimitZoneGeometryCertified
+15/09/2021 - 16:48:21: INFO - filename SpeedLimitZoneClarification
+15/09/2021 - 16:48:21: INFO - filename RCAZoneReference
+15/09/2021 - 16:48:21: INFO - filename SpeedLimitZone
+15/09/2021 - 16:48:21: INFO - fc C:\Users\yxz\AppData\Local\Temp\scratch\26c46442-15e0-11ec-b17f-342eb7df08df\template.gdb\SpeedLimitZone
+15/09/2021 - 16:48:21: INFO - filename SpeedLimitZoneLaneSpeed
+15/09/2021 - 16:48:21: INFO - filename SpeedLimitZoneVariablePeriod
+15/09/2021 - 16:48:21: INFO - filename SpeedLimitZoneVariableSpeed
+15/09/2021 - 16:48:21: INFO - filename SpeedManagementPlan
+15/09/2021 - 16:48:21: INFO - filename SpeedManagementPlanRCAZoneReference
+15/09/2021 - 16:48:21: INFO - filename LegalInstrument
+15/09/2021 - 16:48:21: INFO - filename SpeedLimitZoneCorrection
+15/09/2021 - 16:48:21: INFO - filename SpeedLimitZoneJustification
+15/09/2021 - 16:48:21: INFO - filename LegalInstrumentSupportingText
+15/09/2021 - 16:48:21: ERROR - No output is generated
+15/09/2021 - 16:48:21: ERROR - No output is generated
+15/09/2021 - 16:48:51: INFO - Process started...
+15/09/2021 - 16:48:51: INFO - input file: C:\projects\gp\data\template.gdb.zip
+15/09/2021 - 16:48:51: INFO - Zip Folder C:\Users\yxz\AppData\Local\Temp\scratch\391f5246-15e0-11ec-8d45-342eb7df08df
+15/09/2021 - 16:48:52: INFO - filename SpeedLimitZoneGeometryDraft
+15/09/2021 - 16:48:52: INFO - fc C:\Users\yxz\AppData\Local\Temp\scratch\391f5246-15e0-11ec-8d45-342eb7df08df\template.gdb\SpeedLimitZoneGeometryDraft
+15/09/2021 - 16:48:52: INFO - filename RCAZone
+15/09/2021 - 16:48:52: INFO - fc C:\Users\yxz\AppData\Local\Temp\scratch\391f5246-15e0-11ec-8d45-342eb7df08df\template.gdb\RCAZone
+15/09/2021 - 16:48:52: INFO - filename SpeedLimitZoneGeometryCertified
+15/09/2021 - 16:48:52: INFO - filename SpeedLimitZoneClarification
+15/09/2021 - 16:48:52: INFO - filename RCAZoneReference
+15/09/2021 - 16:48:52: INFO - filename SpeedLimitZone
+15/09/2021 - 16:48:52: INFO - fc C:\Users\yxz\AppData\Local\Temp\scratch\391f5246-15e0-11ec-8d45-342eb7df08df\template.gdb\SpeedLimitZone
+15/09/2021 - 16:48:52: INFO - filename SpeedLimitZoneLaneSpeed
+15/09/2021 - 16:48:52: INFO - filename SpeedLimitZoneVariablePeriod
+15/09/2021 - 16:48:52: INFO - filename SpeedLimitZoneVariableSpeed
+15/09/2021 - 16:48:52: INFO - filename SpeedManagementPlan
+15/09/2021 - 16:48:52: INFO - filename SpeedManagementPlanRCAZoneReference
+15/09/2021 - 16:48:52: INFO - filename LegalInstrument
+15/09/2021 - 16:48:52: INFO - filename SpeedLimitZoneCorrection
+15/09/2021 - 16:48:52: INFO - filename SpeedLimitZoneJustification
+15/09/2021 - 16:48:52: INFO - filename LegalInstrumentSupportingText
+15/09/2021 - 16:48:53: INFO - output data: [{"attributes": {"OBJECTID": 3603, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3604, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3605, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3606, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3607, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3608, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3609, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3610, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3611, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3612, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3613, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3614, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3615, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3616, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3617, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3618, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3619, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3620, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3621, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3622, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3623, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3624, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3625, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3626, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3627, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3628, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3629, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3630, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3631, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3632, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3633, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3634, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3635, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3636, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3637, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3638, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3639, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3640, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3641, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3642, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3643, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3644, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3645, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3646, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3647, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3648, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3649, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3650, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3651, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3652, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3653, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3654, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3655, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3656, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3657, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3658, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3659, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3660, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3661, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3662, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3663, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3664, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3665, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3666, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3667, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3668, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3669, "rcaZoneReferenceId": "{E077253D-C1B2-4E69-A450-6FF57063862F}", "rcaZoneReferenceName": "State Highways"}}, {"attributes": {"OBJECTID": 3837, "rcaZoneReferenceId": "{109E9632-2D9C-46D0-B3A3-E646804E03F4}", "rcaZoneReferenceName": "Napier City"}}, {"attributes": {"OBJECTID": 3838, "rcaZoneReferenceId": "{BE573234-2728-4FB9-856E-3D27E0A5FC01}", "rcaZoneReferenceName": "Waikato District"}}, {"attributes": {"OBJECTID": 3839, "rcaZoneReferenceId": "{ED327FBB-9D35-43C3-9BA7-8786B29FAA8C}", "rcaZoneReferenceName": "Hastings District"}}, {"attributes": {"OBJECTID": 3840, "rcaZoneReferenceId": "{A305F8C6-4282-4E5B-8BF8-BADF91A4F0B5}", "rcaZoneReferenceName": "Tauranga City"}}, {"attributes": {"OBJECTID": 3841, "rcaZoneReferenceId": "{5233D583-0FC0-4057-A1FB-BE4182FCC32C}", "rcaZoneReferenceName": "Opotiki District"}}, {"attributes": {"OBJECTID": 3842, "rcaZoneReferenceId": "{1A86C77B-B86F-457E-8BA1-2C9E43456029}", "rcaZoneReferenceName": "Rotorua District"}}, {"attributes": {"OBJECTID": 3843, "rcaZoneReferenceId": "{367443BC-D378-4D68-9EE2-08479A2CD745}", "rcaZoneReferenceName": "Nelson City"}}, {"attributes": {"OBJECTID": 3844, "rcaZoneReferenceId": "{AD4BC2DF-6E44-4A2D-BDBE-81DB46D729F3}", "rcaZoneReferenceName": "Taupo District"}}, {"attributes": {"OBJECTID": 3845, "rcaZoneReferenceId": "{D37075A7-5E96-4234-870A-7D32553897AE}", "rcaZoneReferenceName": "Waimakariri District"}}, {"attributes": {"OBJECTID": 3846, "rcaZoneReferenceId": "{917F684D-2F42-4E5D-8385-08F8A7931F8F}", "rcaZoneReferenceName": "Tararua District"}}, {"attributes": {"OBJECTID": 3847, "rcaZoneReferenceId": "{EC04647F-A6CF-41C6-9A2D-57E5DB8B8FA8}", "rcaZoneReferenceName": "Kaipara District"}}, {"attributes": {"OBJECTID": 3848, "rcaZoneReferenceId": "{A05B3173-84CB-4F6A-8D5D-CB59139B1118}", "rcaZoneReferenceName": "Horowhenua District"}}, {"attributes": {"OBJECTID": 3849, "rcaZoneReferenceId": "{46CD693B-D256-43A4-8F9C-EF86943AC127}", "rcaZoneReferenceName": "South Waikato District"}}, {"attributes": {"OBJECTID": 3850, "rcaZoneReferenceId": "{F9BA5331-6264-4196-8425-F933CC3B892F}", "rcaZoneReferenceName": "Queenstown-Lakes District"}}, {"attributes": {"OBJECTID": 3851, "rcaZoneReferenceId": "{46933642-E666-420A-8FDE-23DA298037D2}", "rcaZoneReferenceName": "Lower Hutt City"}}, {"attributes": {"OBJECTID": 3852, "rcaZoneReferenceId": "{887B9287-EC20-4B27-8664-2946262DDBCE}", "rcaZoneReferenceName": "Matamata-Piako District"}}, {"attributes": {"OBJECTID": 3853, "rcaZoneReferenceId": "{8B321301-EC83-4107-8170-1A0F7EA1F838}", "rcaZoneReferenceName": "Whanganui District"}}, {"attributes": {"OBJECTID": 3854, "rcaZoneReferenceId": "{21985B18-E222-4644-A004-28081EF25287}", "rcaZoneReferenceName": "Buller District"}}, {"attributes": {"OBJECTID": 3855, "rcaZoneReferenceId": "{11FE4A1F-4EC2-456D-B15D-E42DEBAEC218}", "rcaZoneReferenceName": "Central Otago District"}}, {"attributes": {"OBJECTID": 3856, "rcaZoneReferenceId": "{19B09BBD-1B3D-4CF5-860A-1E9862C749B9}", "rcaZoneReferenceName": "South Wairarapa District"}}, {"attributes": {"OBJECTID": 3857, "rcaZoneReferenceId": "{10B5FAA6-6798-4FED-8547-D18BE0E56EEA}", "rcaZoneReferenceName": "Central Hawke's Bay District"}}, {"attributes": {"OBJECTID": 3858, "rcaZoneReferenceId": "{4283DC99-F802-4DA2-964A-6B51D9897801}", "rcaZoneReferenceName": "New Plymouth District"}}, {"attributes": {"OBJECTID": 3859, "rcaZoneReferenceId": "{FC524F84-5849-4681-BF10-69F263528C81}", "rcaZoneReferenceName": "Kawerau District"}}, {"attributes": {"OBJECTID": 3860, "rcaZoneReferenceId": "{A7D69209-4E96-42F7-9E10-6ABDFAF55F0D}", "rcaZoneReferenceName": "Thames-Coromandel District"}}, {"attributes": {"OBJECTID": 3861, "rcaZoneReferenceId": "{3510C27D-B5D9-4B11-BFF4-3D778F59B8EC}", "rcaZoneReferenceName": "Ruapehu District"}}, {"attributes": {"OBJECTID": 3862, "rcaZoneReferenceId": "{FAEA7EA9-6691-4CE4-A79D-445CCCAF88B0}", "rcaZoneReferenceName": "Waitomo District"}}, {"attributes": {"OBJECTID": 3863, "rcaZoneReferenceId": "{C22C601B-A8FA-4490-928D-6616A1F7C412}", "rcaZoneReferenceName": "Kapiti Coast District"}}, {"attributes": {"OBJECTID": 3864, "rcaZoneReferenceId": "{9E0ABC08-C6B6-4AA2-B1B4-900A7326ADA2}", "rcaZoneReferenceName": "Hamilton City"}}, {"attributes": {"OBJECTID": 3865, "rcaZoneReferenceId": "{DAA55F56-B251-4CE2-B855-47CB72CC1F86}", "rcaZoneReferenceName": "Whangarei District"}}, {"attributes": {"OBJECTID": 3866, "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "rcaZoneReferenceName": "Carterton District"}}, {"attributes": {"OBJECTID": 3867, "rcaZoneReferenceId": "{964B0F02-2A78-4283-A5E4-323408D45AAB}", "rcaZoneReferenceName": "Gore District"}}, {"attributes": {"OBJECTID": 3868, "rcaZoneReferenceId": "{C269044C-8745-4CF4-93D3-78FA14F19BFA}", "rcaZoneReferenceName": "Waipa District"}}, {"attributes": {"OBJECTID": 3869, "rcaZoneReferenceId": "{5A0DC57A-7725-4B71-B3D9-8512BB8F5D05}", "rcaZoneReferenceName": "Hauraki District"}}, {"attributes": {"OBJECTID": 3870, "rcaZoneReferenceId": "{A274B844-064D-406D-B750-6C18B5B1544D}", "rcaZoneReferenceName": "Kaikoura District"}}, {"attributes": {"OBJECTID": 3871, "rcaZoneReferenceId": "{2EE4864F-FE5A-4992-9292-82A660F5CC26}", "rcaZoneReferenceName": "Grey District"}}, {"attributes": {"OBJECTID": 3872, "rcaZoneReferenceId": "{0021FD81-2F38-4E7C-9AB1-5FB8C5049F71}", "rcaZoneReferenceName": "Christchurch City"}}, {"attributes": {"OBJECTID": 3873, "rcaZoneReferenceId": "{E9F0156B-10BE-45FA-8F90-0A199C6B1888}", "rcaZoneReferenceName": "Invercargill City"}}, {"attributes": {"OBJECTID": 3874, "rcaZoneReferenceId": "{285D2792-D61F-44FD-B5E0-38F26ECEE93F}", "rcaZoneReferenceName": "Dunedin City"}}, {"attributes": {"OBJECTID": 3875, "rcaZoneReferenceId": "{014F5E38-C4B6-40A7-8BD9-E639A96A67F5}", "rcaZoneReferenceName": "Marlborough District"}}, {"attributes": {"OBJECTID": 3876, "rcaZoneReferenceId": "{60CE0F6F-BE6D-437E-BA6A-5977DACAE374}", "rcaZoneReferenceName": "Porirua City"}}, {"attributes": {"OBJECTID": 3877, "rcaZoneReferenceId": "{AADE6D88-2221-424E-ABB5-F9586548F6B6}", "rcaZoneReferenceName": "Selwyn District"}}, {"attributes": {"OBJECTID": 3878, "rcaZoneReferenceId": "{91ACF343-007B-41DB-B1AC-A524F572140D}", "rcaZoneReferenceName": "Wellington City"}}, {"attributes": {"OBJECTID": 3879, "rcaZoneReferenceId": "{1B5092B0-D7FA-4218-AA02-7C0F2987DFF8}", "rcaZoneReferenceName": "South Taranaki District"}}, {"attributes": {"OBJECTID": 3880, "rcaZoneReferenceId": "{8BB84376-A44D-4E0C-9134-9BFF5A83C598}", "rcaZoneReferenceName": "Waitaki District"}}, {"attributes": {"OBJECTID": 3881, "rcaZoneReferenceId": "{B5A93A40-274C-47C2-BC90-D544F1C2662C}", "rcaZoneReferenceName": "Western Bay of Plenty District"}}, {"attributes": {"OBJECTID": 3882, "rcaZoneReferenceId": "{DBB9740A-9DB2-4785-882F-FD324C07F2DE}", "rcaZoneReferenceName": "Ashburton District"}}, {"attributes": {"OBJECTID": 3883, "rcaZoneReferenceId": "{ADF15786-51E0-4F4E-8AA7-E9604F6B3A6B}", "rcaZoneReferenceName": "Chatham Islands Territory"}}, {"attributes": {"OBJECTID": 3884, "rcaZoneReferenceId": "{D7BDBC9B-A1A2-4664-B8A5-593C667232EF}", "rcaZoneReferenceName": "Auckland"}}, {"attributes": {"OBJECTID": 3885, "rcaZoneReferenceId": "{84F5AAF7-BF8F-4FA2-9FAE-A1DCA018551E}", "rcaZoneReferenceName": "Clutha District"}}, {"attributes": {"OBJECTID": 3886, "rcaZoneReferenceId": "{974FDAD0-844A-414C-B282-9B2978B94B45}", "rcaZoneReferenceName": "Rangitikei District"}}, {"attributes": {"OBJECTID": 3887, "rcaZoneReferenceId": "{C096336D-E465-4530-B139-C033D1996FA9}", "rcaZoneReferenceName": "Southland District"}}, {"attributes": {"OBJECTID": 3888, "rcaZoneReferenceId": "{38394666-A08A-40B3-B0ED-CFED6D3D034C}", "rcaZoneReferenceName": "Stratford District"}}, {"attributes": {"OBJECTID": 3889, "rcaZoneReferenceId": "{BCE39ED7-4BB9-46CD-9155-5BB0EAF97A4A}", "rcaZoneReferenceName": "Gisborne District"}}, {"attributes": {"OBJECTID": 3890, "rcaZoneReferenceId": "{9206C649-D222-4E60-B625-27AD610E52EA}", "rcaZoneReferenceName": "Masterton District"}}, {"attributes": {"OBJECTID": 3891, "rcaZoneReferenceId": "{4A584D7E-6F0F-4876-BE68-A9740F39CF66}", "rcaZoneReferenceName": "Hurunui District"}}, {"attributes": {"OBJECTID": 3892, "rcaZoneReferenceId": "{EE8C13B5-5A1C-4245-A91E-ECDBC5AF39C1}", "rcaZoneReferenceName": "Tasman District"}}, {"attributes": {"OBJECTID": 3893, "rcaZoneReferenceId": "{3DD36CDE-E0D3-4BC1-9DF7-5E5D3CD85421}", "rcaZoneReferenceName": "Manawatu District"}}, {"attributes": {"OBJECTID": 3894, "rcaZoneReferenceId": "{0FE25238-6D29-45C9-B786-8B6AAD16F264}", "rcaZoneReferenceName": "Far North District"}}, {"attributes": {"OBJECTID": 3895, "rcaZoneReferenceId": "{E4C7A308-C348-469E-99CB-FDB10427F2E1}", "rcaZoneReferenceName": "Otorohanga District"}}, {"attributes": {"OBJECTID": 3896, "rcaZoneReferenceId": "{C02F4203-DE38-407E-B55D-856890D54A90}", "rcaZoneReferenceName": "Palmerston North City"}}, {"attributes": {"OBJECTID": 3897, "rcaZoneReferenceId": "{F5D7DE8B-18F3-430D-9541-D05905208AE0}", "rcaZoneReferenceName": "Upper Hutt City"}}, {"attributes": {"OBJECTID": 3898, "rcaZoneReferenceId": "{9D384747-A6BD-4311-9F96-C963A32D6B64}", "rcaZoneReferenceName": "Waimate District"}}, {"attributes": {"OBJECTID": 3899, "rcaZoneReferenceId": "{DC332E48-1F1E-4130-84A8-02B97E273822}", "rcaZoneReferenceName": "Wairoa District"}}, {"attributes": {"OBJECTID": 3900, "rcaZoneReferenceId": "{9D212186-36DD-49F9-B585-376CCECB785E}", "rcaZoneReferenceName": "Westland District"}}, {"attributes": {"OBJECTID": 3901, "rcaZoneReferenceId": "{2401D8F0-5327-49C3-A0E6-BA0628A169BC}", "rcaZoneReferenceName": "Mackenzie District"}}, {"attributes": {"OBJECTID": 3902, "rcaZoneReferenceId": "{250A120E-4421-43C3-ACBB-831EB923B58D}", "rcaZoneReferenceName": "Whakatane District"}}, {"attributes": {"OBJECTID": 3903, "rcaZoneReferenceId": "{9598C564-BDCC-4353-9E8B-CAE76D125748}", "rcaZoneReferenceName": "Timaru District"}}]
+17/09/2021 - 17:47:16: INFO - Process started...
+17/09/2021 - 17:47:16: INFO - input file: C:\projects\gp\data\templateYZ.gdb.zip
+17/09/2021 - 17:47:16: INFO - Zip Folder C:\Users\yxz\AppData\Local\Temp\scratch\b6e6adf8-177a-11ec-8d73-342eb7df08df
+17/09/2021 - 17:47:16: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\b6e6adf8-177a-11ec-8d73-342eb7df08df\templateYZ.gdb\SpeedLimitZoneGeometryDraft
+17/09/2021 - 17:47:16: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\b6e6adf8-177a-11ec-8d73-342eb7df08df\templateYZ.gdb\SpeedLimitZone
+17/09/2021 - 17:47:16: INFO - Generating output json ...
+17/09/2021 - 17:47:16: ERROR - No output is generated
+17/09/2021 - 17:57:11: INFO - Process started...
+17/09/2021 - 17:57:11: INFO - input file: C:\projects\gp\data\templateYZ.gdb.zip
+17/09/2021 - 17:57:11: INFO - Zip Folder C:\Users\yxz\AppData\Local\Temp\scratch\19a2f8cc-177c-11ec-a039-342eb7df08df
+17/09/2021 - 17:57:11: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\19a2f8cc-177c-11ec-a039-342eb7df08df\templateYZ.gdb\SpeedLimitZoneGeometryDraft
+17/09/2021 - 17:57:11: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\19a2f8cc-177c-11ec-a039-342eb7df08df\templateYZ.gdb\SpeedLimitZone
+17/09/2021 - 17:57:11: INFO - Generating output json ...
+17/09/2021 - 17:57:11: INFO - reading geometry draft features
+17/09/2021 - 17:57:11: INFO - total draft geometries: 6
+17/09/2021 - 17:57:11: INFO - speedLimitZoneId: {10A35377-2569-4500-A57A-F462D41DE938}
+17/09/2021 - 17:57:11: ERROR - No output is generated
+17/09/2021 - 17:57:45: INFO - Process started...
+17/09/2021 - 17:57:45: INFO - input file: C:\projects\gp\data\templateYZ.gdb.zip
+17/09/2021 - 17:57:45: INFO - Zip Folder C:\Users\yxz\AppData\Local\Temp\scratch\2dd79566-177c-11ec-af30-342eb7df08df
+17/09/2021 - 17:57:45: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\2dd79566-177c-11ec-af30-342eb7df08df\templateYZ.gdb\SpeedLimitZoneGeometryDraft
+17/09/2021 - 17:57:45: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\2dd79566-177c-11ec-af30-342eb7df08df\templateYZ.gdb\SpeedLimitZone
+17/09/2021 - 17:57:45: INFO - Generating output json ...
+17/09/2021 - 17:57:45: INFO - reading geometry draft features
+17/09/2021 - 17:57:45: INFO - total draft geometries: 6
+17/09/2021 - 17:57:45: INFO - speedLimitZoneId: {10A35377-2569-4500-A57A-F462D41DE938}
+17/09/2021 - 17:57:45: INFO - speedLimitZoneId: {9E60D58A-01BF-4E2B-A642-9BDD5236B8CB}
+17/09/2021 - 17:57:45: INFO - speedLimitZoneId: {AF6ADC89-476B-43CC-B626-AD159EB01DE8}
+17/09/2021 - 17:57:45: INFO - speedLimitZoneId: {D1223385-3C2E-46EC-8814-0480056B703B}
+17/09/2021 - 17:57:45: INFO - speedLimitZoneId: {A427BEE8-6834-4BFE-8E11-E32BDF465E3E}
+17/09/2021 - 17:57:45: INFO - speedLimitZoneId: {67C43EF4-8919-4B8A-B303-321B46236112}
+17/09/2021 - 17:57:45: ERROR - No output is generated
+17/09/2021 - 18:00:05: INFO - Process started...
+17/09/2021 - 18:00:05: INFO - input file: C:\projects\gp\data\templateYZ.gdb.zip
+17/09/2021 - 18:00:05: INFO - Zip Folder C:\Users\yxz\AppData\Local\Temp\scratch\8160f4c6-177c-11ec-b810-342eb7df08df
+17/09/2021 - 18:00:05: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\8160f4c6-177c-11ec-b810-342eb7df08df\templateYZ.gdb\SpeedLimitZoneGeometryDraft
+17/09/2021 - 18:00:05: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\8160f4c6-177c-11ec-b810-342eb7df08df\templateYZ.gdb\SpeedLimitZone
+17/09/2021 - 18:00:05: INFO - Generating output json ...
+17/09/2021 - 18:00:05: INFO - reading geometry draft features
+17/09/2021 - 18:00:06: INFO - total draft geometries: 6
+17/09/2021 - 18:00:06: INFO - speedLimitZoneId: {10A35377-2569-4500-A57A-F462D41DE938}
+17/09/2021 - 18:00:06: INFO - start date: 2021-09-17 12:00:00
+17/09/2021 - 18:00:06: INFO - end date: None
+17/09/2021 - 18:00:06: INFO - speedLimitZoneId: {9E60D58A-01BF-4E2B-A642-9BDD5236B8CB}
+17/09/2021 - 18:00:06: INFO - start date: 2021-09-17 12:00:00
+17/09/2021 - 18:00:06: INFO - end date: None
+17/09/2021 - 18:00:06: INFO - speedLimitZoneId: {AF6ADC89-476B-43CC-B626-AD159EB01DE8}
+17/09/2021 - 18:00:06: INFO - start date: 2021-09-17 12:00:00
+17/09/2021 - 18:00:06: INFO - end date: None
+17/09/2021 - 18:00:06: INFO - speedLimitZoneId: {D1223385-3C2E-46EC-8814-0480056B703B}
+17/09/2021 - 18:00:06: INFO - start date: 2021-09-17 12:00:00
+17/09/2021 - 18:00:06: INFO - end date: None
+17/09/2021 - 18:00:06: INFO - speedLimitZoneId: {A427BEE8-6834-4BFE-8E11-E32BDF465E3E}
+17/09/2021 - 18:00:06: INFO - start date: 2021-09-17 12:00:00
+17/09/2021 - 18:00:06: INFO - end date: None
+17/09/2021 - 18:00:06: INFO - speedLimitZoneId: {67C43EF4-8919-4B8A-B303-321B46236112}
+17/09/2021 - 18:00:06: INFO - start date: 2021-09-17 12:00:00
+17/09/2021 - 18:00:06: INFO - end date: None
+17/09/2021 - 18:00:06: ERROR - No output is generated
+17/09/2021 - 18:05:39: INFO - Process started...
+17/09/2021 - 18:05:39: INFO - input file: C:\projects\gp\data\templateYZ.gdb.zip
+17/09/2021 - 18:05:39: INFO - Zip Folder C:\Users\yxz\AppData\Local\Temp\scratch\48b6805c-177d-11ec-844c-342eb7df08df
+17/09/2021 - 18:05:40: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\48b6805c-177d-11ec-844c-342eb7df08df\templateYZ.gdb\SpeedLimitZoneGeometryDraft
+17/09/2021 - 18:05:40: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\48b6805c-177d-11ec-844c-342eb7df08df\templateYZ.gdb\SpeedLimitZone
+17/09/2021 - 18:05:40: INFO - Generating output json ...
+17/09/2021 - 18:05:40: INFO - reading geometry draft features
+17/09/2021 - 18:05:40: INFO - total draft geometries: 6
+17/09/2021 - 18:05:40: INFO - speedLimitZoneId: {10A35377-2569-4500-A57A-F462D41DE938}
+17/09/2021 - 18:05:40: INFO - start date: 2021-09-17 12:00:00
+17/09/2021 - 18:05:40: INFO - end date: None
+17/09/2021 - 18:05:40: INFO - speedLimitZoneId: {9E60D58A-01BF-4E2B-A642-9BDD5236B8CB}
+17/09/2021 - 18:05:40: INFO - start date: 2021-09-17 12:00:00
+17/09/2021 - 18:05:40: INFO - end date: None
+17/09/2021 - 18:05:40: INFO - speedLimitZoneId: {AF6ADC89-476B-43CC-B626-AD159EB01DE8}
+17/09/2021 - 18:05:40: INFO - start date: 2021-09-17 12:00:00
+17/09/2021 - 18:05:40: INFO - end date: None
+17/09/2021 - 18:05:40: INFO - speedLimitZoneId: {D1223385-3C2E-46EC-8814-0480056B703B}
+17/09/2021 - 18:05:40: INFO - start date: 2021-09-17 12:00:00
+17/09/2021 - 18:05:40: INFO - end date: None
+17/09/2021 - 18:05:40: INFO - speedLimitZoneId: {A427BEE8-6834-4BFE-8E11-E32BDF465E3E}
+17/09/2021 - 18:05:40: INFO - start date: 2021-09-17 12:00:00
+17/09/2021 - 18:05:40: INFO - end date: None
+17/09/2021 - 18:05:40: INFO - speedLimitZoneId: {67C43EF4-8919-4B8A-B303-321B46236112}
+17/09/2021 - 18:05:40: INFO - start date: 2021-09-17 12:00:00
+17/09/2021 - 18:05:40: INFO - end date: None
+17/09/2021 - 18:05:40: ERROR - No output is generated
+17/09/2021 - 18:06:55: INFO - Process started...
+17/09/2021 - 18:06:55: INFO - input file: C:\projects\gp\data\templateYZ.gdb.zip
+17/09/2021 - 18:06:55: INFO - Zip Folder C:\Users\yxz\AppData\Local\Temp\scratch\760264be-177d-11ec-903a-342eb7df08df
+17/09/2021 - 18:06:56: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\760264be-177d-11ec-903a-342eb7df08df\templateYZ.gdb\SpeedLimitZoneGeometryDraft
+17/09/2021 - 18:06:56: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\760264be-177d-11ec-903a-342eb7df08df\templateYZ.gdb\SpeedLimitZone
+17/09/2021 - 18:06:56: INFO - Generating output json ...
+17/09/2021 - 18:06:56: INFO - reading geometry draft features
+17/09/2021 - 18:06:56: INFO - total draft geometries: 6
+17/09/2021 - 18:06:56: INFO - speedLimitZoneId: {10A35377-2569-4500-A57A-F462D41DE938}
+17/09/2021 - 18:06:56: INFO - start date: 2021-09-17 12:00:00
+17/09/2021 - 18:06:56: INFO - speedLimitZoneId: {9E60D58A-01BF-4E2B-A642-9BDD5236B8CB}
+17/09/2021 - 18:06:56: INFO - start date: 2021-09-17 12:00:00
+17/09/2021 - 18:06:56: INFO - speedLimitZoneId: {AF6ADC89-476B-43CC-B626-AD159EB01DE8}
+17/09/2021 - 18:06:56: INFO - start date: 2021-09-17 12:00:00
+17/09/2021 - 18:06:56: INFO - speedLimitZoneId: {D1223385-3C2E-46EC-8814-0480056B703B}
+17/09/2021 - 18:06:56: INFO - start date: 2021-09-17 12:00:00
+17/09/2021 - 18:06:56: INFO - speedLimitZoneId: {A427BEE8-6834-4BFE-8E11-E32BDF465E3E}
+17/09/2021 - 18:06:56: INFO - start date: 2021-09-17 12:00:00
+17/09/2021 - 18:06:56: INFO - speedLimitZoneId: {67C43EF4-8919-4B8A-B303-321B46236112}
+17/09/2021 - 18:06:56: INFO - start date: 2021-09-17 12:00:00
+17/09/2021 - 18:06:56: ERROR - No output is generated
+17/09/2021 - 18:12:02: INFO - Process started...
+17/09/2021 - 18:12:02: INFO - input file: C:\projects\gp\data\templateYZ.gdb.zip
+17/09/2021 - 18:12:02: INFO - Zip Folder C:\Users\yxz\AppData\Local\Temp\scratch\2c806424-177e-11ec-8391-342eb7df08df
+17/09/2021 - 18:12:02: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\2c806424-177e-11ec-8391-342eb7df08df\templateYZ.gdb\SpeedLimitZoneGeometryDraft
+17/09/2021 - 18:12:02: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\2c806424-177e-11ec-8391-342eb7df08df\templateYZ.gdb\SpeedLimitZone
+17/09/2021 - 18:12:02: INFO - Generating output json ...
+17/09/2021 - 18:12:02: INFO - reading geometry draft features
+17/09/2021 - 18:12:02: INFO - total draft geometries: 6
+17/09/2021 - 18:12:02: INFO - speedLimitZoneId: {10A35377-2569-4500-A57A-F462D41DE938}
+17/09/2021 - 18:12:02: INFO - start date: 2021-09-17 12:00:00
+17/09/2021 - 18:12:02: INFO - speedLimitZoneId: {9E60D58A-01BF-4E2B-A642-9BDD5236B8CB}
+17/09/2021 - 18:12:02: INFO - start date: 2021-09-17 12:00:00
+17/09/2021 - 18:12:02: INFO - speedLimitZoneId: {AF6ADC89-476B-43CC-B626-AD159EB01DE8}
+17/09/2021 - 18:12:02: INFO - start date: 2021-09-17 12:00:00
+17/09/2021 - 18:12:02: INFO - speedLimitZoneId: {D1223385-3C2E-46EC-8814-0480056B703B}
+17/09/2021 - 18:12:02: INFO - start date: 2021-09-17 12:00:00
+17/09/2021 - 18:12:02: INFO - speedLimitZoneId: {A427BEE8-6834-4BFE-8E11-E32BDF465E3E}
+17/09/2021 - 18:12:02: INFO - start date: 2021-09-17 12:00:00
+17/09/2021 - 18:12:02: INFO - speedLimitZoneId: {67C43EF4-8919-4B8A-B303-321B46236112}
+17/09/2021 - 18:12:02: INFO - start date: 2021-09-17 12:00:00
+17/09/2021 - 18:12:02: INFO - output data: [{"attributes": {"OBJECTID": 1, "speedLimitZoneId": "{10A35377-2569-4500-A57A-F462D41DE938}", "rcaZoneReferenceId": "{DBB9740A-9DB2-4785-882F-FD324C07F2DE}", "speedLimitZoneName": "Overlap Test", "speedCategoryId": 1001, "speedValueTypeId": 1005, "speedLimitZoneStartDate": "2021-09-17 12:00:00"}, "geometry": "{\"rings\":[[[1442807.4052999998,5209716.0887000002],[1440151.2186000003,5210490.0136000002],[1440198.9917000001,5210843.5349000003],[1442893.3969999999,5210040.9461000003],[1442807.4052999998,5209716.0887000002]]],\"spatialReference\":{\"wkid\":2193,\"latestWkid\":2193}}"}, {"attributes": {"OBJECTID": 2, "speedLimitZoneId": "{9E60D58A-01BF-4E2B-A642-9BDD5236B8CB}", "rcaZoneReferenceId": "{AADE6D88-2221-424E-ABB5-F9586548F6B6}", "speedLimitZoneName": "Variable Selywn", "speedCategoryId": 1002, "speedValueTypeId": 1005, "speedLimitZoneStartDate": "2021-09-17 12:00:00"}, "geometry": "{\"rings\":[[[1511863.4830999998,5249711.7637],[1510028.9944000002,5250074.8395999996],[1512150.1218999997,5256113.3649000004],[1513812.6272999998,5255826.7259999998],[1511863.4830999998,5249711.7637]]],\"spatialReference\":{\"wkid\":2193,\"latestWkid\":2193}}"}, {"attributes": {"OBJECTID": 3, "speedLimitZoneId": "{AF6ADC89-476B-43CC-B626-AD159EB01DE8}", "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedLimitZoneName": "GSC Test", "speedCategoryId": 1001, "speedValueTypeId": 1005, "speedLimitZoneStartDate": "2021-09-17 12:00:00"}, "geometry": "{\"rings\":[[[1809520.7785999998,5443908.7933],[1808976.1648000004,5444128.5497000003],[1809195.9212999996,5444998.0208999999],[1809721.4258000003,5445313.3236999996],[1810438.023,5444654.0543],[1809520.7785999998,5443908.7933]]],\"spatialReference\":{\"wkid\":2193,\"latestWkid\":2193}}"}, {"attributes": {"OBJECTID": 4, "speedLimitZoneId": "{D1223385-3C2E-46EC-8814-0480056B703B}", "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedLimitZoneName": "GSC Test", "speedCategoryId": 1001, "speedValueTypeId": 1007, "speedLimitZoneStartDate": "2021-09-17 12:00:00"}, "geometry": "{\"rings\":[[[1810316.6372999996,5443646.8364000004],[1809874.7687999997,5444196.4102999996],[1810438.023,5444654.0543],[1810045.2045,5445015.4473000001],[1810431.2928999998,5445342.7829999998],[1811338.9825999998,5444487.6436999999],[1810316.6372999996,5443646.8364000004]]],\"spatialReference\":{\"wkid\":2193,\"latestWkid\":2193}}"}, {"attributes": {"OBJECTID": 5, "speedLimitZoneId": "{A427BEE8-6834-4BFE-8E11-E32BDF465E3E}", "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedLimitZoneName": "GSC Test", "speedCategoryId": 1001, "speedValueTypeId": 1005, "speedLimitZoneStartDate": "2021-09-17 12:00:00"}, "geometry": "{\"rings\":[[[1810731.0859000003,5444709.7888000002],[1810339.3460999997,5445082.4194],[1810946.0650000004,5445517.1550000003],[1811347.3594000004,5445201.8521999996],[1810731.0859000003,5444709.7888000002]]],\"spatialReference\":{\"wkid\":2193,\"latestWkid\":2193}}"}, {"attributes": {"OBJECTID": 6, "speedLimitZoneId": "{67C43EF4-8919-4B8A-B303-321B46236112}", "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedLimitZoneName": "Sub Test", "speedCategoryId": 1001, "speedValueTypeId": 1007, "speedLimitZoneStartDate": "2021-09-17 12:00:00"}, "geometry": "{\"rings\":[[[1810309.7588,5443761.2419999996],[1809913.5206000004,5444227.8960999995],[1810438.023,5444654.0543],[1810040.6341000004,5445019.6519999998],[1810508.0174000002,5445309.0917999996],[1811327.3267999999,5444582.9400000004],[1810309.7588,5443761.2419999996]]],\"spatialReference\":{\"wkid\":2193,\"latestWkid\":2193}}"}]
+17/09/2021 - 18:17:04: INFO - Process started...
+17/09/2021 - 18:17:04: INFO - input file: C:\projects\gp\data\templateYZ.gdb.zip
+17/09/2021 - 18:17:04: INFO - Zip Folder C:\Users\yxz\AppData\Local\Temp\scratch\e0da2b40-177e-11ec-9835-342eb7df08df
+17/09/2021 - 18:17:05: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\e0da2b40-177e-11ec-9835-342eb7df08df\templateYZ.gdb\SpeedLimitZoneGeometryDraft
+17/09/2021 - 18:17:05: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\e0da2b40-177e-11ec-9835-342eb7df08df\templateYZ.gdb\SpeedLimitZone
+17/09/2021 - 18:17:05: INFO - Generating output json ...
+17/09/2021 - 18:17:05: INFO - reading geometry draft features
+17/09/2021 - 18:17:05: INFO - total draft geometries: 6
+17/09/2021 - 18:17:05: INFO - speedLimitZoneId: {10A35377-2569-4500-A57A-F462D41DE938}
+17/09/2021 - 18:17:05: INFO - start date: 2021-09-17 12:00:00
+17/09/2021 - 18:17:05: INFO - speedLimitZoneId: {9E60D58A-01BF-4E2B-A642-9BDD5236B8CB}
+17/09/2021 - 18:17:05: INFO - start date: 2021-09-17 12:00:00
+17/09/2021 - 18:17:05: INFO - speedLimitZoneId: {AF6ADC89-476B-43CC-B626-AD159EB01DE8}
+17/09/2021 - 18:17:05: INFO - start date: 2021-09-17 12:00:00
+17/09/2021 - 18:17:05: INFO - speedLimitZoneId: {D1223385-3C2E-46EC-8814-0480056B703B}
+17/09/2021 - 18:17:05: INFO - start date: 2021-09-17 12:00:00
+17/09/2021 - 18:17:05: INFO - speedLimitZoneId: {A427BEE8-6834-4BFE-8E11-E32BDF465E3E}
+17/09/2021 - 18:17:05: INFO - start date: 2021-09-17 12:00:00
+17/09/2021 - 18:17:05: INFO - speedLimitZoneId: {67C43EF4-8919-4B8A-B303-321B46236112}
+17/09/2021 - 18:17:05: INFO - start date: 2021-09-17 12:00:00
+17/09/2021 - 18:17:05: INFO - output data: [{"attributes": {"OBJECTID": 1, "speedLimitZoneId": "{10A35377-2569-4500-A57A-F462D41DE938}", "rcaZoneReferenceId": "{DBB9740A-9DB2-4785-882F-FD324C07F2DE}", "speedLimitZoneName": "Overlap Test", "speedCategoryId": 1001, "speedValueTypeId": 1005, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null}, "geometry": "{\"rings\":[[[1442807.4052999998,5209716.0887000002],[1440151.2186000003,5210490.0136000002],[1440198.9917000001,5210843.5349000003],[1442893.3969999999,5210040.9461000003],[1442807.4052999998,5209716.0887000002]]],\"spatialReference\":{\"wkid\":2193,\"latestWkid\":2193}}"}, {"attributes": {"OBJECTID": 2, "speedLimitZoneId": "{9E60D58A-01BF-4E2B-A642-9BDD5236B8CB}", "rcaZoneReferenceId": "{AADE6D88-2221-424E-ABB5-F9586548F6B6}", "speedLimitZoneName": "Variable Selywn", "speedCategoryId": 1002, "speedValueTypeId": 1005, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null}, "geometry": "{\"rings\":[[[1511863.4830999998,5249711.7637],[1510028.9944000002,5250074.8395999996],[1512150.1218999997,5256113.3649000004],[1513812.6272999998,5255826.7259999998],[1511863.4830999998,5249711.7637]]],\"spatialReference\":{\"wkid\":2193,\"latestWkid\":2193}}"}, {"attributes": {"OBJECTID": 3, "speedLimitZoneId": "{AF6ADC89-476B-43CC-B626-AD159EB01DE8}", "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedLimitZoneName": "GSC Test", "speedCategoryId": 1001, "speedValueTypeId": 1005, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null}, "geometry": "{\"rings\":[[[1809520.7785999998,5443908.7933],[1808976.1648000004,5444128.5497000003],[1809195.9212999996,5444998.0208999999],[1809721.4258000003,5445313.3236999996],[1810438.023,5444654.0543],[1809520.7785999998,5443908.7933]]],\"spatialReference\":{\"wkid\":2193,\"latestWkid\":2193}}"}, {"attributes": {"OBJECTID": 4, "speedLimitZoneId": "{D1223385-3C2E-46EC-8814-0480056B703B}", "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedLimitZoneName": "GSC Test", "speedCategoryId": 1001, "speedValueTypeId": 1007, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null}, "geometry": "{\"rings\":[[[1810316.6372999996,5443646.8364000004],[1809874.7687999997,5444196.4102999996],[1810438.023,5444654.0543],[1810045.2045,5445015.4473000001],[1810431.2928999998,5445342.7829999998],[1811338.9825999998,5444487.6436999999],[1810316.6372999996,5443646.8364000004]]],\"spatialReference\":{\"wkid\":2193,\"latestWkid\":2193}}"}, {"attributes": {"OBJECTID": 5, "speedLimitZoneId": "{A427BEE8-6834-4BFE-8E11-E32BDF465E3E}", "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedLimitZoneName": "GSC Test", "speedCategoryId": 1001, "speedValueTypeId": 1005, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null}, "geometry": "{\"rings\":[[[1810731.0859000003,5444709.7888000002],[1810339.3460999997,5445082.4194],[1810946.0650000004,5445517.1550000003],[1811347.3594000004,5445201.8521999996],[1810731.0859000003,5444709.7888000002]]],\"spatialReference\":{\"wkid\":2193,\"latestWkid\":2193}}"}, {"attributes": {"OBJECTID": 6, "speedLimitZoneId": "{67C43EF4-8919-4B8A-B303-321B46236112}", "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedLimitZoneName": "Sub Test", "speedCategoryId": 1001, "speedValueTypeId": 1007, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null}, "geometry": "{\"rings\":[[[1810309.7588,5443761.2419999996],[1809913.5206000004,5444227.8960999995],[1810438.023,5444654.0543],[1810040.6341000004,5445019.6519999998],[1810508.0174000002,5445309.0917999996],[1811327.3267999999,5444582.9400000004],[1810309.7588,5443761.2419999996]]],\"spatialReference\":{\"wkid\":2193,\"latestWkid\":2193}}"}]
+19/09/2021 - 15:01:28: INFO - Process started...
+19/09/2021 - 15:01:28: INFO - input file: C:\projects\gp\data\templateYZ.gdb.zip
+19/09/2021 - 15:01:28: INFO - Zip Folder C:\Users\yxz\AppData\Local\Temp\scratch\e2990a6e-18f5-11ec-99bb-342eb7df08df
+19/09/2021 - 15:01:29: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\e2990a6e-18f5-11ec-99bb-342eb7df08df\templateYZ.gdb\SpeedLimitZoneGeometryDraft
+19/09/2021 - 15:01:29: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\e2990a6e-18f5-11ec-99bb-342eb7df08df\templateYZ.gdb\SpeedLimitZone
+19/09/2021 - 15:01:29: INFO - Generating output json ...
+19/09/2021 - 15:01:29: INFO - reading geometry draft features
+19/09/2021 - 15:01:29: INFO - total draft geometries: 6
+19/09/2021 - 15:01:29: INFO - process speedLimitZoneId: {10A35377-2569-4500-A57A-F462D41DE938}
+19/09/2021 - 15:01:29: INFO - process speedLimitZoneId: {9E60D58A-01BF-4E2B-A642-9BDD5236B8CB}
+19/09/2021 - 15:01:29: INFO - process speedLimitZoneId: {AF6ADC89-476B-43CC-B626-AD159EB01DE8}
+19/09/2021 - 15:01:29: INFO - process speedLimitZoneId: {D1223385-3C2E-46EC-8814-0480056B703B}
+19/09/2021 - 15:01:29: INFO - process speedLimitZoneId: {A427BEE8-6834-4BFE-8E11-E32BDF465E3E}
+19/09/2021 - 15:01:29: INFO - process speedLimitZoneId: {67C43EF4-8919-4B8A-B303-321B46236112}
+19/09/2021 - 15:01:29: INFO - output data: [{"attributes": {"OBJECTID": 1, "speedLimitZoneId": "{10A35377-2569-4500-A57A-F462D41DE938}", "rcaZoneReferenceId": "{DBB9740A-9DB2-4785-882F-FD324C07F2DE}", "speedLimitZoneName": "Overlap Test", "speedCategoryId": 1001, "speedValueTypeId": 1005, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null}, "geometry": "{\"rings\":[[[1442807.4052999998,5209716.0887000002],[1440151.2186000003,5210490.0136000002],[1440198.9917000001,5210843.5349000003],[1442893.3969999999,5210040.9461000003],[1442807.4052999998,5209716.0887000002]]],\"spatialReference\":{\"wkid\":2193,\"latestWkid\":2193}}"}, {"attributes": {"OBJECTID": 2, "speedLimitZoneId": "{9E60D58A-01BF-4E2B-A642-9BDD5236B8CB}", "rcaZoneReferenceId": "{AADE6D88-2221-424E-ABB5-F9586548F6B6}", "speedLimitZoneName": "Variable Selywn", "speedCategoryId": 1002, "speedValueTypeId": 1005, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null}, "geometry": "{\"rings\":[[[1511863.4830999998,5249711.7637],[1510028.9944000002,5250074.8395999996],[1512150.1218999997,5256113.3649000004],[1513812.6272999998,5255826.7259999998],[1511863.4830999998,5249711.7637]]],\"spatialReference\":{\"wkid\":2193,\"latestWkid\":2193}}"}, {"attributes": {"OBJECTID": 3, "speedLimitZoneId": "{AF6ADC89-476B-43CC-B626-AD159EB01DE8}", "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedLimitZoneName": "GSC Test", "speedCategoryId": 1001, "speedValueTypeId": 1005, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null}, "geometry": "{\"rings\":[[[1809520.7785999998,5443908.7933],[1808976.1648000004,5444128.5497000003],[1809195.9212999996,5444998.0208999999],[1809721.4258000003,5445313.3236999996],[1810438.023,5444654.0543],[1809520.7785999998,5443908.7933]]],\"spatialReference\":{\"wkid\":2193,\"latestWkid\":2193}}"}, {"attributes": {"OBJECTID": 4, "speedLimitZoneId": "{D1223385-3C2E-46EC-8814-0480056B703B}", "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedLimitZoneName": "GSC Test", "speedCategoryId": 1001, "speedValueTypeId": 1007, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null}, "geometry": "{\"rings\":[[[1810316.6372999996,5443646.8364000004],[1809874.7687999997,5444196.4102999996],[1810438.023,5444654.0543],[1810045.2045,5445015.4473000001],[1810431.2928999998,5445342.7829999998],[1811338.9825999998,5444487.6436999999],[1810316.6372999996,5443646.8364000004]]],\"spatialReference\":{\"wkid\":2193,\"latestWkid\":2193}}"}, {"attributes": {"OBJECTID": 5, "speedLimitZoneId": "{A427BEE8-6834-4BFE-8E11-E32BDF465E3E}", "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedLimitZoneName": "GSC Test", "speedCategoryId": 1001, "speedValueTypeId": 1005, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null}, "geometry": "{\"rings\":[[[1810731.0859000003,5444709.7888000002],[1810339.3460999997,5445082.4194],[1810946.0650000004,5445517.1550000003],[1811347.3594000004,5445201.8521999996],[1810731.0859000003,5444709.7888000002]]],\"spatialReference\":{\"wkid\":2193,\"latestWkid\":2193}}"}, {"attributes": {"OBJECTID": 6, "speedLimitZoneId": "{67C43EF4-8919-4B8A-B303-321B46236112}", "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedLimitZoneName": "Sub Test", "speedCategoryId": 1001, "speedValueTypeId": 1007, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null}, "geometry": "{\"rings\":[[[1810309.7588,5443761.2419999996],[1809913.5206000004,5444227.8960999995],[1810438.023,5444654.0543],[1810040.6341000004,5445019.6519999998],[1810508.0174000002,5445309.0917999996],[1811327.3267999999,5444582.9400000004],[1810309.7588,5443761.2419999996]]],\"spatialReference\":{\"wkid\":2193,\"latestWkid\":2193}}"}]
+19/09/2021 - 15:14:05: INFO - Process started...
+19/09/2021 - 15:14:05: INFO - input file: 
+19/09/2021 - 15:14:05: ERROR - The input zip file is required
+19/09/2021 - 15:14:26: INFO - Process started...
+19/09/2021 - 15:14:26: INFO - input file: C:\projects\gp\data\templateYZ.gdb.zip
+19/09/2021 - 15:14:26: INFO - Zip Folder C:\Users\yxz\AppData\Local\Temp\scratch\b231f6f8-18f7-11ec-980e-342eb7df08df
+19/09/2021 - 15:14:27: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\b231f6f8-18f7-11ec-980e-342eb7df08df\templateYZ.gdb\SpeedLimitZoneGeometryDraft
+19/09/2021 - 15:14:27: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\b231f6f8-18f7-11ec-980e-342eb7df08df\templateYZ.gdb\SpeedLimitZone
+19/09/2021 - 15:14:27: INFO - Generating output json ...
+19/09/2021 - 15:14:27: INFO - reading geometry draft features ...
+19/09/2021 - 15:14:27: INFO - total draft geometries: 6
+19/09/2021 - 15:14:27: INFO - reading speed limit zone records ...
+19/09/2021 - 15:14:27: INFO - process speedLimitZoneId: {10A35377-2569-4500-A57A-F462D41DE938}
+19/09/2021 - 15:14:27: INFO - process speedLimitZoneId: {9E60D58A-01BF-4E2B-A642-9BDD5236B8CB}
+19/09/2021 - 15:14:27: INFO - process speedLimitZoneId: {AF6ADC89-476B-43CC-B626-AD159EB01DE8}
+19/09/2021 - 15:14:27: INFO - process speedLimitZoneId: {D1223385-3C2E-46EC-8814-0480056B703B}
+19/09/2021 - 15:14:27: INFO - process speedLimitZoneId: {A427BEE8-6834-4BFE-8E11-E32BDF465E3E}
+19/09/2021 - 15:14:27: INFO - process speedLimitZoneId: {67C43EF4-8919-4B8A-B303-321B46236112}
+19/09/2021 - 15:14:27: INFO - output data: [{"attributes": {"OBJECTID": 1, "speedLimitZoneId": "{10A35377-2569-4500-A57A-F462D41DE938}", "rcaZoneReferenceId": "{DBB9740A-9DB2-4785-882F-FD324C07F2DE}", "speedLimitZoneName": "Overlap Test", "speedCategoryId": 1001, "speedValueTypeId": 1005, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null}, "geometry": "{\"rings\":[[[1442807.4052999998,5209716.0887000002],[1440151.2186000003,5210490.0136000002],[1440198.9917000001,5210843.5349000003],[1442893.3969999999,5210040.9461000003],[1442807.4052999998,5209716.0887000002]]],\"spatialReference\":{\"wkid\":2193,\"latestWkid\":2193}}"}, {"attributes": {"OBJECTID": 2, "speedLimitZoneId": "{9E60D58A-01BF-4E2B-A642-9BDD5236B8CB}", "rcaZoneReferenceId": "{AADE6D88-2221-424E-ABB5-F9586548F6B6}", "speedLimitZoneName": "Variable Selywn", "speedCategoryId": 1002, "speedValueTypeId": 1005, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null}, "geometry": "{\"rings\":[[[1511863.4830999998,5249711.7637],[1510028.9944000002,5250074.8395999996],[1512150.1218999997,5256113.3649000004],[1513812.6272999998,5255826.7259999998],[1511863.4830999998,5249711.7637]]],\"spatialReference\":{\"wkid\":2193,\"latestWkid\":2193}}"}, {"attributes": {"OBJECTID": 3, "speedLimitZoneId": "{AF6ADC89-476B-43CC-B626-AD159EB01DE8}", "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedLimitZoneName": "GSC Test", "speedCategoryId": 1001, "speedValueTypeId": 1005, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null}, "geometry": "{\"rings\":[[[1809520.7785999998,5443908.7933],[1808976.1648000004,5444128.5497000003],[1809195.9212999996,5444998.0208999999],[1809721.4258000003,5445313.3236999996],[1810438.023,5444654.0543],[1809520.7785999998,5443908.7933]]],\"spatialReference\":{\"wkid\":2193,\"latestWkid\":2193}}"}, {"attributes": {"OBJECTID": 4, "speedLimitZoneId": "{D1223385-3C2E-46EC-8814-0480056B703B}", "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedLimitZoneName": "GSC Test", "speedCategoryId": 1001, "speedValueTypeId": 1007, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null}, "geometry": "{\"rings\":[[[1810316.6372999996,5443646.8364000004],[1809874.7687999997,5444196.4102999996],[1810438.023,5444654.0543],[1810045.2045,5445015.4473000001],[1810431.2928999998,5445342.7829999998],[1811338.9825999998,5444487.6436999999],[1810316.6372999996,5443646.8364000004]]],\"spatialReference\":{\"wkid\":2193,\"latestWkid\":2193}}"}, {"attributes": {"OBJECTID": 5, "speedLimitZoneId": "{A427BEE8-6834-4BFE-8E11-E32BDF465E3E}", "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedLimitZoneName": "GSC Test", "speedCategoryId": 1001, "speedValueTypeId": 1005, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null}, "geometry": "{\"rings\":[[[1810731.0859000003,5444709.7888000002],[1810339.3460999997,5445082.4194],[1810946.0650000004,5445517.1550000003],[1811347.3594000004,5445201.8521999996],[1810731.0859000003,5444709.7888000002]]],\"spatialReference\":{\"wkid\":2193,\"latestWkid\":2193}}"}, {"attributes": {"OBJECTID": 6, "speedLimitZoneId": "{67C43EF4-8919-4B8A-B303-321B46236112}", "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedLimitZoneName": "Sub Test", "speedCategoryId": 1001, "speedValueTypeId": 1007, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null}, "geometry": "{\"rings\":[[[1810309.7588,5443761.2419999996],[1809913.5206000004,5444227.8960999995],[1810438.023,5444654.0543],[1810040.6341000004,5445019.6519999998],[1810508.0174000002,5445309.0917999996],[1811327.3267999999,5444582.9400000004],[1810309.7588,5443761.2419999996]]],\"spatialReference\":{\"wkid\":2193,\"latestWkid\":2193}}"}]
+20/09/2021 - 09:40:26: INFO - Process started...
+20/09/2021 - 09:40:26: INFO - input file: C:\projects\gp\data\templateYZ.gdb.zip
+20/09/2021 - 09:40:26: INFO - Zip Folder C:\projects\gp\publishGP\scratch\338a083a-1992-11ec-827f-342eb7df08df
+20/09/2021 - 09:40:26: INFO - fc: C:\projects\gp\publishGP\scratch\338a083a-1992-11ec-827f-342eb7df08df\templateYZ.gdb\SpeedLimitZoneGeometryDraft
+20/09/2021 - 09:40:26: INFO - fc: C:\projects\gp\publishGP\scratch\338a083a-1992-11ec-827f-342eb7df08df\templateYZ.gdb\SpeedLimitZone
+20/09/2021 - 09:40:26: INFO - Generating output json ...
+20/09/2021 - 09:40:26: INFO - reading geometry draft features ...
+20/09/2021 - 09:40:26: INFO - total draft geometries: 6
+20/09/2021 - 09:40:26: INFO - reading speed limit zone records ...
+20/09/2021 - 09:40:26: INFO - process speedLimitZoneId: {10A35377-2569-4500-A57A-F462D41DE938}
+20/09/2021 - 09:40:26: INFO - process speedLimitZoneId: {9E60D58A-01BF-4E2B-A642-9BDD5236B8CB}
+20/09/2021 - 09:40:26: INFO - process speedLimitZoneId: {AF6ADC89-476B-43CC-B626-AD159EB01DE8}
+20/09/2021 - 09:40:26: INFO - process speedLimitZoneId: {D1223385-3C2E-46EC-8814-0480056B703B}
+20/09/2021 - 09:40:26: INFO - process speedLimitZoneId: {A427BEE8-6834-4BFE-8E11-E32BDF465E3E}
+20/09/2021 - 09:40:26: INFO - process speedLimitZoneId: {67C43EF4-8919-4B8A-B303-321B46236112}
+20/09/2021 - 09:40:26: INFO - output data: [{"attributes": {"OBJECTID": 1, "speedLimitZoneId": "{10A35377-2569-4500-A57A-F462D41DE938}", "rcaZoneReferenceId": "{DBB9740A-9DB2-4785-882F-FD324C07F2DE}", "speedLimitZoneName": "Overlap Test", "speedCategoryId": 1001, "speedValueTypeId": 1005, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null}, "geometry": "{\"rings\":[[[1442807.4052999998,5209716.0887000002],[1440151.2186000003,5210490.0136000002],[1440198.9917000001,5210843.5349000003],[1442893.3969999999,5210040.9461000003],[1442807.4052999998,5209716.0887000002]]],\"spatialReference\":{\"wkid\":2193,\"latestWkid\":2193}}"}, {"attributes": {"OBJECTID": 2, "speedLimitZoneId": "{9E60D58A-01BF-4E2B-A642-9BDD5236B8CB}", "rcaZoneReferenceId": "{AADE6D88-2221-424E-ABB5-F9586548F6B6}", "speedLimitZoneName": "Variable Selywn", "speedCategoryId": 1002, "speedValueTypeId": 1005, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null}, "geometry": "{\"rings\":[[[1511863.4830999998,5249711.7637],[1510028.9944000002,5250074.8395999996],[1512150.1218999997,5256113.3649000004],[1513812.6272999998,5255826.7259999998],[1511863.4830999998,5249711.7637]]],\"spatialReference\":{\"wkid\":2193,\"latestWkid\":2193}}"}, {"attributes": {"OBJECTID": 3, "speedLimitZoneId": "{AF6ADC89-476B-43CC-B626-AD159EB01DE8}", "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedLimitZoneName": "GSC Test", "speedCategoryId": 1001, "speedValueTypeId": 1005, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null}, "geometry": "{\"rings\":[[[1809520.7785999998,5443908.7933],[1808976.1648000004,5444128.5497000003],[1809195.9212999996,5444998.0208999999],[1809721.4258000003,5445313.3236999996],[1810438.023,5444654.0543],[1809520.7785999998,5443908.7933]]],\"spatialReference\":{\"wkid\":2193,\"latestWkid\":2193}}"}, {"attributes": {"OBJECTID": 4, "speedLimitZoneId": "{D1223385-3C2E-46EC-8814-0480056B703B}", "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedLimitZoneName": "GSC Test", "speedCategoryId": 1001, "speedValueTypeId": 1007, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null}, "geometry": "{\"rings\":[[[1810316.6372999996,5443646.8364000004],[1809874.7687999997,5444196.4102999996],[1810438.023,5444654.0543],[1810045.2045,5445015.4473000001],[1810431.2928999998,5445342.7829999998],[1811338.9825999998,5444487.6436999999],[1810316.6372999996,5443646.8364000004]]],\"spatialReference\":{\"wkid\":2193,\"latestWkid\":2193}}"}, {"attributes": {"OBJECTID": 5, "speedLimitZoneId": "{A427BEE8-6834-4BFE-8E11-E32BDF465E3E}", "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedLimitZoneName": "GSC Test", "speedCategoryId": 1001, "speedValueTypeId": 1005, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null}, "geometry": "{\"rings\":[[[1810731.0859000003,5444709.7888000002],[1810339.3460999997,5445082.4194],[1810946.0650000004,5445517.1550000003],[1811347.3594000004,5445201.8521999996],[1810731.0859000003,5444709.7888000002]]],\"spatialReference\":{\"wkid\":2193,\"latestWkid\":2193}}"}, {"attributes": {"OBJECTID": 6, "speedLimitZoneId": "{67C43EF4-8919-4B8A-B303-321B46236112}", "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedLimitZoneName": "Sub Test", "speedCategoryId": 1001, "speedValueTypeId": 1007, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null}, "geometry": "{\"rings\":[[[1810309.7588,5443761.2419999996],[1809913.5206000004,5444227.8960999995],[1810438.023,5444654.0543],[1810040.6341000004,5445019.6519999998],[1810508.0174000002,5445309.0917999996],[1811327.3267999999,5444582.9400000004],[1810309.7588,5443761.2419999996]]],\"spatialReference\":{\"wkid\":2193,\"latestWkid\":2193}}"}]
+22/09/2021 - 09:25:39: INFO - Process started...
+22/09/2021 - 09:25:39: INFO - input file: C:\projects\gp\data\templateYZ.gdb.zip
+22/09/2021 - 09:25:39: INFO - Zip Folder C:\Users\yxz\AppData\Local\Temp\scratch\7794c410-1b22-11ec-9745-cc483a7b2fd3
+22/09/2021 - 09:25:39: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\7794c410-1b22-11ec-9745-cc483a7b2fd3\templateYZ.gdb\SpeedLimitZoneGeometryDraft
+22/09/2021 - 09:25:39: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\7794c410-1b22-11ec-9745-cc483a7b2fd3\templateYZ.gdb\SpeedLimitZone
+22/09/2021 - 09:25:39: INFO - Generating output json ...
+22/09/2021 - 09:25:39: INFO - reading geometry draft features ...
+22/09/2021 - 09:25:39: INFO - total draft geometries: 6
+22/09/2021 - 09:25:39: INFO - reading speed limit zone records ...
+22/09/2021 - 09:25:39: INFO - process speedLimitZoneId: {10A35377-2569-4500-A57A-F462D41DE938}
+22/09/2021 - 09:25:39: INFO - process speedLimitZoneId: {9E60D58A-01BF-4E2B-A642-9BDD5236B8CB}
+22/09/2021 - 09:25:39: INFO - process speedLimitZoneId: {AF6ADC89-476B-43CC-B626-AD159EB01DE8}
+22/09/2021 - 09:25:39: INFO - process speedLimitZoneId: {D1223385-3C2E-46EC-8814-0480056B703B}
+22/09/2021 - 09:25:39: INFO - process speedLimitZoneId: {A427BEE8-6834-4BFE-8E11-E32BDF465E3E}
+22/09/2021 - 09:25:39: INFO - process speedLimitZoneId: {67C43EF4-8919-4B8A-B303-321B46236112}
+22/09/2021 - 09:25:39: INFO - output data: [{"attributes": {"OBJECTID": 1, "speedLimitZoneId": "{10A35377-2569-4500-A57A-F462D41DE938}", "rcaZoneReferenceId": "{DBB9740A-9DB2-4785-882F-FD324C07F2DE}", "speedLimitZoneName": "Overlap Test", "speedCategoryId": 1001, "speedValueTypeId": 1005, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null}, "geometry": "{\"rings\":[[[1442807.4052999998,5209716.0887000002],[1440151.2186000003,5210490.0136000002],[1440198.9917000001,5210843.5349000003],[1442893.3969999999,5210040.9461000003],[1442807.4052999998,5209716.0887000002]]],\"spatialReference\":{\"wkid\":2193,\"latestWkid\":2193}}"}, {"attributes": {"OBJECTID": 2, "speedLimitZoneId": "{9E60D58A-01BF-4E2B-A642-9BDD5236B8CB}", "rcaZoneReferenceId": "{AADE6D88-2221-424E-ABB5-F9586548F6B6}", "speedLimitZoneName": "Variable Selywn", "speedCategoryId": 1002, "speedValueTypeId": 1005, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null}, "geometry": "{\"rings\":[[[1511863.4830999998,5249711.7637],[1510028.9944000002,5250074.8395999996],[1512150.1218999997,5256113.3649000004],[1513812.6272999998,5255826.7259999998],[1511863.4830999998,5249711.7637]]],\"spatialReference\":{\"wkid\":2193,\"latestWkid\":2193}}"}, {"attributes": {"OBJECTID": 3, "speedLimitZoneId": "{AF6ADC89-476B-43CC-B626-AD159EB01DE8}", "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedLimitZoneName": "GSC Test", "speedCategoryId": 1001, "speedValueTypeId": 1005, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null}, "geometry": "{\"rings\":[[[1809520.7785999998,5443908.7933],[1808976.1648000004,5444128.5497000003],[1809195.9212999996,5444998.0208999999],[1809721.4258000003,5445313.3236999996],[1810438.023,5444654.0543],[1809520.7785999998,5443908.7933]]],\"spatialReference\":{\"wkid\":2193,\"latestWkid\":2193}}"}, {"attributes": {"OBJECTID": 4, "speedLimitZoneId": "{D1223385-3C2E-46EC-8814-0480056B703B}", "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedLimitZoneName": "GSC Test", "speedCategoryId": 1001, "speedValueTypeId": 1007, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null}, "geometry": "{\"rings\":[[[1810316.6372999996,5443646.8364000004],[1809874.7687999997,5444196.4102999996],[1810438.023,5444654.0543],[1810045.2045,5445015.4473000001],[1810431.2928999998,5445342.7829999998],[1811338.9825999998,5444487.6436999999],[1810316.6372999996,5443646.8364000004]]],\"spatialReference\":{\"wkid\":2193,\"latestWkid\":2193}}"}, {"attributes": {"OBJECTID": 5, "speedLimitZoneId": "{A427BEE8-6834-4BFE-8E11-E32BDF465E3E}", "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedLimitZoneName": "GSC Test", "speedCategoryId": 1001, "speedValueTypeId": 1005, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null}, "geometry": "{\"rings\":[[[1810731.0859000003,5444709.7888000002],[1810339.3460999997,5445082.4194],[1810946.0650000004,5445517.1550000003],[1811347.3594000004,5445201.8521999996],[1810731.0859000003,5444709.7888000002]]],\"spatialReference\":{\"wkid\":2193,\"latestWkid\":2193}}"}, {"attributes": {"OBJECTID": 6, "speedLimitZoneId": "{67C43EF4-8919-4B8A-B303-321B46236112}", "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedLimitZoneName": "Sub Test", "speedCategoryId": 1001, "speedValueTypeId": 1007, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null}, "geometry": "{\"rings\":[[[1810309.7588,5443761.2419999996],[1809913.5206000004,5444227.8960999995],[1810438.023,5444654.0543],[1810040.6341000004,5445019.6519999998],[1810508.0174000002,5445309.0917999996],[1811327.3267999999,5444582.9400000004],[1810309.7588,5443761.2419999996]]],\"spatialReference\":{\"wkid\":2193,\"latestWkid\":2193}}"}]
+22/09/2021 - 09:42:41: INFO - Process started...
+22/09/2021 - 09:42:41: INFO - input file: C:\projects\gp\data\templateYZ.gdb.zip
+22/09/2021 - 09:42:41: INFO - Zip Folder C:\Users\yxz\AppData\Local\Temp\scratch\d923d7ac-1b24-11ec-ab46-cc483a7b2fd3
+22/09/2021 - 09:42:42: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\d923d7ac-1b24-11ec-ab46-cc483a7b2fd3\templateYZ.gdb\SpeedLimitZoneGeometryDraft
+22/09/2021 - 09:42:42: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\d923d7ac-1b24-11ec-ab46-cc483a7b2fd3\templateYZ.gdb\SpeedLimitZone
+22/09/2021 - 09:42:42: INFO - Generating output json ...
+22/09/2021 - 09:42:42: INFO - reading geometry draft features ...
+22/09/2021 - 09:42:42: ERROR - No output is generated
+22/09/2021 - 09:44:25: INFO - Process started...
+22/09/2021 - 09:44:25: INFO - input file: C:\projects\gp\data\templateYZ.gdb.zip
+22/09/2021 - 09:44:25: INFO - Zip Folder C:\Users\yxz\AppData\Local\Temp\scratch\16d5feac-1b25-11ec-b731-cc483a7b2fd3
+22/09/2021 - 09:44:25: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\16d5feac-1b25-11ec-b731-cc483a7b2fd3\templateYZ.gdb\SpeedLimitZoneGeometryDraft
+22/09/2021 - 09:44:25: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\16d5feac-1b25-11ec-b731-cc483a7b2fd3\templateYZ.gdb\SpeedLimitZone
+22/09/2021 - 09:44:25: INFO - Generating output json ...
+22/09/2021 - 09:44:25: INFO - reading geometry draft features ...
+22/09/2021 - 09:44:25: INFO - draft geometries: {"rings":[[[1442807.4052999998,5209716.0887000002],[1440151.2186000003,5210490.0136000002],[1440198.9917000001,5210843.5349000003],[1442893.3969999999,5210040.9461000003],[1442807.4052999998,5209716.0887000002]]],"spatialReference":{"wkid":2193,"latestWkid":2193}}
+22/09/2021 - 09:44:25: INFO - draft geometries: {"rings":[[[1511863.4830999998,5249711.7637],[1510028.9944000002,5250074.8395999996],[1512150.1218999997,5256113.3649000004],[1513812.6272999998,5255826.7259999998],[1511863.4830999998,5249711.7637]]],"spatialReference":{"wkid":2193,"latestWkid":2193}}
+22/09/2021 - 09:44:25: INFO - draft geometries: {"rings":[[[1809520.7785999998,5443908.7933],[1808976.1648000004,5444128.5497000003],[1809195.9212999996,5444998.0208999999],[1809721.4258000003,5445313.3236999996],[1810438.023,5444654.0543],[1809520.7785999998,5443908.7933]]],"spatialReference":{"wkid":2193,"latestWkid":2193}}
+22/09/2021 - 09:44:25: INFO - draft geometries: {"rings":[[[1810316.6372999996,5443646.8364000004],[1809874.7687999997,5444196.4102999996],[1810438.023,5444654.0543],[1810045.2045,5445015.4473000001],[1810431.2928999998,5445342.7829999998],[1811338.9825999998,5444487.6436999999],[1810316.6372999996,5443646.8364000004]]],"spatialReference":{"wkid":2193,"latestWkid":2193}}
+22/09/2021 - 09:44:25: INFO - draft geometries: {"rings":[[[1810731.0859000003,5444709.7888000002],[1810339.3460999997,5445082.4194],[1810946.0650000004,5445517.1550000003],[1811347.3594000004,5445201.8521999996],[1810731.0859000003,5444709.7888000002]]],"spatialReference":{"wkid":2193,"latestWkid":2193}}
+22/09/2021 - 09:44:25: INFO - draft geometries: {"rings":[[[1810309.7588,5443761.2419999996],[1809913.5206000004,5444227.8960999995],[1810438.023,5444654.0543],[1810040.6341000004,5445019.6519999998],[1810508.0174000002,5445309.0917999996],[1811327.3267999999,5444582.9400000004],[1810309.7588,5443761.2419999996]]],"spatialReference":{"wkid":2193,"latestWkid":2193}}
+22/09/2021 - 09:44:25: INFO - total draft geometries: 6
+22/09/2021 - 09:44:25: INFO - reading speed limit zone records ...
+22/09/2021 - 09:44:25: INFO - process speedLimitZoneId: {10A35377-2569-4500-A57A-F462D41DE938}
+22/09/2021 - 09:44:25: INFO - process speedLimitZoneId: {9E60D58A-01BF-4E2B-A642-9BDD5236B8CB}
+22/09/2021 - 09:44:25: INFO - process speedLimitZoneId: {AF6ADC89-476B-43CC-B626-AD159EB01DE8}
+22/09/2021 - 09:44:25: INFO - process speedLimitZoneId: {D1223385-3C2E-46EC-8814-0480056B703B}
+22/09/2021 - 09:44:25: INFO - process speedLimitZoneId: {A427BEE8-6834-4BFE-8E11-E32BDF465E3E}
+22/09/2021 - 09:44:25: INFO - process speedLimitZoneId: {67C43EF4-8919-4B8A-B303-321B46236112}
+22/09/2021 - 09:44:25: INFO - output data: [{"attributes": {"OBJECTID": 1, "speedLimitZoneId": "{10A35377-2569-4500-A57A-F462D41DE938}", "rcaZoneReferenceId": "{DBB9740A-9DB2-4785-882F-FD324C07F2DE}", "speedLimitZoneName": "Overlap Test", "speedCategoryId": 1001, "speedValueTypeId": 1005, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null}, "geometry": {"rings": [[[1442807.4052999998, 5209716.0887], [1440151.2186000003, 5210490.0136], [1440198.9917000001, 5210843.5349], [1442893.3969999999, 5210040.9461], [1442807.4052999998, 5209716.0887]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}, {"attributes": {"OBJECTID": 2, "speedLimitZoneId": "{9E60D58A-01BF-4E2B-A642-9BDD5236B8CB}", "rcaZoneReferenceId": "{AADE6D88-2221-424E-ABB5-F9586548F6B6}", "speedLimitZoneName": "Variable Selywn", "speedCategoryId": 1002, "speedValueTypeId": 1005, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null}, "geometry": {"rings": [[[1511863.4830999998, 5249711.7637], [1510028.9944000002, 5250074.8396], [1512150.1218999997, 5256113.3649], [1513812.6272999998, 5255826.726], [1511863.4830999998, 5249711.7637]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}, {"attributes": {"OBJECTID": 3, "speedLimitZoneId": "{AF6ADC89-476B-43CC-B626-AD159EB01DE8}", "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedLimitZoneName": "GSC Test", "speedCategoryId": 1001, "speedValueTypeId": 1005, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null}, "geometry": {"rings": [[[1809520.7785999998, 5443908.7933], [1808976.1648000004, 5444128.5497], [1809195.9212999996, 5444998.0209], [1809721.4258000003, 5445313.3237], [1810438.023, 5444654.0543], [1809520.7785999998, 5443908.7933]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}, {"attributes": {"OBJECTID": 4, "speedLimitZoneId": "{D1223385-3C2E-46EC-8814-0480056B703B}", "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedLimitZoneName": "GSC Test", "speedCategoryId": 1001, "speedValueTypeId": 1007, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null}, "geometry": {"rings": [[[1810316.6372999996, 5443646.8364], [1809874.7687999997, 5444196.4103], [1810438.023, 5444654.0543], [1810045.2045, 5445015.4473], [1810431.2928999998, 5445342.783], [1811338.9825999998, 5444487.6437], [1810316.6372999996, 5443646.8364]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}, {"attributes": {"OBJECTID": 5, "speedLimitZoneId": "{A427BEE8-6834-4BFE-8E11-E32BDF465E3E}", "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedLimitZoneName": "GSC Test", "speedCategoryId": 1001, "speedValueTypeId": 1005, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null}, "geometry": {"rings": [[[1810731.0859000003, 5444709.7888], [1810339.3460999997, 5445082.4194], [1810946.0650000004, 5445517.155], [1811347.3594000004, 5445201.8522], [1810731.0859000003, 5444709.7888]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}, {"attributes": {"OBJECTID": 6, "speedLimitZoneId": "{67C43EF4-8919-4B8A-B303-321B46236112}", "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedLimitZoneName": "Sub Test", "speedCategoryId": 1001, "speedValueTypeId": 1007, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null}, "geometry": {"rings": [[[1810309.7588, 5443761.242], [1809913.5206000004, 5444227.8961], [1810438.023, 5444654.0543], [1810040.6341000004, 5445019.652], [1810508.0174000002, 5445309.0918], [1811327.3268, 5444582.94], [1810309.7588, 5443761.242]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}]
+22/09/2021 - 09:46:42: INFO - Process started...
+22/09/2021 - 09:46:42: INFO - input file: C:\projects\gp\data\templateYZ.gdb.zip
+22/09/2021 - 09:46:42: INFO - Zip Folder C:\Users\yxz\AppData\Local\Temp\scratch\685dac76-1b25-11ec-87ce-cc483a7b2fd3
+22/09/2021 - 09:46:42: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\685dac76-1b25-11ec-87ce-cc483a7b2fd3\templateYZ.gdb\SpeedLimitZoneGeometryDraft
+22/09/2021 - 09:46:42: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\685dac76-1b25-11ec-87ce-cc483a7b2fd3\templateYZ.gdb\SpeedLimitZone
+22/09/2021 - 09:46:42: INFO - Generating output json ...
+22/09/2021 - 09:46:42: INFO - reading geometry draft features ...
+22/09/2021 - 09:46:42: INFO - total draft geometries: 6
+22/09/2021 - 09:46:42: INFO - reading speed limit zone records ...
+22/09/2021 - 09:46:42: INFO - process speedLimitZoneId: {10A35377-2569-4500-A57A-F462D41DE938}
+22/09/2021 - 09:46:42: INFO - process speedLimitZoneId: {9E60D58A-01BF-4E2B-A642-9BDD5236B8CB}
+22/09/2021 - 09:46:42: INFO - process speedLimitZoneId: {AF6ADC89-476B-43CC-B626-AD159EB01DE8}
+22/09/2021 - 09:46:42: INFO - process speedLimitZoneId: {D1223385-3C2E-46EC-8814-0480056B703B}
+22/09/2021 - 09:46:42: INFO - process speedLimitZoneId: {A427BEE8-6834-4BFE-8E11-E32BDF465E3E}
+22/09/2021 - 09:46:42: INFO - process speedLimitZoneId: {67C43EF4-8919-4B8A-B303-321B46236112}
+22/09/2021 - 09:46:42: INFO - output data: [{"attributes": {"OBJECTID": 1, "speedLimitZoneId": "{10A35377-2569-4500-A57A-F462D41DE938}", "rcaZoneReferenceId": "{DBB9740A-9DB2-4785-882F-FD324C07F2DE}", "speedLimitZoneName": "Overlap Test", "speedCategoryId": 1001, "speedValueTypeId": 1005, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null}, "geometry": {"rings": [[[1442807.4052999998, 5209716.0887], [1440151.2186000003, 5210490.0136], [1440198.9917000001, 5210843.5349], [1442893.3969999999, 5210040.9461], [1442807.4052999998, 5209716.0887]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}, {"attributes": {"OBJECTID": 2, "speedLimitZoneId": "{9E60D58A-01BF-4E2B-A642-9BDD5236B8CB}", "rcaZoneReferenceId": "{AADE6D88-2221-424E-ABB5-F9586548F6B6}", "speedLimitZoneName": "Variable Selywn", "speedCategoryId": 1002, "speedValueTypeId": 1005, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null}, "geometry": {"rings": [[[1511863.4830999998, 5249711.7637], [1510028.9944000002, 5250074.8396], [1512150.1218999997, 5256113.3649], [1513812.6272999998, 5255826.726], [1511863.4830999998, 5249711.7637]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}, {"attributes": {"OBJECTID": 3, "speedLimitZoneId": "{AF6ADC89-476B-43CC-B626-AD159EB01DE8}", "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedLimitZoneName": "GSC Test", "speedCategoryId": 1001, "speedValueTypeId": 1005, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null}, "geometry": {"rings": [[[1809520.7785999998, 5443908.7933], [1808976.1648000004, 5444128.5497], [1809195.9212999996, 5444998.0209], [1809721.4258000003, 5445313.3237], [1810438.023, 5444654.0543], [1809520.7785999998, 5443908.7933]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}, {"attributes": {"OBJECTID": 4, "speedLimitZoneId": "{D1223385-3C2E-46EC-8814-0480056B703B}", "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedLimitZoneName": "GSC Test", "speedCategoryId": 1001, "speedValueTypeId": 1007, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null}, "geometry": {"rings": [[[1810316.6372999996, 5443646.8364], [1809874.7687999997, 5444196.4103], [1810438.023, 5444654.0543], [1810045.2045, 5445015.4473], [1810431.2928999998, 5445342.783], [1811338.9825999998, 5444487.6437], [1810316.6372999996, 5443646.8364]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}, {"attributes": {"OBJECTID": 5, "speedLimitZoneId": "{A427BEE8-6834-4BFE-8E11-E32BDF465E3E}", "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedLimitZoneName": "GSC Test", "speedCategoryId": 1001, "speedValueTypeId": 1005, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null}, "geometry": {"rings": [[[1810731.0859000003, 5444709.7888], [1810339.3460999997, 5445082.4194], [1810946.0650000004, 5445517.155], [1811347.3594000004, 5445201.8522], [1810731.0859000003, 5444709.7888]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}, {"attributes": {"OBJECTID": 6, "speedLimitZoneId": "{67C43EF4-8919-4B8A-B303-321B46236112}", "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedLimitZoneName": "Sub Test", "speedCategoryId": 1001, "speedValueTypeId": 1007, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null}, "geometry": {"rings": [[[1810309.7588, 5443761.242], [1809913.5206000004, 5444227.8961], [1810438.023, 5444654.0543], [1810040.6341000004, 5445019.652], [1810508.0174000002, 5445309.0918], [1811327.3268, 5444582.94], [1810309.7588, 5443761.242]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}]
+22/09/2021 - 12:07:10: INFO - Process started...
+22/09/2021 - 12:07:10: INFO - input file: C:\projects\gp\data\templateYZ.gdb.zip
+22/09/2021 - 12:07:10: INFO - Zip Folder C:\Users\yxz\AppData\Local\Temp\scratch\0861305e-1b39-11ec-ab5b-cc483a7b2fd3
+22/09/2021 - 12:07:11: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\0861305e-1b39-11ec-ab5b-cc483a7b2fd3\templateYZ.gdb\SpeedLimitZoneGeometryDraft
+22/09/2021 - 12:07:11: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\0861305e-1b39-11ec-ab5b-cc483a7b2fd3\templateYZ.gdb\SpeedLimitZone
+22/09/2021 - 12:07:11: INFO - Generating output json ...
+22/09/2021 - 12:07:11: INFO - reading geometry draft features ...
+22/09/2021 - 12:07:11: INFO - total draft geometries: 6
+22/09/2021 - 12:07:11: INFO - reading speed limit zone records ...
+22/09/2021 - 12:07:11: INFO - process speedLimitZoneId: {10A35377-2569-4500-A57A-F462D41DE938}
+22/09/2021 - 12:07:11: ERROR - No output is generated
+22/09/2021 - 12:08:16: INFO - Process started...
+22/09/2021 - 12:08:16: INFO - input file: C:\projects\gp\data\templateYZ.gdb.zip
+22/09/2021 - 12:08:16: INFO - Zip Folder C:\Users\yxz\AppData\Local\Temp\scratch\2f8e1264-1b39-11ec-88ab-cc483a7b2fd3
+22/09/2021 - 12:08:17: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\2f8e1264-1b39-11ec-88ab-cc483a7b2fd3\templateYZ.gdb\SpeedLimitZoneGeometryDraft
+22/09/2021 - 12:08:17: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\2f8e1264-1b39-11ec-88ab-cc483a7b2fd3\templateYZ.gdb\SpeedLimitZone
+22/09/2021 - 12:08:17: INFO - Generating output json ...
+22/09/2021 - 12:08:17: INFO - reading geometry draft features ...
+22/09/2021 - 12:08:17: INFO - total draft geometries: 6
+22/09/2021 - 12:08:17: INFO - reading speed limit zone records ...
+22/09/2021 - 12:08:17: INFO - process speedLimitZoneId: {10A35377-2569-4500-A57A-F462D41DE938}
+22/09/2021 - 12:08:17: INFO - date field : speedLimitZoneStartDate
+22/09/2021 - 12:08:17: INFO - date field : speedLimitZoneEndDate
+22/09/2021 - 12:08:17: INFO - process speedLimitZoneId: {9E60D58A-01BF-4E2B-A642-9BDD5236B8CB}
+22/09/2021 - 12:08:17: INFO - date field : speedLimitZoneStartDate
+22/09/2021 - 12:08:17: INFO - date field : speedLimitZoneEndDate
+22/09/2021 - 12:08:17: INFO - process speedLimitZoneId: {AF6ADC89-476B-43CC-B626-AD159EB01DE8}
+22/09/2021 - 12:08:17: INFO - date field : speedLimitZoneStartDate
+22/09/2021 - 12:08:17: INFO - date field : speedLimitZoneEndDate
+22/09/2021 - 12:08:17: INFO - process speedLimitZoneId: {D1223385-3C2E-46EC-8814-0480056B703B}
+22/09/2021 - 12:08:17: INFO - date field : speedLimitZoneStartDate
+22/09/2021 - 12:08:17: INFO - date field : speedLimitZoneEndDate
+22/09/2021 - 12:08:17: INFO - process speedLimitZoneId: {A427BEE8-6834-4BFE-8E11-E32BDF465E3E}
+22/09/2021 - 12:08:17: INFO - date field : speedLimitZoneStartDate
+22/09/2021 - 12:08:17: INFO - date field : speedLimitZoneEndDate
+22/09/2021 - 12:08:17: INFO - process speedLimitZoneId: {67C43EF4-8919-4B8A-B303-321B46236112}
+22/09/2021 - 12:08:17: INFO - date field : speedLimitZoneStartDate
+22/09/2021 - 12:08:17: INFO - date field : speedLimitZoneEndDate
+22/09/2021 - 12:08:17: INFO - output data: [{"attributes": {"OBJECTID": 1, "speedLimitZoneId": "{10A35377-2569-4500-A57A-F462D41DE938}", "rcaZoneReferenceId": null, "speedLimitZoneName": "{85260BBB-74EF-444F-8E00-4B9B192487C9}", "speedCategoryId": "{DBB9740A-9DB2-4785-882F-FD324C07F2DE}", "speedValueTypeId": null, "speedLimitZoneStartDate": "Overlap Test", "speedLimitZoneEndDate": "1001", "speedLImitZoneLock": 1005}, "geometry": {"rings": [[[1442807.4052999998, 5209716.0887], [1440151.2186000003, 5210490.0136], [1440198.9917000001, 5210843.5349], [1442893.3969999999, 5210040.9461], [1442807.4052999998, 5209716.0887]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}, {"attributes": {"OBJECTID": 2, "speedLimitZoneId": "{9E60D58A-01BF-4E2B-A642-9BDD5236B8CB}", "rcaZoneReferenceId": null, "speedLimitZoneName": "{85260BBB-74EF-444F-8E00-4B9B192487C9}", "speedCategoryId": "{AADE6D88-2221-424E-ABB5-F9586548F6B6}", "speedValueTypeId": null, "speedLimitZoneStartDate": "Variable Selywn", "speedLimitZoneEndDate": "1002", "speedLImitZoneLock": 1005}, "geometry": {"rings": [[[1511863.4830999998, 5249711.7637], [1510028.9944000002, 5250074.8396], [1512150.1218999997, 5256113.3649], [1513812.6272999998, 5255826.726], [1511863.4830999998, 5249711.7637]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}, {"attributes": {"OBJECTID": 3, "speedLimitZoneId": "{AF6ADC89-476B-43CC-B626-AD159EB01DE8}", "rcaZoneReferenceId": null, "speedLimitZoneName": "{85260BBB-74EF-444F-8E00-4B9B192487C9}", "speedCategoryId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedValueTypeId": null, "speedLimitZoneStartDate": "GSC Test", "speedLimitZoneEndDate": "1001", "speedLImitZoneLock": 1005}, "geometry": {"rings": [[[1809520.7785999998, 5443908.7933], [1808976.1648000004, 5444128.5497], [1809195.9212999996, 5444998.0209], [1809721.4258000003, 5445313.3237], [1810438.023, 5444654.0543], [1809520.7785999998, 5443908.7933]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}, {"attributes": {"OBJECTID": 4, "speedLimitZoneId": "{D1223385-3C2E-46EC-8814-0480056B703B}", "rcaZoneReferenceId": null, "speedLimitZoneName": "{85260BBB-74EF-444F-8E00-4B9B192487C9}", "speedCategoryId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedValueTypeId": null, "speedLimitZoneStartDate": "GSC Test", "speedLimitZoneEndDate": "1001", "speedLImitZoneLock": 1007}, "geometry": {"rings": [[[1810316.6372999996, 5443646.8364], [1809874.7687999997, 5444196.4103], [1810438.023, 5444654.0543], [1810045.2045, 5445015.4473], [1810431.2928999998, 5445342.783], [1811338.9825999998, 5444487.6437], [1810316.6372999996, 5443646.8364]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}, {"attributes": {"OBJECTID": 5, "speedLimitZoneId": "{A427BEE8-6834-4BFE-8E11-E32BDF465E3E}", "rcaZoneReferenceId": null, "speedLimitZoneName": "{85260BBB-74EF-444F-8E00-4B9B192487C9}", "speedCategoryId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedValueTypeId": null, "speedLimitZoneStartDate": "GSC Test", "speedLimitZoneEndDate": "1001", "speedLImitZoneLock": 1005}, "geometry": {"rings": [[[1810731.0859000003, 5444709.7888], [1810339.3460999997, 5445082.4194], [1810946.0650000004, 5445517.155], [1811347.3594000004, 5445201.8522], [1810731.0859000003, 5444709.7888]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}, {"attributes": {"OBJECTID": 6, "speedLimitZoneId": "{67C43EF4-8919-4B8A-B303-321B46236112}", "rcaZoneReferenceId": null, "speedLimitZoneName": "{85260BBB-74EF-444F-8E00-4B9B192487C9}", "speedCategoryId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedValueTypeId": null, "speedLimitZoneStartDate": "Sub Test", "speedLimitZoneEndDate": "1001", "speedLImitZoneLock": 1007}, "geometry": {"rings": [[[1810309.7588, 5443761.242], [1809913.5206000004, 5444227.8961], [1810438.023, 5444654.0543], [1810040.6341000004, 5445019.652], [1810508.0174000002, 5445309.0918], [1811327.3268, 5444582.94], [1810309.7588, 5443761.242]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}]
+22/09/2021 - 12:14:36: INFO - Process started...
+22/09/2021 - 12:14:36: INFO - input file: C:\projects\gp\data\templateYZ.gdb.zip
+22/09/2021 - 12:14:36: INFO - Zip Folder C:\Users\yxz\AppData\Local\Temp\scratch\11e71564-1b3a-11ec-b335-cc483a7b2fd3
+22/09/2021 - 12:14:36: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\11e71564-1b3a-11ec-b335-cc483a7b2fd3\templateYZ.gdb\SpeedLimitZoneGeometryDraft
+22/09/2021 - 12:14:36: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\11e71564-1b3a-11ec-b335-cc483a7b2fd3\templateYZ.gdb\SpeedLimitZone
+22/09/2021 - 12:14:36: INFO - Generating output json ...
+22/09/2021 - 12:14:36: INFO - reading geometry draft features ...
+22/09/2021 - 12:14:36: INFO - total draft geometries: 6
+22/09/2021 - 12:14:36: INFO - reading speed limit zone records ...
+22/09/2021 - 12:14:36: INFO - process speedLimitZoneId: {10A35377-2569-4500-A57A-F462D41DE938}
+22/09/2021 - 12:14:36: INFO - propcessing field: OBJECTID
+22/09/2021 - 12:14:36: INFO - is not Date
+22/09/2021 - 12:14:36: INFO - propcessing field: speedLimitZoneId
+22/09/2021 - 12:14:36: INFO - is not Date
+22/09/2021 - 12:14:36: INFO - propcessing field: rcaZoneReferenceId
+22/09/2021 - 12:14:36: INFO - is not Date
+22/09/2021 - 12:14:36: INFO - propcessing field: speedLimitZoneName
+22/09/2021 - 12:14:36: INFO - is not Date
+22/09/2021 - 12:14:37: INFO - propcessing field: speedCategoryId
+22/09/2021 - 12:14:37: INFO - is not Date
+22/09/2021 - 12:14:37: INFO - propcessing field: speedValueTypeId
+22/09/2021 - 12:14:37: INFO - is not Date
+22/09/2021 - 12:14:37: INFO - propcessing field: speedLimitZoneStartDate
+22/09/2021 - 12:14:37: INFO - date field : speedLimitZoneStartDate
+22/09/2021 - 12:14:37: INFO - is Date
+22/09/2021 - 12:14:37: INFO - propcessing field: speedLimitZoneEndDate
+22/09/2021 - 12:14:37: INFO - date field : speedLimitZoneEndDate
+22/09/2021 - 12:14:37: INFO - is Date
+22/09/2021 - 12:14:37: INFO - propcessing field: speedLImitZoneLock
+22/09/2021 - 12:14:37: INFO - is not Date
+22/09/2021 - 12:14:37: INFO - process speedLimitZoneId: {9E60D58A-01BF-4E2B-A642-9BDD5236B8CB}
+22/09/2021 - 12:14:37: INFO - propcessing field: OBJECTID
+22/09/2021 - 12:14:37: INFO - is not Date
+22/09/2021 - 12:14:37: INFO - propcessing field: speedLimitZoneId
+22/09/2021 - 12:14:37: INFO - is not Date
+22/09/2021 - 12:14:37: INFO - propcessing field: rcaZoneReferenceId
+22/09/2021 - 12:14:37: INFO - is not Date
+22/09/2021 - 12:14:37: INFO - propcessing field: speedLimitZoneName
+22/09/2021 - 12:14:37: INFO - is not Date
+22/09/2021 - 12:14:37: INFO - propcessing field: speedCategoryId
+22/09/2021 - 12:14:37: INFO - is not Date
+22/09/2021 - 12:14:37: INFO - propcessing field: speedValueTypeId
+22/09/2021 - 12:14:37: INFO - is not Date
+22/09/2021 - 12:14:37: INFO - propcessing field: speedLimitZoneStartDate
+22/09/2021 - 12:14:37: INFO - date field : speedLimitZoneStartDate
+22/09/2021 - 12:14:37: INFO - is Date
+22/09/2021 - 12:14:37: INFO - propcessing field: speedLimitZoneEndDate
+22/09/2021 - 12:14:37: INFO - date field : speedLimitZoneEndDate
+22/09/2021 - 12:14:37: INFO - is Date
+22/09/2021 - 12:14:37: INFO - propcessing field: speedLImitZoneLock
+22/09/2021 - 12:14:37: INFO - is not Date
+22/09/2021 - 12:14:37: INFO - process speedLimitZoneId: {AF6ADC89-476B-43CC-B626-AD159EB01DE8}
+22/09/2021 - 12:14:37: INFO - propcessing field: OBJECTID
+22/09/2021 - 12:14:37: INFO - is not Date
+22/09/2021 - 12:14:37: INFO - propcessing field: speedLimitZoneId
+22/09/2021 - 12:14:37: INFO - is not Date
+22/09/2021 - 12:14:37: INFO - propcessing field: rcaZoneReferenceId
+22/09/2021 - 12:14:37: INFO - is not Date
+22/09/2021 - 12:14:37: INFO - propcessing field: speedLimitZoneName
+22/09/2021 - 12:14:37: INFO - is not Date
+22/09/2021 - 12:14:37: INFO - propcessing field: speedCategoryId
+22/09/2021 - 12:14:37: INFO - is not Date
+22/09/2021 - 12:14:37: INFO - propcessing field: speedValueTypeId
+22/09/2021 - 12:14:37: INFO - is not Date
+22/09/2021 - 12:14:37: INFO - propcessing field: speedLimitZoneStartDate
+22/09/2021 - 12:14:37: INFO - date field : speedLimitZoneStartDate
+22/09/2021 - 12:14:37: INFO - is Date
+22/09/2021 - 12:14:37: INFO - propcessing field: speedLimitZoneEndDate
+22/09/2021 - 12:14:37: INFO - date field : speedLimitZoneEndDate
+22/09/2021 - 12:14:37: INFO - is Date
+22/09/2021 - 12:14:37: INFO - propcessing field: speedLImitZoneLock
+22/09/2021 - 12:14:37: INFO - is not Date
+22/09/2021 - 12:14:37: INFO - process speedLimitZoneId: {D1223385-3C2E-46EC-8814-0480056B703B}
+22/09/2021 - 12:14:37: INFO - propcessing field: OBJECTID
+22/09/2021 - 12:14:37: INFO - is not Date
+22/09/2021 - 12:14:37: INFO - propcessing field: speedLimitZoneId
+22/09/2021 - 12:14:37: INFO - is not Date
+22/09/2021 - 12:14:37: INFO - propcessing field: rcaZoneReferenceId
+22/09/2021 - 12:14:37: INFO - is not Date
+22/09/2021 - 12:14:37: INFO - propcessing field: speedLimitZoneName
+22/09/2021 - 12:14:37: INFO - is not Date
+22/09/2021 - 12:14:37: INFO - propcessing field: speedCategoryId
+22/09/2021 - 12:14:37: INFO - is not Date
+22/09/2021 - 12:14:37: INFO - propcessing field: speedValueTypeId
+22/09/2021 - 12:14:37: INFO - is not Date
+22/09/2021 - 12:14:37: INFO - propcessing field: speedLimitZoneStartDate
+22/09/2021 - 12:14:37: INFO - date field : speedLimitZoneStartDate
+22/09/2021 - 12:14:37: INFO - is Date
+22/09/2021 - 12:14:37: INFO - propcessing field: speedLimitZoneEndDate
+22/09/2021 - 12:14:37: INFO - date field : speedLimitZoneEndDate
+22/09/2021 - 12:14:37: INFO - is Date
+22/09/2021 - 12:14:37: INFO - propcessing field: speedLImitZoneLock
+22/09/2021 - 12:14:37: INFO - is not Date
+22/09/2021 - 12:14:37: INFO - process speedLimitZoneId: {A427BEE8-6834-4BFE-8E11-E32BDF465E3E}
+22/09/2021 - 12:14:37: INFO - propcessing field: OBJECTID
+22/09/2021 - 12:14:37: INFO - is not Date
+22/09/2021 - 12:14:37: INFO - propcessing field: speedLimitZoneId
+22/09/2021 - 12:14:37: INFO - is not Date
+22/09/2021 - 12:14:37: INFO - propcessing field: rcaZoneReferenceId
+22/09/2021 - 12:14:37: INFO - is not Date
+22/09/2021 - 12:14:37: INFO - propcessing field: speedLimitZoneName
+22/09/2021 - 12:14:37: INFO - is not Date
+22/09/2021 - 12:14:37: INFO - propcessing field: speedCategoryId
+22/09/2021 - 12:14:37: INFO - is not Date
+22/09/2021 - 12:14:37: INFO - propcessing field: speedValueTypeId
+22/09/2021 - 12:14:37: INFO - is not Date
+22/09/2021 - 12:14:37: INFO - propcessing field: speedLimitZoneStartDate
+22/09/2021 - 12:14:37: INFO - date field : speedLimitZoneStartDate
+22/09/2021 - 12:14:37: INFO - is Date
+22/09/2021 - 12:14:37: INFO - propcessing field: speedLimitZoneEndDate
+22/09/2021 - 12:14:37: INFO - date field : speedLimitZoneEndDate
+22/09/2021 - 12:14:37: INFO - is Date
+22/09/2021 - 12:14:37: INFO - propcessing field: speedLImitZoneLock
+22/09/2021 - 12:14:37: INFO - is not Date
+22/09/2021 - 12:14:37: INFO - process speedLimitZoneId: {67C43EF4-8919-4B8A-B303-321B46236112}
+22/09/2021 - 12:14:37: INFO - propcessing field: OBJECTID
+22/09/2021 - 12:14:37: INFO - is not Date
+22/09/2021 - 12:14:37: INFO - propcessing field: speedLimitZoneId
+22/09/2021 - 12:14:37: INFO - is not Date
+22/09/2021 - 12:14:37: INFO - propcessing field: rcaZoneReferenceId
+22/09/2021 - 12:14:37: INFO - is not Date
+22/09/2021 - 12:14:37: INFO - propcessing field: speedLimitZoneName
+22/09/2021 - 12:14:37: INFO - is not Date
+22/09/2021 - 12:14:37: INFO - propcessing field: speedCategoryId
+22/09/2021 - 12:14:37: INFO - is not Date
+22/09/2021 - 12:14:37: INFO - propcessing field: speedValueTypeId
+22/09/2021 - 12:14:37: INFO - is not Date
+22/09/2021 - 12:14:37: INFO - propcessing field: speedLimitZoneStartDate
+22/09/2021 - 12:14:37: INFO - date field : speedLimitZoneStartDate
+22/09/2021 - 12:14:37: INFO - is Date
+22/09/2021 - 12:14:37: INFO - propcessing field: speedLimitZoneEndDate
+22/09/2021 - 12:14:37: INFO - date field : speedLimitZoneEndDate
+22/09/2021 - 12:14:37: INFO - is Date
+22/09/2021 - 12:14:37: INFO - propcessing field: speedLImitZoneLock
+22/09/2021 - 12:14:37: INFO - is not Date
+22/09/2021 - 12:14:37: INFO - output data: [{"attributes": {"OBJECTID": 1, "speedLimitZoneId": "{10A35377-2569-4500-A57A-F462D41DE938}", "rcaZoneReferenceId": null, "speedLimitZoneName": "{85260BBB-74EF-444F-8E00-4B9B192487C9}", "speedCategoryId": "{DBB9740A-9DB2-4785-882F-FD324C07F2DE}", "speedValueTypeId": null, "speedLimitZoneStartDate": "Overlap Test", "speedLimitZoneEndDate": "1001", "speedLImitZoneLock": 1005}, "geometry": {"rings": [[[1442807.4052999998, 5209716.0887], [1440151.2186000003, 5210490.0136], [1440198.9917000001, 5210843.5349], [1442893.3969999999, 5210040.9461], [1442807.4052999998, 5209716.0887]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}, {"attributes": {"OBJECTID": 2, "speedLimitZoneId": "{9E60D58A-01BF-4E2B-A642-9BDD5236B8CB}", "rcaZoneReferenceId": null, "speedLimitZoneName": "{85260BBB-74EF-444F-8E00-4B9B192487C9}", "speedCategoryId": "{AADE6D88-2221-424E-ABB5-F9586548F6B6}", "speedValueTypeId": null, "speedLimitZoneStartDate": "Variable Selywn", "speedLimitZoneEndDate": "1002", "speedLImitZoneLock": 1005}, "geometry": {"rings": [[[1511863.4830999998, 5249711.7637], [1510028.9944000002, 5250074.8396], [1512150.1218999997, 5256113.3649], [1513812.6272999998, 5255826.726], [1511863.4830999998, 5249711.7637]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}, {"attributes": {"OBJECTID": 3, "speedLimitZoneId": "{AF6ADC89-476B-43CC-B626-AD159EB01DE8}", "rcaZoneReferenceId": null, "speedLimitZoneName": "{85260BBB-74EF-444F-8E00-4B9B192487C9}", "speedCategoryId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedValueTypeId": null, "speedLimitZoneStartDate": "GSC Test", "speedLimitZoneEndDate": "1001", "speedLImitZoneLock": 1005}, "geometry": {"rings": [[[1809520.7785999998, 5443908.7933], [1808976.1648000004, 5444128.5497], [1809195.9212999996, 5444998.0209], [1809721.4258000003, 5445313.3237], [1810438.023, 5444654.0543], [1809520.7785999998, 5443908.7933]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}, {"attributes": {"OBJECTID": 4, "speedLimitZoneId": "{D1223385-3C2E-46EC-8814-0480056B703B}", "rcaZoneReferenceId": null, "speedLimitZoneName": "{85260BBB-74EF-444F-8E00-4B9B192487C9}", "speedCategoryId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedValueTypeId": null, "speedLimitZoneStartDate": "GSC Test", "speedLimitZoneEndDate": "1001", "speedLImitZoneLock": 1007}, "geometry": {"rings": [[[1810316.6372999996, 5443646.8364], [1809874.7687999997, 5444196.4103], [1810438.023, 5444654.0543], [1810045.2045, 5445015.4473], [1810431.2928999998, 5445342.783], [1811338.9825999998, 5444487.6437], [1810316.6372999996, 5443646.8364]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}, {"attributes": {"OBJECTID": 5, "speedLimitZoneId": "{A427BEE8-6834-4BFE-8E11-E32BDF465E3E}", "rcaZoneReferenceId": null, "speedLimitZoneName": "{85260BBB-74EF-444F-8E00-4B9B192487C9}", "speedCategoryId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedValueTypeId": null, "speedLimitZoneStartDate": "GSC Test", "speedLimitZoneEndDate": "1001", "speedLImitZoneLock": 1005}, "geometry": {"rings": [[[1810731.0859000003, 5444709.7888], [1810339.3460999997, 5445082.4194], [1810946.0650000004, 5445517.155], [1811347.3594000004, 5445201.8522], [1810731.0859000003, 5444709.7888]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}, {"attributes": {"OBJECTID": 6, "speedLimitZoneId": "{67C43EF4-8919-4B8A-B303-321B46236112}", "rcaZoneReferenceId": null, "speedLimitZoneName": "{85260BBB-74EF-444F-8E00-4B9B192487C9}", "speedCategoryId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedValueTypeId": null, "speedLimitZoneStartDate": "Sub Test", "speedLimitZoneEndDate": "1001", "speedLImitZoneLock": 1007}, "geometry": {"rings": [[[1810309.7588, 5443761.242], [1809913.5206000004, 5444227.8961], [1810438.023, 5444654.0543], [1810040.6341000004, 5445019.652], [1810508.0174000002, 5445309.0918], [1811327.3268, 5444582.94], [1810309.7588, 5443761.242]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}]
+22/09/2021 - 12:18:39: INFO - Process started...
+22/09/2021 - 12:18:39: INFO - input file: C:\projects\gp\data\templateYZ.gdb.zip
+22/09/2021 - 12:18:39: INFO - Zip Folder C:\Users\yxz\AppData\Local\Temp\scratch\a2850a64-1b3a-11ec-969a-cc483a7b2fd3
+22/09/2021 - 12:18:39: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\a2850a64-1b3a-11ec-969a-cc483a7b2fd3\templateYZ.gdb\SpeedLimitZoneGeometryDraft
+22/09/2021 - 12:18:39: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\a2850a64-1b3a-11ec-969a-cc483a7b2fd3\templateYZ.gdb\SpeedLimitZone
+22/09/2021 - 12:18:39: INFO - Generating output json ...
+22/09/2021 - 12:18:39: INFO - reading geometry draft features ...
+22/09/2021 - 12:18:39: INFO - total draft geometries: 6
+22/09/2021 - 12:18:39: INFO - reading speed limit zone records ...
+22/09/2021 - 12:18:39: INFO - process speedLimitZoneId: {10A35377-2569-4500-A57A-F462D41DE938}
+22/09/2021 - 12:18:39: INFO - propcessing field: OBJECTID
+22/09/2021 - 12:18:39: INFO - field value: 1
+22/09/2021 - 12:18:39: INFO - is not Date
+22/09/2021 - 12:18:39: INFO - propcessing field: speedLimitZoneId
+22/09/2021 - 12:18:39: INFO - field value: {10A35377-2569-4500-A57A-F462D41DE938}
+22/09/2021 - 12:18:39: INFO - is not Date
+22/09/2021 - 12:18:39: INFO - propcessing field: rcaZoneReferenceId
+22/09/2021 - 12:18:39: INFO - field value: None
+22/09/2021 - 12:18:39: INFO - is not Date
+22/09/2021 - 12:18:39: INFO - propcessing field: speedLimitZoneName
+22/09/2021 - 12:18:39: INFO - field value: {85260BBB-74EF-444F-8E00-4B9B192487C9}
+22/09/2021 - 12:18:39: INFO - is not Date
+22/09/2021 - 12:18:39: INFO - propcessing field: speedCategoryId
+22/09/2021 - 12:18:39: INFO - field value: {DBB9740A-9DB2-4785-882F-FD324C07F2DE}
+22/09/2021 - 12:18:39: INFO - is not Date
+22/09/2021 - 12:18:39: INFO - propcessing field: speedValueTypeId
+22/09/2021 - 12:18:39: INFO - field value: None
+22/09/2021 - 12:18:39: INFO - is not Date
+22/09/2021 - 12:18:39: INFO - propcessing field: speedLimitZoneStartDate
+22/09/2021 - 12:18:39: INFO - field value: Overlap Test
+22/09/2021 - 12:18:39: INFO - is Date
+22/09/2021 - 12:18:39: INFO - propcessing field: speedLimitZoneEndDate
+22/09/2021 - 12:18:39: INFO - field value: 1001
+22/09/2021 - 12:18:39: INFO - is Date
+22/09/2021 - 12:18:39: INFO - propcessing field: speedLImitZoneLock
+22/09/2021 - 12:18:39: INFO - field value: 1005
+22/09/2021 - 12:18:39: INFO - is not Date
+22/09/2021 - 12:18:39: INFO - process speedLimitZoneId: {9E60D58A-01BF-4E2B-A642-9BDD5236B8CB}
+22/09/2021 - 12:18:39: INFO - propcessing field: OBJECTID
+22/09/2021 - 12:18:39: INFO - field value: 2
+22/09/2021 - 12:18:39: INFO - is not Date
+22/09/2021 - 12:18:39: INFO - propcessing field: speedLimitZoneId
+22/09/2021 - 12:18:39: INFO - field value: {9E60D58A-01BF-4E2B-A642-9BDD5236B8CB}
+22/09/2021 - 12:18:39: INFO - is not Date
+22/09/2021 - 12:18:39: INFO - propcessing field: rcaZoneReferenceId
+22/09/2021 - 12:18:39: INFO - field value: None
+22/09/2021 - 12:18:39: INFO - is not Date
+22/09/2021 - 12:18:39: INFO - propcessing field: speedLimitZoneName
+22/09/2021 - 12:18:39: INFO - field value: {85260BBB-74EF-444F-8E00-4B9B192487C9}
+22/09/2021 - 12:18:39: INFO - is not Date
+22/09/2021 - 12:18:39: INFO - propcessing field: speedCategoryId
+22/09/2021 - 12:18:39: INFO - field value: {AADE6D88-2221-424E-ABB5-F9586548F6B6}
+22/09/2021 - 12:18:39: INFO - is not Date
+22/09/2021 - 12:18:39: INFO - propcessing field: speedValueTypeId
+22/09/2021 - 12:18:39: INFO - field value: None
+22/09/2021 - 12:18:39: INFO - is not Date
+22/09/2021 - 12:18:39: INFO - propcessing field: speedLimitZoneStartDate
+22/09/2021 - 12:18:39: INFO - field value: Variable Selywn
+22/09/2021 - 12:18:39: INFO - is Date
+22/09/2021 - 12:18:39: INFO - propcessing field: speedLimitZoneEndDate
+22/09/2021 - 12:18:39: INFO - field value: 1002
+22/09/2021 - 12:18:39: INFO - is Date
+22/09/2021 - 12:18:39: INFO - propcessing field: speedLImitZoneLock
+22/09/2021 - 12:18:39: INFO - field value: 1005
+22/09/2021 - 12:18:39: INFO - is not Date
+22/09/2021 - 12:18:39: INFO - process speedLimitZoneId: {AF6ADC89-476B-43CC-B626-AD159EB01DE8}
+22/09/2021 - 12:18:39: INFO - propcessing field: OBJECTID
+22/09/2021 - 12:18:39: INFO - field value: 3
+22/09/2021 - 12:18:39: INFO - is not Date
+22/09/2021 - 12:18:39: INFO - propcessing field: speedLimitZoneId
+22/09/2021 - 12:18:39: INFO - field value: {AF6ADC89-476B-43CC-B626-AD159EB01DE8}
+22/09/2021 - 12:18:39: INFO - is not Date
+22/09/2021 - 12:18:39: INFO - propcessing field: rcaZoneReferenceId
+22/09/2021 - 12:18:39: INFO - field value: None
+22/09/2021 - 12:18:39: INFO - is not Date
+22/09/2021 - 12:18:39: INFO - propcessing field: speedLimitZoneName
+22/09/2021 - 12:18:39: INFO - field value: {85260BBB-74EF-444F-8E00-4B9B192487C9}
+22/09/2021 - 12:18:39: INFO - is not Date
+22/09/2021 - 12:18:39: INFO - propcessing field: speedCategoryId
+22/09/2021 - 12:18:40: INFO - field value: {5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}
+22/09/2021 - 12:18:40: INFO - is not Date
+22/09/2021 - 12:18:40: INFO - propcessing field: speedValueTypeId
+22/09/2021 - 12:18:40: INFO - field value: None
+22/09/2021 - 12:18:40: INFO - is not Date
+22/09/2021 - 12:18:40: INFO - propcessing field: speedLimitZoneStartDate
+22/09/2021 - 12:18:40: INFO - field value: GSC Test
+22/09/2021 - 12:18:40: INFO - is Date
+22/09/2021 - 12:18:40: INFO - propcessing field: speedLimitZoneEndDate
+22/09/2021 - 12:18:40: INFO - field value: 1001
+22/09/2021 - 12:18:40: INFO - is Date
+22/09/2021 - 12:18:40: INFO - propcessing field: speedLImitZoneLock
+22/09/2021 - 12:18:40: INFO - field value: 1005
+22/09/2021 - 12:18:40: INFO - is not Date
+22/09/2021 - 12:18:40: INFO - process speedLimitZoneId: {D1223385-3C2E-46EC-8814-0480056B703B}
+22/09/2021 - 12:18:40: INFO - propcessing field: OBJECTID
+22/09/2021 - 12:18:40: INFO - field value: 4
+22/09/2021 - 12:18:40: INFO - is not Date
+22/09/2021 - 12:18:40: INFO - propcessing field: speedLimitZoneId
+22/09/2021 - 12:18:40: INFO - field value: {D1223385-3C2E-46EC-8814-0480056B703B}
+22/09/2021 - 12:18:40: INFO - is not Date
+22/09/2021 - 12:18:40: INFO - propcessing field: rcaZoneReferenceId
+22/09/2021 - 12:18:40: INFO - field value: None
+22/09/2021 - 12:18:40: INFO - is not Date
+22/09/2021 - 12:18:40: INFO - propcessing field: speedLimitZoneName
+22/09/2021 - 12:18:40: INFO - field value: {85260BBB-74EF-444F-8E00-4B9B192487C9}
+22/09/2021 - 12:18:40: INFO - is not Date
+22/09/2021 - 12:18:40: INFO - propcessing field: speedCategoryId
+22/09/2021 - 12:18:40: INFO - field value: {5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}
+22/09/2021 - 12:18:40: INFO - is not Date
+22/09/2021 - 12:18:40: INFO - propcessing field: speedValueTypeId
+22/09/2021 - 12:18:40: INFO - field value: None
+22/09/2021 - 12:18:40: INFO - is not Date
+22/09/2021 - 12:18:40: INFO - propcessing field: speedLimitZoneStartDate
+22/09/2021 - 12:18:40: INFO - field value: GSC Test
+22/09/2021 - 12:18:40: INFO - is Date
+22/09/2021 - 12:18:40: INFO - propcessing field: speedLimitZoneEndDate
+22/09/2021 - 12:18:40: INFO - field value: 1001
+22/09/2021 - 12:18:40: INFO - is Date
+22/09/2021 - 12:18:40: INFO - propcessing field: speedLImitZoneLock
+22/09/2021 - 12:18:40: INFO - field value: 1007
+22/09/2021 - 12:18:40: INFO - is not Date
+22/09/2021 - 12:18:40: INFO - process speedLimitZoneId: {A427BEE8-6834-4BFE-8E11-E32BDF465E3E}
+22/09/2021 - 12:18:40: INFO - propcessing field: OBJECTID
+22/09/2021 - 12:18:40: INFO - field value: 5
+22/09/2021 - 12:18:40: INFO - is not Date
+22/09/2021 - 12:18:40: INFO - propcessing field: speedLimitZoneId
+22/09/2021 - 12:18:40: INFO - field value: {A427BEE8-6834-4BFE-8E11-E32BDF465E3E}
+22/09/2021 - 12:18:40: INFO - is not Date
+22/09/2021 - 12:18:40: INFO - propcessing field: rcaZoneReferenceId
+22/09/2021 - 12:18:40: INFO - field value: None
+22/09/2021 - 12:18:40: INFO - is not Date
+22/09/2021 - 12:18:40: INFO - propcessing field: speedLimitZoneName
+22/09/2021 - 12:18:40: INFO - field value: {85260BBB-74EF-444F-8E00-4B9B192487C9}
+22/09/2021 - 12:18:40: INFO - is not Date
+22/09/2021 - 12:18:40: INFO - propcessing field: speedCategoryId
+22/09/2021 - 12:18:40: INFO - field value: {5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}
+22/09/2021 - 12:18:40: INFO - is not Date
+22/09/2021 - 12:18:40: INFO - propcessing field: speedValueTypeId
+22/09/2021 - 12:18:40: INFO - field value: None
+22/09/2021 - 12:18:40: INFO - is not Date
+22/09/2021 - 12:18:40: INFO - propcessing field: speedLimitZoneStartDate
+22/09/2021 - 12:18:40: INFO - field value: GSC Test
+22/09/2021 - 12:18:40: INFO - is Date
+22/09/2021 - 12:18:40: INFO - propcessing field: speedLimitZoneEndDate
+22/09/2021 - 12:18:40: INFO - field value: 1001
+22/09/2021 - 12:18:40: INFO - is Date
+22/09/2021 - 12:18:40: INFO - propcessing field: speedLImitZoneLock
+22/09/2021 - 12:18:40: INFO - field value: 1005
+22/09/2021 - 12:18:40: INFO - is not Date
+22/09/2021 - 12:18:40: INFO - process speedLimitZoneId: {67C43EF4-8919-4B8A-B303-321B46236112}
+22/09/2021 - 12:18:40: INFO - propcessing field: OBJECTID
+22/09/2021 - 12:18:40: INFO - field value: 6
+22/09/2021 - 12:18:40: INFO - is not Date
+22/09/2021 - 12:18:40: INFO - propcessing field: speedLimitZoneId
+22/09/2021 - 12:18:40: INFO - field value: {67C43EF4-8919-4B8A-B303-321B46236112}
+22/09/2021 - 12:18:40: INFO - is not Date
+22/09/2021 - 12:18:40: INFO - propcessing field: rcaZoneReferenceId
+22/09/2021 - 12:18:40: INFO - field value: None
+22/09/2021 - 12:18:40: INFO - is not Date
+22/09/2021 - 12:18:40: INFO - propcessing field: speedLimitZoneName
+22/09/2021 - 12:18:40: INFO - field value: {85260BBB-74EF-444F-8E00-4B9B192487C9}
+22/09/2021 - 12:18:40: INFO - is not Date
+22/09/2021 - 12:18:40: INFO - propcessing field: speedCategoryId
+22/09/2021 - 12:18:40: INFO - field value: {5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}
+22/09/2021 - 12:18:40: INFO - is not Date
+22/09/2021 - 12:18:40: INFO - propcessing field: speedValueTypeId
+22/09/2021 - 12:18:40: INFO - field value: None
+22/09/2021 - 12:18:40: INFO - is not Date
+22/09/2021 - 12:18:40: INFO - propcessing field: speedLimitZoneStartDate
+22/09/2021 - 12:18:40: INFO - field value: Sub Test
+22/09/2021 - 12:18:40: INFO - is Date
+22/09/2021 - 12:18:40: INFO - propcessing field: speedLimitZoneEndDate
+22/09/2021 - 12:18:40: INFO - field value: 1001
+22/09/2021 - 12:18:40: INFO - is Date
+22/09/2021 - 12:18:40: INFO - propcessing field: speedLImitZoneLock
+22/09/2021 - 12:18:40: INFO - field value: 1007
+22/09/2021 - 12:18:40: INFO - is not Date
+22/09/2021 - 12:18:40: INFO - output data: [{"attributes": {"OBJECTID": 1, "speedLimitZoneId": "{10A35377-2569-4500-A57A-F462D41DE938}", "rcaZoneReferenceId": null, "speedLimitZoneName": "{85260BBB-74EF-444F-8E00-4B9B192487C9}", "speedCategoryId": "{DBB9740A-9DB2-4785-882F-FD324C07F2DE}", "speedValueTypeId": null, "speedLimitZoneStartDate": "Overlap Test", "speedLimitZoneEndDate": "1001", "speedLImitZoneLock": 1005}, "geometry": {"rings": [[[1442807.4052999998, 5209716.0887], [1440151.2186000003, 5210490.0136], [1440198.9917000001, 5210843.5349], [1442893.3969999999, 5210040.9461], [1442807.4052999998, 5209716.0887]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}, {"attributes": {"OBJECTID": 2, "speedLimitZoneId": "{9E60D58A-01BF-4E2B-A642-9BDD5236B8CB}", "rcaZoneReferenceId": null, "speedLimitZoneName": "{85260BBB-74EF-444F-8E00-4B9B192487C9}", "speedCategoryId": "{AADE6D88-2221-424E-ABB5-F9586548F6B6}", "speedValueTypeId": null, "speedLimitZoneStartDate": "Variable Selywn", "speedLimitZoneEndDate": "1002", "speedLImitZoneLock": 1005}, "geometry": {"rings": [[[1511863.4830999998, 5249711.7637], [1510028.9944000002, 5250074.8396], [1512150.1218999997, 5256113.3649], [1513812.6272999998, 5255826.726], [1511863.4830999998, 5249711.7637]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}, {"attributes": {"OBJECTID": 3, "speedLimitZoneId": "{AF6ADC89-476B-43CC-B626-AD159EB01DE8}", "rcaZoneReferenceId": null, "speedLimitZoneName": "{85260BBB-74EF-444F-8E00-4B9B192487C9}", "speedCategoryId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedValueTypeId": null, "speedLimitZoneStartDate": "GSC Test", "speedLimitZoneEndDate": "1001", "speedLImitZoneLock": 1005}, "geometry": {"rings": [[[1809520.7785999998, 5443908.7933], [1808976.1648000004, 5444128.5497], [1809195.9212999996, 5444998.0209], [1809721.4258000003, 5445313.3237], [1810438.023, 5444654.0543], [1809520.7785999998, 5443908.7933]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}, {"attributes": {"OBJECTID": 4, "speedLimitZoneId": "{D1223385-3C2E-46EC-8814-0480056B703B}", "rcaZoneReferenceId": null, "speedLimitZoneName": "{85260BBB-74EF-444F-8E00-4B9B192487C9}", "speedCategoryId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedValueTypeId": null, "speedLimitZoneStartDate": "GSC Test", "speedLimitZoneEndDate": "1001", "speedLImitZoneLock": 1007}, "geometry": {"rings": [[[1810316.6372999996, 5443646.8364], [1809874.7687999997, 5444196.4103], [1810438.023, 5444654.0543], [1810045.2045, 5445015.4473], [1810431.2928999998, 5445342.783], [1811338.9825999998, 5444487.6437], [1810316.6372999996, 5443646.8364]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}, {"attributes": {"OBJECTID": 5, "speedLimitZoneId": "{A427BEE8-6834-4BFE-8E11-E32BDF465E3E}", "rcaZoneReferenceId": null, "speedLimitZoneName": "{85260BBB-74EF-444F-8E00-4B9B192487C9}", "speedCategoryId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedValueTypeId": null, "speedLimitZoneStartDate": "GSC Test", "speedLimitZoneEndDate": "1001", "speedLImitZoneLock": 1005}, "geometry": {"rings": [[[1810731.0859000003, 5444709.7888], [1810339.3460999997, 5445082.4194], [1810946.0650000004, 5445517.155], [1811347.3594000004, 5445201.8522], [1810731.0859000003, 5444709.7888]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}, {"attributes": {"OBJECTID": 6, "speedLimitZoneId": "{67C43EF4-8919-4B8A-B303-321B46236112}", "rcaZoneReferenceId": null, "speedLimitZoneName": "{85260BBB-74EF-444F-8E00-4B9B192487C9}", "speedCategoryId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedValueTypeId": null, "speedLimitZoneStartDate": "Sub Test", "speedLimitZoneEndDate": "1001", "speedLImitZoneLock": 1007}, "geometry": {"rings": [[[1810309.7588, 5443761.242], [1809913.5206000004, 5444227.8961], [1810438.023, 5444654.0543], [1810040.6341000004, 5445019.652], [1810508.0174000002, 5445309.0918], [1811327.3268, 5444582.94], [1810309.7588, 5443761.242]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}]
+22/09/2021 - 12:21:19: INFO - Process started...
+22/09/2021 - 12:21:19: INFO - input file: C:\projects\gp\data\templateYZ.gdb.zip
+22/09/2021 - 12:21:19: INFO - Zip Folder C:\Users\yxz\AppData\Local\Temp\scratch\02619e12-1b3b-11ec-bd91-cc483a7b2fd3
+22/09/2021 - 12:21:20: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\02619e12-1b3b-11ec-bd91-cc483a7b2fd3\templateYZ.gdb\SpeedLimitZoneGeometryDraft
+22/09/2021 - 12:21:20: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\02619e12-1b3b-11ec-bd91-cc483a7b2fd3\templateYZ.gdb\SpeedLimitZone
+22/09/2021 - 12:21:20: INFO - Generating output json ...
+22/09/2021 - 12:21:20: INFO - reading geometry draft features ...
+22/09/2021 - 12:21:20: INFO - total draft geometries: 6
+22/09/2021 - 12:21:20: INFO - reading speed limit zone records ...
+22/09/2021 - 12:21:20: INFO - process speedLimitZoneId: {10A35377-2569-4500-A57A-F462D41DE938}
+22/09/2021 - 12:21:20: INFO - propcessing field: OBJECTID
+22/09/2021 - 12:21:20: INFO - field value: 1
+22/09/2021 - 12:21:20: INFO - is not Date
+22/09/2021 - 12:21:20: INFO - propcessing field: speedLimitZoneId
+22/09/2021 - 12:21:20: INFO - field value: {10A35377-2569-4500-A57A-F462D41DE938}
+22/09/2021 - 12:21:20: INFO - is not Date
+22/09/2021 - 12:21:20: INFO - propcessing field: rcaZoneReferenceId
+22/09/2021 - 12:21:20: INFO - field value: {DBB9740A-9DB2-4785-882F-FD324C07F2DE}
+22/09/2021 - 12:21:20: INFO - is not Date
+22/09/2021 - 12:21:20: INFO - propcessing field: speedLimitZoneName
+22/09/2021 - 12:21:20: INFO - field value: Overlap Test
+22/09/2021 - 12:21:20: INFO - is not Date
+22/09/2021 - 12:21:20: INFO - propcessing field: speedCategoryId
+22/09/2021 - 12:21:20: INFO - field value: 1001
+22/09/2021 - 12:21:20: INFO - is not Date
+22/09/2021 - 12:21:20: INFO - propcessing field: speedValueTypeId
+22/09/2021 - 12:21:20: INFO - field value: 1005
+22/09/2021 - 12:21:20: INFO - is not Date
+22/09/2021 - 12:21:20: INFO - propcessing field: speedLimitZoneStartDate
+22/09/2021 - 12:21:20: INFO - field value: 2021-09-17 12:00:00
+22/09/2021 - 12:21:20: INFO - is Date
+22/09/2021 - 12:21:20: INFO - propcessing field: speedLimitZoneEndDate
+22/09/2021 - 12:21:20: INFO - field value: None
+22/09/2021 - 12:21:20: INFO - is not Date
+22/09/2021 - 12:21:20: INFO - propcessing field: speedLImitZoneLock
+22/09/2021 - 12:21:20: INFO - field value: 0
+22/09/2021 - 12:21:20: INFO - is not Date
+22/09/2021 - 12:21:20: INFO - process speedLimitZoneId: {9E60D58A-01BF-4E2B-A642-9BDD5236B8CB}
+22/09/2021 - 12:21:20: INFO - propcessing field: OBJECTID
+22/09/2021 - 12:21:20: INFO - field value: 2
+22/09/2021 - 12:21:20: INFO - is not Date
+22/09/2021 - 12:21:20: INFO - propcessing field: speedLimitZoneId
+22/09/2021 - 12:21:20: INFO - field value: {9E60D58A-01BF-4E2B-A642-9BDD5236B8CB}
+22/09/2021 - 12:21:20: INFO - is not Date
+22/09/2021 - 12:21:20: INFO - propcessing field: rcaZoneReferenceId
+22/09/2021 - 12:21:20: INFO - field value: {AADE6D88-2221-424E-ABB5-F9586548F6B6}
+22/09/2021 - 12:21:20: INFO - is not Date
+22/09/2021 - 12:21:20: INFO - propcessing field: speedLimitZoneName
+22/09/2021 - 12:21:20: INFO - field value: Variable Selywn
+22/09/2021 - 12:21:20: INFO - is not Date
+22/09/2021 - 12:21:20: INFO - propcessing field: speedCategoryId
+22/09/2021 - 12:21:20: INFO - field value: 1002
+22/09/2021 - 12:21:20: INFO - is not Date
+22/09/2021 - 12:21:20: INFO - propcessing field: speedValueTypeId
+22/09/2021 - 12:21:20: INFO - field value: 1005
+22/09/2021 - 12:21:20: INFO - is not Date
+22/09/2021 - 12:21:20: INFO - propcessing field: speedLimitZoneStartDate
+22/09/2021 - 12:21:20: INFO - field value: 2021-09-17 12:00:00
+22/09/2021 - 12:21:20: INFO - is Date
+22/09/2021 - 12:21:20: INFO - propcessing field: speedLimitZoneEndDate
+22/09/2021 - 12:21:20: INFO - field value: None
+22/09/2021 - 12:21:20: INFO - is not Date
+22/09/2021 - 12:21:20: INFO - propcessing field: speedLImitZoneLock
+22/09/2021 - 12:21:20: INFO - field value: 0
+22/09/2021 - 12:21:20: INFO - is not Date
+22/09/2021 - 12:21:20: INFO - process speedLimitZoneId: {AF6ADC89-476B-43CC-B626-AD159EB01DE8}
+22/09/2021 - 12:21:20: INFO - propcessing field: OBJECTID
+22/09/2021 - 12:21:20: INFO - field value: 3
+22/09/2021 - 12:21:20: INFO - is not Date
+22/09/2021 - 12:21:20: INFO - propcessing field: speedLimitZoneId
+22/09/2021 - 12:21:20: INFO - field value: {AF6ADC89-476B-43CC-B626-AD159EB01DE8}
+22/09/2021 - 12:21:20: INFO - is not Date
+22/09/2021 - 12:21:20: INFO - propcessing field: rcaZoneReferenceId
+22/09/2021 - 12:21:20: INFO - field value: {5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}
+22/09/2021 - 12:21:20: INFO - is not Date
+22/09/2021 - 12:21:20: INFO - propcessing field: speedLimitZoneName
+22/09/2021 - 12:21:20: INFO - field value: GSC Test
+22/09/2021 - 12:21:20: INFO - is not Date
+22/09/2021 - 12:21:20: INFO - propcessing field: speedCategoryId
+22/09/2021 - 12:21:20: INFO - field value: 1001
+22/09/2021 - 12:21:20: INFO - is not Date
+22/09/2021 - 12:21:20: INFO - propcessing field: speedValueTypeId
+22/09/2021 - 12:21:20: INFO - field value: 1005
+22/09/2021 - 12:21:20: INFO - is not Date
+22/09/2021 - 12:21:20: INFO - propcessing field: speedLimitZoneStartDate
+22/09/2021 - 12:21:20: INFO - field value: 2021-09-17 12:00:00
+22/09/2021 - 12:21:20: INFO - is Date
+22/09/2021 - 12:21:20: INFO - propcessing field: speedLimitZoneEndDate
+22/09/2021 - 12:21:20: INFO - field value: None
+22/09/2021 - 12:21:20: INFO - is not Date
+22/09/2021 - 12:21:20: INFO - propcessing field: speedLImitZoneLock
+22/09/2021 - 12:21:20: INFO - field value: 0
+22/09/2021 - 12:21:20: INFO - is not Date
+22/09/2021 - 12:21:20: INFO - process speedLimitZoneId: {D1223385-3C2E-46EC-8814-0480056B703B}
+22/09/2021 - 12:21:20: INFO - propcessing field: OBJECTID
+22/09/2021 - 12:21:20: INFO - field value: 4
+22/09/2021 - 12:21:20: INFO - is not Date
+22/09/2021 - 12:21:20: INFO - propcessing field: speedLimitZoneId
+22/09/2021 - 12:21:20: INFO - field value: {D1223385-3C2E-46EC-8814-0480056B703B}
+22/09/2021 - 12:21:20: INFO - is not Date
+22/09/2021 - 12:21:20: INFO - propcessing field: rcaZoneReferenceId
+22/09/2021 - 12:21:20: INFO - field value: {5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}
+22/09/2021 - 12:21:20: INFO - is not Date
+22/09/2021 - 12:21:20: INFO - propcessing field: speedLimitZoneName
+22/09/2021 - 12:21:20: INFO - field value: GSC Test
+22/09/2021 - 12:21:20: INFO - is not Date
+22/09/2021 - 12:21:20: INFO - propcessing field: speedCategoryId
+22/09/2021 - 12:21:21: INFO - field value: 1001
+22/09/2021 - 12:21:21: INFO - is not Date
+22/09/2021 - 12:21:21: INFO - propcessing field: speedValueTypeId
+22/09/2021 - 12:21:21: INFO - field value: 1007
+22/09/2021 - 12:21:21: INFO - is not Date
+22/09/2021 - 12:21:21: INFO - propcessing field: speedLimitZoneStartDate
+22/09/2021 - 12:21:21: INFO - field value: 2021-09-17 12:00:00
+22/09/2021 - 12:21:21: INFO - is Date
+22/09/2021 - 12:21:21: INFO - propcessing field: speedLimitZoneEndDate
+22/09/2021 - 12:21:21: INFO - field value: None
+22/09/2021 - 12:21:21: INFO - is not Date
+22/09/2021 - 12:21:21: INFO - propcessing field: speedLImitZoneLock
+22/09/2021 - 12:21:21: INFO - field value: 0
+22/09/2021 - 12:21:21: INFO - is not Date
+22/09/2021 - 12:21:21: INFO - process speedLimitZoneId: {A427BEE8-6834-4BFE-8E11-E32BDF465E3E}
+22/09/2021 - 12:21:21: INFO - propcessing field: OBJECTID
+22/09/2021 - 12:21:21: INFO - field value: 5
+22/09/2021 - 12:21:21: INFO - is not Date
+22/09/2021 - 12:21:21: INFO - propcessing field: speedLimitZoneId
+22/09/2021 - 12:21:21: INFO - field value: {A427BEE8-6834-4BFE-8E11-E32BDF465E3E}
+22/09/2021 - 12:21:21: INFO - is not Date
+22/09/2021 - 12:21:21: INFO - propcessing field: rcaZoneReferenceId
+22/09/2021 - 12:21:21: INFO - field value: {5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}
+22/09/2021 - 12:21:21: INFO - is not Date
+22/09/2021 - 12:21:21: INFO - propcessing field: speedLimitZoneName
+22/09/2021 - 12:21:21: INFO - field value: GSC Test
+22/09/2021 - 12:21:21: INFO - is not Date
+22/09/2021 - 12:21:21: INFO - propcessing field: speedCategoryId
+22/09/2021 - 12:21:21: INFO - field value: 1001
+22/09/2021 - 12:21:21: INFO - is not Date
+22/09/2021 - 12:21:21: INFO - propcessing field: speedValueTypeId
+22/09/2021 - 12:21:21: INFO - field value: 1005
+22/09/2021 - 12:21:21: INFO - is not Date
+22/09/2021 - 12:21:21: INFO - propcessing field: speedLimitZoneStartDate
+22/09/2021 - 12:21:21: INFO - field value: 2021-09-17 12:00:00
+22/09/2021 - 12:21:21: INFO - is Date
+22/09/2021 - 12:21:21: INFO - propcessing field: speedLimitZoneEndDate
+22/09/2021 - 12:21:21: INFO - field value: None
+22/09/2021 - 12:21:21: INFO - is not Date
+22/09/2021 - 12:21:21: INFO - propcessing field: speedLImitZoneLock
+22/09/2021 - 12:21:21: INFO - field value: 0
+22/09/2021 - 12:21:21: INFO - is not Date
+22/09/2021 - 12:21:21: INFO - process speedLimitZoneId: {67C43EF4-8919-4B8A-B303-321B46236112}
+22/09/2021 - 12:21:21: INFO - propcessing field: OBJECTID
+22/09/2021 - 12:21:21: INFO - field value: 6
+22/09/2021 - 12:21:21: INFO - is not Date
+22/09/2021 - 12:21:21: INFO - propcessing field: speedLimitZoneId
+22/09/2021 - 12:21:21: INFO - field value: {67C43EF4-8919-4B8A-B303-321B46236112}
+22/09/2021 - 12:21:21: INFO - is not Date
+22/09/2021 - 12:21:21: INFO - propcessing field: rcaZoneReferenceId
+22/09/2021 - 12:21:21: INFO - field value: {5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}
+22/09/2021 - 12:21:21: INFO - is not Date
+22/09/2021 - 12:21:21: INFO - propcessing field: speedLimitZoneName
+22/09/2021 - 12:21:21: INFO - field value: Sub Test
+22/09/2021 - 12:21:21: INFO - is not Date
+22/09/2021 - 12:21:21: INFO - propcessing field: speedCategoryId
+22/09/2021 - 12:21:21: INFO - field value: 1001
+22/09/2021 - 12:21:21: INFO - is not Date
+22/09/2021 - 12:21:21: INFO - propcessing field: speedValueTypeId
+22/09/2021 - 12:21:21: INFO - field value: 1007
+22/09/2021 - 12:21:21: INFO - is not Date
+22/09/2021 - 12:21:21: INFO - propcessing field: speedLimitZoneStartDate
+22/09/2021 - 12:21:21: INFO - field value: 2021-09-17 12:00:00
+22/09/2021 - 12:21:21: INFO - is Date
+22/09/2021 - 12:21:21: INFO - propcessing field: speedLimitZoneEndDate
+22/09/2021 - 12:21:21: INFO - field value: None
+22/09/2021 - 12:21:21: INFO - is not Date
+22/09/2021 - 12:21:21: INFO - propcessing field: speedLImitZoneLock
+22/09/2021 - 12:21:21: INFO - field value: 0
+22/09/2021 - 12:21:21: INFO - is not Date
+22/09/2021 - 12:21:21: INFO - output data: [{"attributes": {"OBJECTID": 1, "speedLimitZoneId": "{10A35377-2569-4500-A57A-F462D41DE938}", "rcaZoneReferenceId": "{DBB9740A-9DB2-4785-882F-FD324C07F2DE}", "speedLimitZoneName": "Overlap Test", "speedCategoryId": 1001, "speedValueTypeId": 1005, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null, "speedLImitZoneLock": 0}, "geometry": {"rings": [[[1442807.4052999998, 5209716.0887], [1440151.2186000003, 5210490.0136], [1440198.9917000001, 5210843.5349], [1442893.3969999999, 5210040.9461], [1442807.4052999998, 5209716.0887]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}, {"attributes": {"OBJECTID": 2, "speedLimitZoneId": "{9E60D58A-01BF-4E2B-A642-9BDD5236B8CB}", "rcaZoneReferenceId": "{AADE6D88-2221-424E-ABB5-F9586548F6B6}", "speedLimitZoneName": "Variable Selywn", "speedCategoryId": 1002, "speedValueTypeId": 1005, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null, "speedLImitZoneLock": 0}, "geometry": {"rings": [[[1511863.4830999998, 5249711.7637], [1510028.9944000002, 5250074.8396], [1512150.1218999997, 5256113.3649], [1513812.6272999998, 5255826.726], [1511863.4830999998, 5249711.7637]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}, {"attributes": {"OBJECTID": 3, "speedLimitZoneId": "{AF6ADC89-476B-43CC-B626-AD159EB01DE8}", "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedLimitZoneName": "GSC Test", "speedCategoryId": 1001, "speedValueTypeId": 1005, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null, "speedLImitZoneLock": 0}, "geometry": {"rings": [[[1809520.7785999998, 5443908.7933], [1808976.1648000004, 5444128.5497], [1809195.9212999996, 5444998.0209], [1809721.4258000003, 5445313.3237], [1810438.023, 5444654.0543], [1809520.7785999998, 5443908.7933]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}, {"attributes": {"OBJECTID": 4, "speedLimitZoneId": "{D1223385-3C2E-46EC-8814-0480056B703B}", "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedLimitZoneName": "GSC Test", "speedCategoryId": 1001, "speedValueTypeId": 1007, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null, "speedLImitZoneLock": 0}, "geometry": {"rings": [[[1810316.6372999996, 5443646.8364], [1809874.7687999997, 5444196.4103], [1810438.023, 5444654.0543], [1810045.2045, 5445015.4473], [1810431.2928999998, 5445342.783], [1811338.9825999998, 5444487.6437], [1810316.6372999996, 5443646.8364]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}, {"attributes": {"OBJECTID": 5, "speedLimitZoneId": "{A427BEE8-6834-4BFE-8E11-E32BDF465E3E}", "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedLimitZoneName": "GSC Test", "speedCategoryId": 1001, "speedValueTypeId": 1005, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null, "speedLImitZoneLock": 0}, "geometry": {"rings": [[[1810731.0859000003, 5444709.7888], [1810339.3460999997, 5445082.4194], [1810946.0650000004, 5445517.155], [1811347.3594000004, 5445201.8522], [1810731.0859000003, 5444709.7888]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}, {"attributes": {"OBJECTID": 6, "speedLimitZoneId": "{67C43EF4-8919-4B8A-B303-321B46236112}", "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedLimitZoneName": "Sub Test", "speedCategoryId": 1001, "speedValueTypeId": 1007, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null, "speedLImitZoneLock": 0}, "geometry": {"rings": [[[1810309.7588, 5443761.242], [1809913.5206000004, 5444227.8961], [1810438.023, 5444654.0543], [1810040.6341000004, 5445019.652], [1810508.0174000002, 5445309.0918], [1811327.3268, 5444582.94], [1810309.7588, 5443761.242]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}]
+22/09/2021 - 13:32:13: INFO - Process started...
+22/09/2021 - 13:32:13: INFO - input file: C:\projects\gp\data\templateYZ.gdb.zip
+22/09/2021 - 13:32:13: INFO - Zip Folder C:\projects\gp\publishGP\scratch\e9db1fdc-1b44-11ec-8af3-cc483a7b2fd3
+22/09/2021 - 13:32:13: INFO - fc: C:\projects\gp\publishGP\scratch\e9db1fdc-1b44-11ec-8af3-cc483a7b2fd3\templateYZ.gdb\SpeedLimitZoneGeometryDraft
+22/09/2021 - 13:32:13: INFO - fc: C:\projects\gp\publishGP\scratch\e9db1fdc-1b44-11ec-8af3-cc483a7b2fd3\templateYZ.gdb\SpeedLimitZone
+22/09/2021 - 13:32:13: INFO - Generating output json ...
+22/09/2021 - 13:32:13: INFO - reading geometry draft features ...
+22/09/2021 - 13:32:14: INFO - total draft geometries: 6
+22/09/2021 - 13:32:14: INFO - reading speed limit zone records ...
+22/09/2021 - 13:32:14: INFO - process speedLimitZoneId: {10A35377-2569-4500-A57A-F462D41DE938}
+22/09/2021 - 13:32:14: INFO - process speedLimitZoneId: {9E60D58A-01BF-4E2B-A642-9BDD5236B8CB}
+22/09/2021 - 13:32:14: INFO - process speedLimitZoneId: {AF6ADC89-476B-43CC-B626-AD159EB01DE8}
+22/09/2021 - 13:32:14: INFO - process speedLimitZoneId: {D1223385-3C2E-46EC-8814-0480056B703B}
+22/09/2021 - 13:32:14: INFO - process speedLimitZoneId: {A427BEE8-6834-4BFE-8E11-E32BDF465E3E}
+22/09/2021 - 13:32:14: INFO - process speedLimitZoneId: {67C43EF4-8919-4B8A-B303-321B46236112}
+22/09/2021 - 13:32:14: INFO - output data: [{"attributes": {"OBJECTID": 1, "speedLimitZoneId": "{10A35377-2569-4500-A57A-F462D41DE938}", "rcaZoneReferenceId": "{DBB9740A-9DB2-4785-882F-FD324C07F2DE}", "speedLimitZoneName": "Overlap Test", "speedCategoryId": 1001, "speedValueTypeId": 1005, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null, "speedLImitZoneLock": 0}, "geometry": {"rings": [[[1442807.4052999998, 5209716.0887], [1440151.2186000003, 5210490.0136], [1440198.9917000001, 5210843.5349], [1442893.3969999999, 5210040.9461], [1442807.4052999998, 5209716.0887]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}, {"attributes": {"OBJECTID": 2, "speedLimitZoneId": "{9E60D58A-01BF-4E2B-A642-9BDD5236B8CB}", "rcaZoneReferenceId": "{AADE6D88-2221-424E-ABB5-F9586548F6B6}", "speedLimitZoneName": "Variable Selywn", "speedCategoryId": 1002, "speedValueTypeId": 1005, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null, "speedLImitZoneLock": 0}, "geometry": {"rings": [[[1511863.4830999998, 5249711.7637], [1510028.9944000002, 5250074.8396], [1512150.1218999997, 5256113.3649], [1513812.6272999998, 5255826.726], [1511863.4830999998, 5249711.7637]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}, {"attributes": {"OBJECTID": 3, "speedLimitZoneId": "{AF6ADC89-476B-43CC-B626-AD159EB01DE8}", "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedLimitZoneName": "GSC Test", "speedCategoryId": 1001, "speedValueTypeId": 1005, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null, "speedLImitZoneLock": 0}, "geometry": {"rings": [[[1809520.7785999998, 5443908.7933], [1808976.1648000004, 5444128.5497], [1809195.9212999996, 5444998.0209], [1809721.4258000003, 5445313.3237], [1810438.023, 5444654.0543], [1809520.7785999998, 5443908.7933]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}, {"attributes": {"OBJECTID": 4, "speedLimitZoneId": "{D1223385-3C2E-46EC-8814-0480056B703B}", "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedLimitZoneName": "GSC Test", "speedCategoryId": 1001, "speedValueTypeId": 1007, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null, "speedLImitZoneLock": 0}, "geometry": {"rings": [[[1810316.6372999996, 5443646.8364], [1809874.7687999997, 5444196.4103], [1810438.023, 5444654.0543], [1810045.2045, 5445015.4473], [1810431.2928999998, 5445342.783], [1811338.9825999998, 5444487.6437], [1810316.6372999996, 5443646.8364]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}, {"attributes": {"OBJECTID": 5, "speedLimitZoneId": "{A427BEE8-6834-4BFE-8E11-E32BDF465E3E}", "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedLimitZoneName": "GSC Test", "speedCategoryId": 1001, "speedValueTypeId": 1005, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null, "speedLImitZoneLock": 0}, "geometry": {"rings": [[[1810731.0859000003, 5444709.7888], [1810339.3460999997, 5445082.4194], [1810946.0650000004, 5445517.155], [1811347.3594000004, 5445201.8522], [1810731.0859000003, 5444709.7888]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}, {"attributes": {"OBJECTID": 6, "speedLimitZoneId": "{67C43EF4-8919-4B8A-B303-321B46236112}", "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedLimitZoneName": "Sub Test", "speedCategoryId": 1001, "speedValueTypeId": 1007, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null, "speedLImitZoneLock": 0}, "geometry": {"rings": [[[1810309.7588, 5443761.242], [1809913.5206000004, 5444227.8961], [1810438.023, 5444654.0543], [1810040.6341000004, 5445019.652], [1810508.0174000002, 5445309.0918], [1811327.3268, 5444582.94], [1810309.7588, 5443761.242]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}]
+23/09/2021 - 14:52:53: INFO - Process started...
+23/09/2021 - 14:52:53: INFO - input file: C:\projects\gp\data\templateYZ.gdb.zip
+23/09/2021 - 14:52:53: INFO - Zip Folder C:\Users\yxz\AppData\Local\Temp\scratch\5921aed2-1c19-11ec-a0ed-cc483a7b2fd3
+23/09/2021 - 14:52:54: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\5921aed2-1c19-11ec-a0ed-cc483a7b2fd3\templateYZ.gdb\SpeedLimitZoneGeometryDraft
+23/09/2021 - 14:52:54: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\5921aed2-1c19-11ec-a0ed-cc483a7b2fd3\templateYZ.gdb\RCAZoneReference
+23/09/2021 - 14:52:54: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\5921aed2-1c19-11ec-a0ed-cc483a7b2fd3\templateYZ.gdb\SpeedLimitZone
+23/09/2021 - 14:52:54: INFO - Generating output json ...
+23/09/2021 - 14:52:54: INFO - reading geometry draft features ...
+23/09/2021 - 14:52:54: INFO - total draft geometries: 6
+23/09/2021 - 14:52:54: INFO - reading rca reference records ...
+23/09/2021 - 14:52:54: INFO - total rca reference: 70
+23/09/2021 - 14:52:54: INFO - reading speed limit zone records ...
+23/09/2021 - 14:52:54: ERROR - No output is generated
+23/09/2021 - 14:54:57: INFO - Process started...
+23/09/2021 - 14:54:57: INFO - input file: C:\projects\gp\data\templateYZ.gdb.zip
+23/09/2021 - 14:54:57: INFO - Zip Folder C:\Users\yxz\AppData\Local\Temp\scratch\a2b89cfa-1c19-11ec-96ce-cc483a7b2fd3
+23/09/2021 - 14:54:57: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\a2b89cfa-1c19-11ec-96ce-cc483a7b2fd3\templateYZ.gdb\SpeedLimitZoneGeometryDraft
+23/09/2021 - 14:54:57: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\a2b89cfa-1c19-11ec-96ce-cc483a7b2fd3\templateYZ.gdb\RCAZoneReference
+23/09/2021 - 14:54:57: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\a2b89cfa-1c19-11ec-96ce-cc483a7b2fd3\templateYZ.gdb\SpeedLimitZone
+23/09/2021 - 14:54:57: INFO - Generating output json ...
+23/09/2021 - 14:54:57: INFO - reading geometry draft features ...
+23/09/2021 - 14:54:57: INFO - total draft geometries: 6
+23/09/2021 - 14:54:57: INFO - reading rca reference records ...
+23/09/2021 - 14:54:57: INFO - total rca reference: 70
+23/09/2021 - 14:54:57: INFO - reading speed limit zone records ...
+23/09/2021 - 14:54:57: ERROR - No output is generated
+23/09/2021 - 15:01:17: INFO - Process started...
+23/09/2021 - 15:01:17: INFO - input file: C:\projects\gp\data\templateYZ.gdb.zip
+23/09/2021 - 15:01:17: INFO - Zip Folder C:\Users\yxz\AppData\Local\Temp\scratch\8574ff02-1c1a-11ec-a226-cc483a7b2fd3
+23/09/2021 - 15:01:17: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\8574ff02-1c1a-11ec-a226-cc483a7b2fd3\templateYZ.gdb\SpeedLimitZoneGeometryDraft
+23/09/2021 - 15:01:17: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\8574ff02-1c1a-11ec-a226-cc483a7b2fd3\templateYZ.gdb\RCAZoneReference
+23/09/2021 - 15:01:17: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\8574ff02-1c1a-11ec-a226-cc483a7b2fd3\templateYZ.gdb\SpeedLimitZone
+23/09/2021 - 15:01:17: INFO - Generating output json ...
+23/09/2021 - 15:01:17: INFO - speedLimitZoneLayer ..C:\Users\yxz\AppData\Local\Temp\scratch\8574ff02-1c1a-11ec-a226-cc483a7b2fd3\templateYZ.gdb\SpeedLimitZone.
+23/09/2021 - 15:01:17: INFO - reading geometry draft features ...
+23/09/2021 - 15:01:18: INFO - total draft geometries: 6
+23/09/2021 - 15:01:18: INFO - reading rca reference records ...
+23/09/2021 - 15:01:18: INFO - total rca reference: 70
+23/09/2021 - 15:01:18: INFO - reading speed limit zone records ...
+23/09/2021 - 15:01:18: ERROR - No output is generated
+23/09/2021 - 15:17:03: INFO - Process started...
+23/09/2021 - 15:17:03: INFO - input file: C:\projects\gp\data\templateYZ.gdb.zip
+23/09/2021 - 15:17:03: INFO - Zip Folder C:\Users\yxz\AppData\Local\Temp\scratch\b97e76e8-1c1c-11ec-b0c2-cc483a7b2fd3
+23/09/2021 - 15:17:04: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\b97e76e8-1c1c-11ec-b0c2-cc483a7b2fd3\templateYZ.gdb\SpeedLimitZoneGeometryDraft
+23/09/2021 - 15:17:04: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\b97e76e8-1c1c-11ec-b0c2-cc483a7b2fd3\templateYZ.gdb\RCAZoneReference
+23/09/2021 - 15:17:04: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\b97e76e8-1c1c-11ec-b0c2-cc483a7b2fd3\templateYZ.gdb\SpeedLimitZone
+23/09/2021 - 15:17:04: INFO - Generating output json ...
+23/09/2021 - 15:17:04: INFO - speedLimitZoneLayer ..C:\Users\yxz\AppData\Local\Temp\scratch\b97e76e8-1c1c-11ec-b0c2-cc483a7b2fd3\templateYZ.gdb\SpeedLimitZone.
+23/09/2021 - 15:17:04: INFO - process file geodatbase ..C:\Users\yxz\AppData\Local\Temp\scratch\b97e76e8-1c1c-11ec-b0c2-cc483a7b2fd3\templateYZ.gdb.
+23/09/2021 - 15:17:04: INFO - reading geometry draft features ...
+23/09/2021 - 15:17:04: INFO - total draft geometries: 6
+23/09/2021 - 15:17:04: INFO - reading rca reference records ...
+23/09/2021 - 15:17:04: INFO - total rca reference: 70
+23/09/2021 - 15:17:04: INFO - reading speed limit zone records ...
+23/09/2021 - 15:17:04: ERROR - No output is generated
+23/09/2021 - 15:18:21: INFO - Process started...
+23/09/2021 - 15:18:21: INFO - input file: C:\projects\gp\data\templateYZ.gdb.zip
+23/09/2021 - 15:18:21: INFO - Zip Folder C:\Users\yxz\AppData\Local\Temp\scratch\e7d7ce18-1c1c-11ec-bec8-cc483a7b2fd3
+23/09/2021 - 15:18:21: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\e7d7ce18-1c1c-11ec-bec8-cc483a7b2fd3\templateYZ.gdb\SpeedLimitZoneGeometryDraft
+23/09/2021 - 15:18:21: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\e7d7ce18-1c1c-11ec-bec8-cc483a7b2fd3\templateYZ.gdb\RCAZoneReference
+23/09/2021 - 15:18:21: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\e7d7ce18-1c1c-11ec-bec8-cc483a7b2fd3\templateYZ.gdb\SpeedLimitZone
+23/09/2021 - 15:18:21: INFO - Generating output json ...
+23/09/2021 - 15:18:21: INFO - speedLimitZoneLayer ..C:\Users\yxz\AppData\Local\Temp\scratch\e7d7ce18-1c1c-11ec-bec8-cc483a7b2fd3\templateYZ.gdb\SpeedLimitZone.
+23/09/2021 - 15:18:22: INFO - process file geodatbase ..C:\Users\yxz\AppData\Local\Temp\scratch\e7d7ce18-1c1c-11ec-bec8-cc483a7b2fd3\templateYZ.gdb.
+23/09/2021 - 15:18:22: INFO - reading geometry draft features ...
+23/09/2021 - 15:18:22: INFO - total draft geometries: 6
+23/09/2021 - 15:18:22: INFO - reading rca reference records ...
+23/09/2021 - 15:18:22: INFO - total rca reference: 70
+23/09/2021 - 15:18:22: INFO - reading speed limit zone records ...
+23/09/2021 - 15:18:22: ERROR - No output is generated
+23/09/2021 - 15:19:50: INFO - Process started...
+23/09/2021 - 15:19:50: INFO - input file: C:\projects\gp\data\templateYZ.gdb.zip
+23/09/2021 - 15:19:50: INFO - Zip Folder C:\Users\yxz\AppData\Local\Temp\scratch\1ceb5868-1c1d-11ec-a267-cc483a7b2fd3
+23/09/2021 - 15:19:50: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\1ceb5868-1c1d-11ec-a267-cc483a7b2fd3\templateYZ.gdb\SpeedLimitZoneGeometryDraft
+23/09/2021 - 15:19:50: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\1ceb5868-1c1d-11ec-a267-cc483a7b2fd3\templateYZ.gdb\RCAZoneReference
+23/09/2021 - 15:19:50: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\1ceb5868-1c1d-11ec-a267-cc483a7b2fd3\templateYZ.gdb\SpeedLimitZone
+23/09/2021 - 15:19:50: INFO - Generating output json ...
+23/09/2021 - 15:19:51: INFO - process file geodatbase ..C:\Users\yxz\AppData\Local\Temp\scratch\1ceb5868-1c1d-11ec-a267-cc483a7b2fd3\templateYZ.gdb.
+23/09/2021 - 15:19:51: INFO - reading geometry draft features ...
+23/09/2021 - 15:19:51: INFO - total draft geometries: 6
+23/09/2021 - 15:19:51: INFO - reading rca reference records ...
+23/09/2021 - 15:19:51: INFO - total rca reference: 70
+23/09/2021 - 15:19:51: INFO - reading speed limit zone records ...
+23/09/2021 - 15:19:51: ERROR - No output is generated
+23/09/2021 - 15:35:34: INFO - Process started...
+23/09/2021 - 15:35:34: INFO - input file: C:\projects\gp\data\templateYZ.gdb.zip
+23/09/2021 - 15:35:34: INFO - Zip Folder C:\Users\yxz\AppData\Local\Temp\scratch\4f822d94-1c1f-11ec-96a4-cc483a7b2fd3
+23/09/2021 - 15:35:34: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\4f822d94-1c1f-11ec-96a4-cc483a7b2fd3\templateYZ.gdb\SpeedLimitZoneGeometryDraft
+23/09/2021 - 15:35:34: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\4f822d94-1c1f-11ec-96a4-cc483a7b2fd3\templateYZ.gdb\RCAZoneReference
+23/09/2021 - 15:35:34: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\4f822d94-1c1f-11ec-96a4-cc483a7b2fd3\templateYZ.gdb\SpeedLimitZone
+23/09/2021 - 15:35:34: INFO - Generating output json ...
+23/09/2021 - 15:35:35: INFO - process file geodatbase ..C:\Users\yxz\AppData\Local\Temp\scratch\4f822d94-1c1f-11ec-96a4-cc483a7b2fd3\templateYZ.gdb.
+23/09/2021 - 15:35:35: INFO - reading geometry draft features ...
+23/09/2021 - 15:35:35: INFO - total draft geometries: 6
+23/09/2021 - 15:35:35: INFO - reading rca reference records ...
+23/09/2021 - 15:35:35: INFO - total rca reference: 70
+23/09/2021 - 15:35:35: INFO - reading speed limit zone records ...
+23/09/2021 - 15:35:35: INFO - process speedLimitZoneId: {10A35377-2569-4500-A57A-F462D41DE938}
+23/09/2021 - 15:35:35: INFO - domain name: domSpeedCategory
+23/09/2021 - 15:35:35: INFO - domain desc: Permanent
+23/09/2021 - 15:35:35: INFO - domain name: domSpeedValueType
+23/09/2021 - 15:35:35: INFO - domain desc: 50 km/h
+23/09/2021 - 15:35:35: INFO - domain name: domSpeedLimitZoneStatusType
+23/09/2021 - 15:35:35: INFO - domain desc: Draft
+23/09/2021 - 15:35:35: INFO - process speedLimitZoneId: {9E60D58A-01BF-4E2B-A642-9BDD5236B8CB}
+23/09/2021 - 15:35:35: INFO - domain name: domSpeedCategory
+23/09/2021 - 15:35:35: INFO - domain desc: Variable
+23/09/2021 - 15:35:35: INFO - domain name: domSpeedValueType
+23/09/2021 - 15:35:35: INFO - domain desc: 50 km/h
+23/09/2021 - 15:35:35: INFO - domain name: domSpeedLimitZoneStatusType
+23/09/2021 - 15:35:35: INFO - domain desc: Draft
+23/09/2021 - 15:35:35: INFO - process speedLimitZoneId: {AF6ADC89-476B-43CC-B626-AD159EB01DE8}
+23/09/2021 - 15:35:35: INFO - domain name: domSpeedCategory
+23/09/2021 - 15:35:35: INFO - domain desc: Permanent
+23/09/2021 - 15:35:35: INFO - domain name: domSpeedValueType
+23/09/2021 - 15:35:35: INFO - domain desc: 50 km/h
+23/09/2021 - 15:35:35: INFO - domain name: domSpeedLimitZoneStatusType
+23/09/2021 - 15:35:35: INFO - domain desc: Submitted
+23/09/2021 - 15:35:35: INFO - process speedLimitZoneId: {D1223385-3C2E-46EC-8814-0480056B703B}
+23/09/2021 - 15:35:35: INFO - domain name: domSpeedCategory
+23/09/2021 - 15:35:35: INFO - domain desc: Permanent
+23/09/2021 - 15:35:35: INFO - domain name: domSpeedValueType
+23/09/2021 - 15:35:35: INFO - domain desc: 70 km/h
+23/09/2021 - 15:35:35: INFO - domain name: domSpeedLimitZoneStatusType
+23/09/2021 - 15:35:35: INFO - domain desc: Draft
+23/09/2021 - 15:35:35: INFO - process speedLimitZoneId: {A427BEE8-6834-4BFE-8E11-E32BDF465E3E}
+23/09/2021 - 15:35:35: INFO - domain name: domSpeedCategory
+23/09/2021 - 15:35:35: INFO - domain desc: Permanent
+23/09/2021 - 15:35:35: INFO - domain name: domSpeedValueType
+23/09/2021 - 15:35:35: INFO - domain desc: 50 km/h
+23/09/2021 - 15:35:35: INFO - domain name: domSpeedLimitZoneStatusType
+23/09/2021 - 15:35:35: INFO - domain desc: Draft
+23/09/2021 - 15:35:35: INFO - process speedLimitZoneId: {67C43EF4-8919-4B8A-B303-321B46236112}
+23/09/2021 - 15:35:35: INFO - domain name: domSpeedCategory
+23/09/2021 - 15:35:35: INFO - domain desc: Permanent
+23/09/2021 - 15:35:35: INFO - domain name: domSpeedValueType
+23/09/2021 - 15:35:35: INFO - domain desc: 70 km/h
+23/09/2021 - 15:35:35: INFO - domain name: domSpeedLimitZoneStatusType
+23/09/2021 - 15:35:35: INFO - domain desc: Draft
+23/09/2021 - 15:35:35: INFO - output data: [{"attributes": {"legalInstrumentTitle": null, "legalInstrumentURL": null, "legalInstrumentId": null, "legalReference": null, "gazetteIssueNumber": null, "gazettePageNumber": null, "publicationDate": null, "effectiveDateFrom": null, "yearEnacted": null, "speedLimitZoneReasonName": null, "speedLimitZoneVarPrdName": null, "speedLimitZoneLanePurposeName": null, "speedLimitZoneStructureTypeName": null, "speedLimitZoneStatusTypeName": "Draft", "speedValueTypeName": "50 km/h", "speedCategoryName": "Permanent", "variableSpeeds": null, "rcaZoneReferenceName": "Ashburton District", "speedLimitZoneId": "{10A35377-2569-4500-A57A-F462D41DE938}", "speedManagementPlanName": null, "speedManagementPlanURL": null, "speedLimitZoneName": "Overlap Test", "speedLimitZoneStatusDate": -2209161600000, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null, "speedLimitZoneApprovalURL": null, "speedLimitZoneApprovalEndDate": null, "speedLimitZoneSeasonalRecurring": null, "speedLimitZoneSeasonalDesc": null, "speedLimitZoneEmergencyReason": null, "speedLimitZoneDescription": null, "speedZoneDirectionTypeId": null, "speedLimitZoneLock": 0, "speedLimitZoneLockOwner": null, "speedLimitZoneLockStartDate": null, "lanesOutFromCentreline": null, "speedLimitZoneSubmittedBy": null, "GlobalIdGeometry": null, "speedLimitZoneSeasonalRecur": null, "parentSpeedLimitZoneId": null, "CorrectionCount": null, "ClarificationCount": null, "GlobalID": "{00000000-0000-0000-0000-000000000000}", "OBJECTID": 1, "displaySpeed": null, "GeometryCount": null, "lastEditedUser": null, "geometry": null, "rcaZoneReferenceId": "{DBB9740A-9DB2-4785-882F-FD324C07F2DE}", "speedCategoryId": 1001, "speedValueTypeId": 1005, "speedLimitZoneStatusTypeId": 1001}, "geometry": {"rings": [[[1442807.4052999998, 5209716.0887], [1440151.2186000003, 5210490.0136], [1440198.9917000001, 5210843.5349], [1442893.3969999999, 5210040.9461], [1442807.4052999998, 5209716.0887]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}, {"attributes": {"legalInstrumentTitle": null, "legalInstrumentURL": null, "legalInstrumentId": null, "legalReference": null, "gazetteIssueNumber": null, "gazettePageNumber": null, "publicationDate": null, "effectiveDateFrom": null, "yearEnacted": null, "speedLimitZoneReasonName": null, "speedLimitZoneVarPrdName": null, "speedLimitZoneLanePurposeName": null, "speedLimitZoneStructureTypeName": null, "speedLimitZoneStatusTypeName": "Draft", "speedValueTypeName": "50 km/h", "speedCategoryName": "Variable", "variableSpeeds": null, "rcaZoneReferenceName": "Selwyn District", "speedLimitZoneId": "{9E60D58A-01BF-4E2B-A642-9BDD5236B8CB}", "speedManagementPlanName": null, "speedManagementPlanURL": null, "speedLimitZoneName": "Variable Selywn", "speedLimitZoneStatusDate": -2209161600000, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null, "speedLimitZoneApprovalURL": null, "speedLimitZoneApprovalEndDate": null, "speedLimitZoneSeasonalRecurring": null, "speedLimitZoneSeasonalDesc": null, "speedLimitZoneEmergencyReason": null, "speedLimitZoneDescription": null, "speedZoneDirectionTypeId": null, "speedLimitZoneLock": 0, "speedLimitZoneLockOwner": null, "speedLimitZoneLockStartDate": null, "lanesOutFromCentreline": null, "speedLimitZoneSubmittedBy": null, "GlobalIdGeometry": null, "speedLimitZoneSeasonalRecur": null, "parentSpeedLimitZoneId": null, "CorrectionCount": null, "ClarificationCount": null, "GlobalID": "{00000000-0000-0000-0000-000000000000}", "OBJECTID": 2, "displaySpeed": null, "GeometryCount": null, "lastEditedUser": null, "geometry": null, "rcaZoneReferenceId": "{AADE6D88-2221-424E-ABB5-F9586548F6B6}", "speedCategoryId": 1002, "speedValueTypeId": 1005, "speedLimitZoneStatusTypeId": 1001}, "geometry": {"rings": [[[1511863.4830999998, 5249711.7637], [1510028.9944000002, 5250074.8396], [1512150.1218999997, 5256113.3649], [1513812.6272999998, 5255826.726], [1511863.4830999998, 5249711.7637]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}, {"attributes": {"legalInstrumentTitle": null, "legalInstrumentURL": null, "legalInstrumentId": null, "legalReference": null, "gazetteIssueNumber": null, "gazettePageNumber": null, "publicationDate": null, "effectiveDateFrom": null, "yearEnacted": null, "speedLimitZoneReasonName": null, "speedLimitZoneVarPrdName": null, "speedLimitZoneLanePurposeName": null, "speedLimitZoneStructureTypeName": null, "speedLimitZoneStatusTypeName": "Submitted", "speedValueTypeName": "50 km/h", "speedCategoryName": "Permanent", "variableSpeeds": null, "rcaZoneReferenceName": "Carterton District", "speedLimitZoneId": "{AF6ADC89-476B-43CC-B626-AD159EB01DE8}", "speedManagementPlanName": null, "speedManagementPlanURL": null, "speedLimitZoneName": "GSC Test", "speedLimitZoneStatusDate": -2209161600000, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null, "speedLimitZoneApprovalURL": null, "speedLimitZoneApprovalEndDate": null, "speedLimitZoneSeasonalRecurring": null, "speedLimitZoneSeasonalDesc": null, "speedLimitZoneEmergencyReason": null, "speedLimitZoneDescription": null, "speedZoneDirectionTypeId": null, "speedLimitZoneLock": 0, "speedLimitZoneLockOwner": null, "speedLimitZoneLockStartDate": null, "lanesOutFromCentreline": null, "speedLimitZoneSubmittedBy": null, "GlobalIdGeometry": null, "speedLimitZoneSeasonalRecur": null, "parentSpeedLimitZoneId": null, "CorrectionCount": null, "ClarificationCount": null, "GlobalID": "{00000000-0000-0000-0000-000000000000}", "OBJECTID": 3, "displaySpeed": null, "GeometryCount": null, "lastEditedUser": null, "geometry": null, "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedCategoryId": 1001, "speedValueTypeId": 1005, "speedLimitZoneStatusTypeId": 1003}, "geometry": {"rings": [[[1809520.7785999998, 5443908.7933], [1808976.1648000004, 5444128.5497], [1809195.9212999996, 5444998.0209], [1809721.4258000003, 5445313.3237], [1810438.023, 5444654.0543], [1809520.7785999998, 5443908.7933]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}, {"attributes": {"legalInstrumentTitle": null, "legalInstrumentURL": null, "legalInstrumentId": null, "legalReference": null, "gazetteIssueNumber": null, "gazettePageNumber": null, "publicationDate": null, "effectiveDateFrom": null, "yearEnacted": null, "speedLimitZoneReasonName": null, "speedLimitZoneVarPrdName": null, "speedLimitZoneLanePurposeName": null, "speedLimitZoneStructureTypeName": null, "speedLimitZoneStatusTypeName": "Draft", "speedValueTypeName": "70 km/h", "speedCategoryName": "Permanent", "variableSpeeds": null, "rcaZoneReferenceName": "Carterton District", "speedLimitZoneId": "{D1223385-3C2E-46EC-8814-0480056B703B}", "speedManagementPlanName": null, "speedManagementPlanURL": null, "speedLimitZoneName": "GSC Test", "speedLimitZoneStatusDate": -2209161600000, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null, "speedLimitZoneApprovalURL": null, "speedLimitZoneApprovalEndDate": null, "speedLimitZoneSeasonalRecurring": null, "speedLimitZoneSeasonalDesc": null, "speedLimitZoneEmergencyReason": null, "speedLimitZoneDescription": null, "speedZoneDirectionTypeId": null, "speedLimitZoneLock": 0, "speedLimitZoneLockOwner": null, "speedLimitZoneLockStartDate": null, "lanesOutFromCentreline": null, "speedLimitZoneSubmittedBy": null, "GlobalIdGeometry": null, "speedLimitZoneSeasonalRecur": null, "parentSpeedLimitZoneId": null, "CorrectionCount": null, "ClarificationCount": null, "GlobalID": "{00000000-0000-0000-0000-000000000000}", "OBJECTID": 4, "displaySpeed": null, "GeometryCount": null, "lastEditedUser": null, "geometry": null, "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedCategoryId": 1001, "speedValueTypeId": 1007, "speedLimitZoneStatusTypeId": 1001}, "geometry": {"rings": [[[1810316.6372999996, 5443646.8364], [1809874.7687999997, 5444196.4103], [1810438.023, 5444654.0543], [1810045.2045, 5445015.4473], [1810431.2928999998, 5445342.783], [1811338.9825999998, 5444487.6437], [1810316.6372999996, 5443646.8364]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}, {"attributes": {"legalInstrumentTitle": null, "legalInstrumentURL": null, "legalInstrumentId": null, "legalReference": null, "gazetteIssueNumber": null, "gazettePageNumber": null, "publicationDate": null, "effectiveDateFrom": null, "yearEnacted": null, "speedLimitZoneReasonName": null, "speedLimitZoneVarPrdName": null, "speedLimitZoneLanePurposeName": null, "speedLimitZoneStructureTypeName": null, "speedLimitZoneStatusTypeName": "Draft", "speedValueTypeName": "50 km/h", "speedCategoryName": "Permanent", "variableSpeeds": null, "rcaZoneReferenceName": "Carterton District", "speedLimitZoneId": "{A427BEE8-6834-4BFE-8E11-E32BDF465E3E}", "speedManagementPlanName": null, "speedManagementPlanURL": null, "speedLimitZoneName": "GSC Test", "speedLimitZoneStatusDate": -2209161600000, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null, "speedLimitZoneApprovalURL": null, "speedLimitZoneApprovalEndDate": null, "speedLimitZoneSeasonalRecurring": null, "speedLimitZoneSeasonalDesc": null, "speedLimitZoneEmergencyReason": null, "speedLimitZoneDescription": null, "speedZoneDirectionTypeId": null, "speedLimitZoneLock": 0, "speedLimitZoneLockOwner": null, "speedLimitZoneLockStartDate": null, "lanesOutFromCentreline": null, "speedLimitZoneSubmittedBy": null, "GlobalIdGeometry": null, "speedLimitZoneSeasonalRecur": null, "parentSpeedLimitZoneId": null, "CorrectionCount": null, "ClarificationCount": null, "GlobalID": "{00000000-0000-0000-0000-000000000000}", "OBJECTID": 5, "displaySpeed": null, "GeometryCount": null, "lastEditedUser": null, "geometry": null, "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedCategoryId": 1001, "speedValueTypeId": 1005, "speedLimitZoneStatusTypeId": 1001}, "geometry": {"rings": [[[1810731.0859000003, 5444709.7888], [1810339.3460999997, 5445082.4194], [1810946.0650000004, 5445517.155], [1811347.3594000004, 5445201.8522], [1810731.0859000003, 5444709.7888]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}, {"attributes": {"legalInstrumentTitle": null, "legalInstrumentURL": null, "legalInstrumentId": null, "legalReference": null, "gazetteIssueNumber": null, "gazettePageNumber": null, "publicationDate": null, "effectiveDateFrom": null, "yearEnacted": null, "speedLimitZoneReasonName": null, "speedLimitZoneVarPrdName": null, "speedLimitZoneLanePurposeName": null, "speedLimitZoneStructureTypeName": null, "speedLimitZoneStatusTypeName": "Draft", "speedValueTypeName": "70 km/h", "speedCategoryName": "Permanent", "variableSpeeds": null, "rcaZoneReferenceName": "Carterton District", "speedLimitZoneId": "{67C43EF4-8919-4B8A-B303-321B46236112}", "speedManagementPlanName": null, "speedManagementPlanURL": null, "speedLimitZoneName": "Sub Test", "speedLimitZoneStatusDate": -2209161600000, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null, "speedLimitZoneApprovalURL": null, "speedLimitZoneApprovalEndDate": null, "speedLimitZoneSeasonalRecurring": null, "speedLimitZoneSeasonalDesc": null, "speedLimitZoneEmergencyReason": null, "speedLimitZoneDescription": null, "speedZoneDirectionTypeId": null, "speedLimitZoneLock": 0, "speedLimitZoneLockOwner": null, "speedLimitZoneLockStartDate": null, "lanesOutFromCentreline": null, "speedLimitZoneSubmittedBy": null, "GlobalIdGeometry": null, "speedLimitZoneSeasonalRecur": null, "parentSpeedLimitZoneId": null, "CorrectionCount": null, "ClarificationCount": null, "GlobalID": "{00000000-0000-0000-0000-000000000000}", "OBJECTID": 6, "displaySpeed": null, "GeometryCount": null, "lastEditedUser": null, "geometry": null, "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedCategoryId": 1001, "speedValueTypeId": 1007, "speedLimitZoneStatusTypeId": 1001}, "geometry": {"rings": [[[1810309.7588, 5443761.242], [1809913.5206000004, 5444227.8961], [1810438.023, 5444654.0543], [1810040.6341000004, 5445019.652], [1810508.0174000002, 5445309.0918], [1811327.3268, 5444582.94], [1810309.7588, 5443761.242]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}}}]
+23/09/2021 - 17:16:25: INFO - Process started...
+23/09/2021 - 17:16:25: INFO - input file: C:\projects\gp\data\templateYZ.gdb.zip
+23/09/2021 - 17:16:25: INFO - Zip Folder C:\Users\yxz\AppData\Local\Temp\scratch\665fe566-1c2d-11ec-884c-cc483a7b2fd3
+23/09/2021 - 17:16:26: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\665fe566-1c2d-11ec-884c-cc483a7b2fd3\templateYZ.gdb\SpeedLimitZoneGeometryDraft
+23/09/2021 - 17:16:26: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\665fe566-1c2d-11ec-884c-cc483a7b2fd3\templateYZ.gdb\RCAZoneReference
+23/09/2021 - 17:16:26: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\665fe566-1c2d-11ec-884c-cc483a7b2fd3\templateYZ.gdb\SpeedLimitZone
+23/09/2021 - 17:16:26: INFO - Generating output json ...
+23/09/2021 - 17:16:26: INFO - process file geodatbase ..C:\Users\yxz\AppData\Local\Temp\scratch\665fe566-1c2d-11ec-884c-cc483a7b2fd3\templateYZ.gdb.
+23/09/2021 - 17:16:26: INFO - reading geometry draft features ...
+23/09/2021 - 17:16:26: INFO - total draft geometries: 6
+23/09/2021 - 17:16:26: INFO - reading rca reference records ...
+23/09/2021 - 17:16:26: INFO - total rca reference: 70
+23/09/2021 - 17:16:26: INFO - reading speed limit zone records ...
+23/09/2021 - 17:16:26: INFO - process speedLimitZoneId: {10A35377-2569-4500-A57A-F462D41DE938}
+23/09/2021 - 17:16:26: INFO - process speedLimitZoneId: {9E60D58A-01BF-4E2B-A642-9BDD5236B8CB}
+23/09/2021 - 17:16:26: INFO - process speedLimitZoneId: {AF6ADC89-476B-43CC-B626-AD159EB01DE8}
+23/09/2021 - 17:16:26: INFO - process speedLimitZoneId: {D1223385-3C2E-46EC-8814-0480056B703B}
+23/09/2021 - 17:16:26: INFO - process speedLimitZoneId: {A427BEE8-6834-4BFE-8E11-E32BDF465E3E}
+23/09/2021 - 17:16:26: INFO - process speedLimitZoneId: {67C43EF4-8919-4B8A-B303-321B46236112}
+23/09/2021 - 17:16:26: INFO - output data: [{"attributes": {"legalInstrumentTitle": null, "legalInstrumentURL": null, "legalInstrumentId": null, "legalReference": null, "gazetteIssueNumber": null, "gazettePageNumber": null, "publicationDate": null, "effectiveDateFrom": null, "yearEnacted": null, "speedLimitZoneReasonName": null, "speedLimitZoneVarPrdName": null, "speedLimitZoneLanePurposeName": null, "speedLimitZoneStructureTypeName": null, "speedLimitZoneStatusTypeName": "Draft", "speedValueTypeName": "50 km/h", "speedCategoryName": "Permanent", "variableSpeeds": null, "rcaZoneReferenceName": "Ashburton District", "speedLimitZoneId": "{10A35377-2569-4500-A57A-F462D41DE938}", "speedManagementPlanName": null, "speedManagementPlanURL": null, "speedLimitZoneName": "Overlap Test", "speedLimitZoneStatusDate": -2209161600000, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null, "speedLimitZoneApprovalURL": null, "speedLimitZoneApprovalEndDate": null, "speedLimitZoneSeasonalRecurring": null, "speedLimitZoneSeasonalDesc": null, "speedLimitZoneEmergencyReason": null, "speedLimitZoneDescription": null, "speedZoneDirectionTypeId": null, "speedLimitZoneLock": 0, "speedLimitZoneLockOwner": null, "speedLimitZoneLockStartDate": null, "lanesOutFromCentreline": null, "speedLimitZoneSubmittedBy": null, "GlobalIdGeometry": null, "speedLimitZoneSeasonalRecur": null, "parentSpeedLimitZoneId": null, "CorrectionCount": null, "ClarificationCount": null, "GlobalID": "{00000000-0000-0000-0000-000000000000}", "OBJECTID": 1, "displaySpeed": null, "GeometryCount": null, "lastEditedUser": null, "geometry": null, "rcaZoneReferenceId": "{DBB9740A-9DB2-4785-882F-FD324C07F2DE}", "speedCategoryId": 1001, "speedValueTypeId": 1005, "speedLimitZoneStatusTypeId": 1001}, "geometry": {"rings": [[[1442807.4052999998, 5209716.0887], [1440151.2186000003, 5210490.0136], [1440198.9917000001, 5210843.5349], [1442893.3969999999, 5210040.9461], [1442807.4052999998, 5209716.0887]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}, "type": "polygon"}}, {"attributes": {"legalInstrumentTitle": null, "legalInstrumentURL": null, "legalInstrumentId": null, "legalReference": null, "gazetteIssueNumber": null, "gazettePageNumber": null, "publicationDate": null, "effectiveDateFrom": null, "yearEnacted": null, "speedLimitZoneReasonName": null, "speedLimitZoneVarPrdName": null, "speedLimitZoneLanePurposeName": null, "speedLimitZoneStructureTypeName": null, "speedLimitZoneStatusTypeName": "Draft", "speedValueTypeName": "50 km/h", "speedCategoryName": "Variable", "variableSpeeds": null, "rcaZoneReferenceName": "Selwyn District", "speedLimitZoneId": "{9E60D58A-01BF-4E2B-A642-9BDD5236B8CB}", "speedManagementPlanName": null, "speedManagementPlanURL": null, "speedLimitZoneName": "Variable Selywn", "speedLimitZoneStatusDate": -2209161600000, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null, "speedLimitZoneApprovalURL": null, "speedLimitZoneApprovalEndDate": null, "speedLimitZoneSeasonalRecurring": null, "speedLimitZoneSeasonalDesc": null, "speedLimitZoneEmergencyReason": null, "speedLimitZoneDescription": null, "speedZoneDirectionTypeId": null, "speedLimitZoneLock": 0, "speedLimitZoneLockOwner": null, "speedLimitZoneLockStartDate": null, "lanesOutFromCentreline": null, "speedLimitZoneSubmittedBy": null, "GlobalIdGeometry": null, "speedLimitZoneSeasonalRecur": null, "parentSpeedLimitZoneId": null, "CorrectionCount": null, "ClarificationCount": null, "GlobalID": "{00000000-0000-0000-0000-000000000000}", "OBJECTID": 2, "displaySpeed": null, "GeometryCount": null, "lastEditedUser": null, "geometry": null, "rcaZoneReferenceId": "{AADE6D88-2221-424E-ABB5-F9586548F6B6}", "speedCategoryId": 1002, "speedValueTypeId": 1005, "speedLimitZoneStatusTypeId": 1001}, "geometry": {"rings": [[[1511863.4830999998, 5249711.7637], [1510028.9944000002, 5250074.8396], [1512150.1218999997, 5256113.3649], [1513812.6272999998, 5255826.726], [1511863.4830999998, 5249711.7637]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}, "type": "polygon"}}, {"attributes": {"legalInstrumentTitle": null, "legalInstrumentURL": null, "legalInstrumentId": null, "legalReference": null, "gazetteIssueNumber": null, "gazettePageNumber": null, "publicationDate": null, "effectiveDateFrom": null, "yearEnacted": null, "speedLimitZoneReasonName": null, "speedLimitZoneVarPrdName": null, "speedLimitZoneLanePurposeName": null, "speedLimitZoneStructureTypeName": null, "speedLimitZoneStatusTypeName": "Submitted", "speedValueTypeName": "50 km/h", "speedCategoryName": "Permanent", "variableSpeeds": null, "rcaZoneReferenceName": "Carterton District", "speedLimitZoneId": "{AF6ADC89-476B-43CC-B626-AD159EB01DE8}", "speedManagementPlanName": null, "speedManagementPlanURL": null, "speedLimitZoneName": "GSC Test", "speedLimitZoneStatusDate": -2209161600000, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null, "speedLimitZoneApprovalURL": null, "speedLimitZoneApprovalEndDate": null, "speedLimitZoneSeasonalRecurring": null, "speedLimitZoneSeasonalDesc": null, "speedLimitZoneEmergencyReason": null, "speedLimitZoneDescription": null, "speedZoneDirectionTypeId": null, "speedLimitZoneLock": 0, "speedLimitZoneLockOwner": null, "speedLimitZoneLockStartDate": null, "lanesOutFromCentreline": null, "speedLimitZoneSubmittedBy": null, "GlobalIdGeometry": null, "speedLimitZoneSeasonalRecur": null, "parentSpeedLimitZoneId": null, "CorrectionCount": null, "ClarificationCount": null, "GlobalID": "{00000000-0000-0000-0000-000000000000}", "OBJECTID": 3, "displaySpeed": null, "GeometryCount": null, "lastEditedUser": null, "geometry": null, "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedCategoryId": 1001, "speedValueTypeId": 1005, "speedLimitZoneStatusTypeId": 1003}, "geometry": {"rings": [[[1809520.7785999998, 5443908.7933], [1808976.1648000004, 5444128.5497], [1809195.9212999996, 5444998.0209], [1809721.4258000003, 5445313.3237], [1810438.023, 5444654.0543], [1809520.7785999998, 5443908.7933]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}, "type": "polygon"}}, {"attributes": {"legalInstrumentTitle": null, "legalInstrumentURL": null, "legalInstrumentId": null, "legalReference": null, "gazetteIssueNumber": null, "gazettePageNumber": null, "publicationDate": null, "effectiveDateFrom": null, "yearEnacted": null, "speedLimitZoneReasonName": null, "speedLimitZoneVarPrdName": null, "speedLimitZoneLanePurposeName": null, "speedLimitZoneStructureTypeName": null, "speedLimitZoneStatusTypeName": "Draft", "speedValueTypeName": "70 km/h", "speedCategoryName": "Permanent", "variableSpeeds": null, "rcaZoneReferenceName": "Carterton District", "speedLimitZoneId": "{D1223385-3C2E-46EC-8814-0480056B703B}", "speedManagementPlanName": null, "speedManagementPlanURL": null, "speedLimitZoneName": "GSC Test", "speedLimitZoneStatusDate": -2209161600000, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null, "speedLimitZoneApprovalURL": null, "speedLimitZoneApprovalEndDate": null, "speedLimitZoneSeasonalRecurring": null, "speedLimitZoneSeasonalDesc": null, "speedLimitZoneEmergencyReason": null, "speedLimitZoneDescription": null, "speedZoneDirectionTypeId": null, "speedLimitZoneLock": 0, "speedLimitZoneLockOwner": null, "speedLimitZoneLockStartDate": null, "lanesOutFromCentreline": null, "speedLimitZoneSubmittedBy": null, "GlobalIdGeometry": null, "speedLimitZoneSeasonalRecur": null, "parentSpeedLimitZoneId": null, "CorrectionCount": null, "ClarificationCount": null, "GlobalID": "{00000000-0000-0000-0000-000000000000}", "OBJECTID": 4, "displaySpeed": null, "GeometryCount": null, "lastEditedUser": null, "geometry": null, "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedCategoryId": 1001, "speedValueTypeId": 1007, "speedLimitZoneStatusTypeId": 1001}, "geometry": {"rings": [[[1810316.6372999996, 5443646.8364], [1809874.7687999997, 5444196.4103], [1810438.023, 5444654.0543], [1810045.2045, 5445015.4473], [1810431.2928999998, 5445342.783], [1811338.9825999998, 5444487.6437], [1810316.6372999996, 5443646.8364]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}, "type": "polygon"}}, {"attributes": {"legalInstrumentTitle": null, "legalInstrumentURL": null, "legalInstrumentId": null, "legalReference": null, "gazetteIssueNumber": null, "gazettePageNumber": null, "publicationDate": null, "effectiveDateFrom": null, "yearEnacted": null, "speedLimitZoneReasonName": null, "speedLimitZoneVarPrdName": null, "speedLimitZoneLanePurposeName": null, "speedLimitZoneStructureTypeName": null, "speedLimitZoneStatusTypeName": "Draft", "speedValueTypeName": "50 km/h", "speedCategoryName": "Permanent", "variableSpeeds": null, "rcaZoneReferenceName": "Carterton District", "speedLimitZoneId": "{A427BEE8-6834-4BFE-8E11-E32BDF465E3E}", "speedManagementPlanName": null, "speedManagementPlanURL": null, "speedLimitZoneName": "GSC Test", "speedLimitZoneStatusDate": -2209161600000, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null, "speedLimitZoneApprovalURL": null, "speedLimitZoneApprovalEndDate": null, "speedLimitZoneSeasonalRecurring": null, "speedLimitZoneSeasonalDesc": null, "speedLimitZoneEmergencyReason": null, "speedLimitZoneDescription": null, "speedZoneDirectionTypeId": null, "speedLimitZoneLock": 0, "speedLimitZoneLockOwner": null, "speedLimitZoneLockStartDate": null, "lanesOutFromCentreline": null, "speedLimitZoneSubmittedBy": null, "GlobalIdGeometry": null, "speedLimitZoneSeasonalRecur": null, "parentSpeedLimitZoneId": null, "CorrectionCount": null, "ClarificationCount": null, "GlobalID": "{00000000-0000-0000-0000-000000000000}", "OBJECTID": 5, "displaySpeed": null, "GeometryCount": null, "lastEditedUser": null, "geometry": null, "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedCategoryId": 1001, "speedValueTypeId": 1005, "speedLimitZoneStatusTypeId": 1001}, "geometry": {"rings": [[[1810731.0859000003, 5444709.7888], [1810339.3460999997, 5445082.4194], [1810946.0650000004, 5445517.155], [1811347.3594000004, 5445201.8522], [1810731.0859000003, 5444709.7888]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}, "type": "polygon"}}, {"attributes": {"legalInstrumentTitle": null, "legalInstrumentURL": null, "legalInstrumentId": null, "legalReference": null, "gazetteIssueNumber": null, "gazettePageNumber": null, "publicationDate": null, "effectiveDateFrom": null, "yearEnacted": null, "speedLimitZoneReasonName": null, "speedLimitZoneVarPrdName": null, "speedLimitZoneLanePurposeName": null, "speedLimitZoneStructureTypeName": null, "speedLimitZoneStatusTypeName": "Draft", "speedValueTypeName": "70 km/h", "speedCategoryName": "Permanent", "variableSpeeds": null, "rcaZoneReferenceName": "Carterton District", "speedLimitZoneId": "{67C43EF4-8919-4B8A-B303-321B46236112}", "speedManagementPlanName": null, "speedManagementPlanURL": null, "speedLimitZoneName": "Sub Test", "speedLimitZoneStatusDate": -2209161600000, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null, "speedLimitZoneApprovalURL": null, "speedLimitZoneApprovalEndDate": null, "speedLimitZoneSeasonalRecurring": null, "speedLimitZoneSeasonalDesc": null, "speedLimitZoneEmergencyReason": null, "speedLimitZoneDescription": null, "speedZoneDirectionTypeId": null, "speedLimitZoneLock": 0, "speedLimitZoneLockOwner": null, "speedLimitZoneLockStartDate": null, "lanesOutFromCentreline": null, "speedLimitZoneSubmittedBy": null, "GlobalIdGeometry": null, "speedLimitZoneSeasonalRecur": null, "parentSpeedLimitZoneId": null, "CorrectionCount": null, "ClarificationCount": null, "GlobalID": "{00000000-0000-0000-0000-000000000000}", "OBJECTID": 6, "displaySpeed": null, "GeometryCount": null, "lastEditedUser": null, "geometry": null, "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedCategoryId": 1001, "speedValueTypeId": 1007, "speedLimitZoneStatusTypeId": 1001}, "geometry": {"rings": [[[1810309.7588, 5443761.242], [1809913.5206000004, 5444227.8961], [1810438.023, 5444654.0543], [1810040.6341000004, 5445019.652], [1810508.0174000002, 5445309.0918], [1811327.3268, 5444582.94], [1810309.7588, 5443761.242]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}, "type": "polygon"}}]
+24/09/2021 - 08:22:21: INFO - Process started...
+24/09/2021 - 08:22:21: INFO - input file: C:\projects\gp\data\templateYZ.gdb.zip
+24/09/2021 - 08:22:21: INFO - Zip Folder C:\projects\gp\publishGP\scratch\f4ff24ae-1cab-11ec-9ac9-cc483a7b2fd3
+24/09/2021 - 08:22:21: INFO - fc: C:\projects\gp\publishGP\scratch\f4ff24ae-1cab-11ec-9ac9-cc483a7b2fd3\templateYZ.gdb\SpeedLimitZoneGeometryDraft
+24/09/2021 - 08:22:21: INFO - fc: C:\projects\gp\publishGP\scratch\f4ff24ae-1cab-11ec-9ac9-cc483a7b2fd3\templateYZ.gdb\RCAZoneReference
+24/09/2021 - 08:22:21: INFO - fc: C:\projects\gp\publishGP\scratch\f4ff24ae-1cab-11ec-9ac9-cc483a7b2fd3\templateYZ.gdb\SpeedLimitZone
+24/09/2021 - 08:22:21: INFO - Generating output json ...
+24/09/2021 - 08:22:22: INFO - process file geodatbase: C:\projects\gp\publishGP\scratch\f4ff24ae-1cab-11ec-9ac9-cc483a7b2fd3\templateYZ.gdb
+24/09/2021 - 08:22:22: INFO - reading geometry draft features ...
+24/09/2021 - 08:22:22: INFO - total draft geometries: 6
+24/09/2021 - 08:22:22: INFO - reading rca reference records ...
+24/09/2021 - 08:22:22: INFO - total rca reference: 70
+24/09/2021 - 08:22:22: INFO - reading speed limit zone records ...
+24/09/2021 - 08:22:22: INFO - process speedLimitZoneId: {10A35377-2569-4500-A57A-F462D41DE938}
+24/09/2021 - 08:22:22: INFO - process speedLimitZoneId: {9E60D58A-01BF-4E2B-A642-9BDD5236B8CB}
+24/09/2021 - 08:22:22: INFO - process speedLimitZoneId: {AF6ADC89-476B-43CC-B626-AD159EB01DE8}
+24/09/2021 - 08:22:22: INFO - process speedLimitZoneId: {D1223385-3C2E-46EC-8814-0480056B703B}
+24/09/2021 - 08:22:22: INFO - process speedLimitZoneId: {A427BEE8-6834-4BFE-8E11-E32BDF465E3E}
+24/09/2021 - 08:22:22: INFO - process speedLimitZoneId: {67C43EF4-8919-4B8A-B303-321B46236112}
+24/09/2021 - 08:22:22: INFO - output data: [{"attributes": {"legalInstrumentTitle": null, "legalInstrumentURL": null, "legalInstrumentId": null, "legalReference": null, "gazetteIssueNumber": null, "gazettePageNumber": null, "publicationDate": null, "effectiveDateFrom": null, "yearEnacted": null, "speedLimitZoneReasonName": null, "speedLimitZoneVarPrdName": null, "speedLimitZoneLanePurposeName": null, "speedLimitZoneStructureTypeName": null, "speedLimitZoneStatusTypeName": "Draft", "speedValueTypeName": "50 km/h", "speedCategoryName": "Permanent", "variableSpeeds": null, "rcaZoneReferenceName": "Ashburton District", "speedLimitZoneId": "{10A35377-2569-4500-A57A-F462D41DE938}", "speedManagementPlanName": null, "speedManagementPlanURL": null, "speedLimitZoneName": "Overlap Test", "speedLimitZoneStatusDate": -2209161600000, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null, "speedLimitZoneApprovalURL": null, "speedLimitZoneApprovalEndDate": null, "speedLimitZoneSeasonalRecurring": null, "speedLimitZoneSeasonalDesc": null, "speedLimitZoneEmergencyReason": null, "speedLimitZoneDescription": null, "speedZoneDirectionTypeId": null, "speedLimitZoneLock": 0, "speedLimitZoneLockOwner": null, "speedLimitZoneLockStartDate": null, "lanesOutFromCentreline": null, "speedLimitZoneSubmittedBy": null, "GlobalIdGeometry": null, "speedLimitZoneSeasonalRecur": null, "parentSpeedLimitZoneId": null, "CorrectionCount": null, "ClarificationCount": null, "GlobalID": "{00000000-0000-0000-0000-000000000000}", "OBJECTID": 1, "displaySpeed": null, "GeometryCount": null, "lastEditedUser": null, "geometry": null, "rcaZoneReferenceId": "{DBB9740A-9DB2-4785-882F-FD324C07F2DE}", "speedCategoryId": 1001, "speedValueTypeId": 1005, "speedLimitZoneStatusTypeId": 1001}, "geometry": {"rings": [[[1442807.4052999998, 5209716.0887], [1440151.2186000003, 5210490.0136], [1440198.9917000001, 5210843.5349], [1442893.3969999999, 5210040.9461], [1442807.4052999998, 5209716.0887]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}, "type": "polygon"}}, {"attributes": {"legalInstrumentTitle": null, "legalInstrumentURL": null, "legalInstrumentId": null, "legalReference": null, "gazetteIssueNumber": null, "gazettePageNumber": null, "publicationDate": null, "effectiveDateFrom": null, "yearEnacted": null, "speedLimitZoneReasonName": null, "speedLimitZoneVarPrdName": null, "speedLimitZoneLanePurposeName": null, "speedLimitZoneStructureTypeName": null, "speedLimitZoneStatusTypeName": "Draft", "speedValueTypeName": "50 km/h", "speedCategoryName": "Variable", "variableSpeeds": null, "rcaZoneReferenceName": "Selwyn District", "speedLimitZoneId": "{9E60D58A-01BF-4E2B-A642-9BDD5236B8CB}", "speedManagementPlanName": null, "speedManagementPlanURL": null, "speedLimitZoneName": "Variable Selywn", "speedLimitZoneStatusDate": -2209161600000, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null, "speedLimitZoneApprovalURL": null, "speedLimitZoneApprovalEndDate": null, "speedLimitZoneSeasonalRecurring": null, "speedLimitZoneSeasonalDesc": null, "speedLimitZoneEmergencyReason": null, "speedLimitZoneDescription": null, "speedZoneDirectionTypeId": null, "speedLimitZoneLock": 0, "speedLimitZoneLockOwner": null, "speedLimitZoneLockStartDate": null, "lanesOutFromCentreline": null, "speedLimitZoneSubmittedBy": null, "GlobalIdGeometry": null, "speedLimitZoneSeasonalRecur": null, "parentSpeedLimitZoneId": null, "CorrectionCount": null, "ClarificationCount": null, "GlobalID": "{00000000-0000-0000-0000-000000000000}", "OBJECTID": 2, "displaySpeed": null, "GeometryCount": null, "lastEditedUser": null, "geometry": null, "rcaZoneReferenceId": "{AADE6D88-2221-424E-ABB5-F9586548F6B6}", "speedCategoryId": 1002, "speedValueTypeId": 1005, "speedLimitZoneStatusTypeId": 1001}, "geometry": {"rings": [[[1511863.4830999998, 5249711.7637], [1510028.9944000002, 5250074.8396], [1512150.1218999997, 5256113.3649], [1513812.6272999998, 5255826.726], [1511863.4830999998, 5249711.7637]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}, "type": "polygon"}}, {"attributes": {"legalInstrumentTitle": null, "legalInstrumentURL": null, "legalInstrumentId": null, "legalReference": null, "gazetteIssueNumber": null, "gazettePageNumber": null, "publicationDate": null, "effectiveDateFrom": null, "yearEnacted": null, "speedLimitZoneReasonName": null, "speedLimitZoneVarPrdName": null, "speedLimitZoneLanePurposeName": null, "speedLimitZoneStructureTypeName": null, "speedLimitZoneStatusTypeName": "Submitted", "speedValueTypeName": "50 km/h", "speedCategoryName": "Permanent", "variableSpeeds": null, "rcaZoneReferenceName": "Carterton District", "speedLimitZoneId": "{AF6ADC89-476B-43CC-B626-AD159EB01DE8}", "speedManagementPlanName": null, "speedManagementPlanURL": null, "speedLimitZoneName": "GSC Test", "speedLimitZoneStatusDate": -2209161600000, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null, "speedLimitZoneApprovalURL": null, "speedLimitZoneApprovalEndDate": null, "speedLimitZoneSeasonalRecurring": null, "speedLimitZoneSeasonalDesc": null, "speedLimitZoneEmergencyReason": null, "speedLimitZoneDescription": null, "speedZoneDirectionTypeId": null, "speedLimitZoneLock": 0, "speedLimitZoneLockOwner": null, "speedLimitZoneLockStartDate": null, "lanesOutFromCentreline": null, "speedLimitZoneSubmittedBy": null, "GlobalIdGeometry": null, "speedLimitZoneSeasonalRecur": null, "parentSpeedLimitZoneId": null, "CorrectionCount": null, "ClarificationCount": null, "GlobalID": "{00000000-0000-0000-0000-000000000000}", "OBJECTID": 3, "displaySpeed": null, "GeometryCount": null, "lastEditedUser": null, "geometry": null, "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedCategoryId": 1001, "speedValueTypeId": 1005, "speedLimitZoneStatusTypeId": 1003}, "geometry": {"rings": [[[1809520.7785999998, 5443908.7933], [1808976.1648000004, 5444128.5497], [1809195.9212999996, 5444998.0209], [1809721.4258000003, 5445313.3237], [1810438.023, 5444654.0543], [1809520.7785999998, 5443908.7933]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}, "type": "polygon"}}, {"attributes": {"legalInstrumentTitle": null, "legalInstrumentURL": null, "legalInstrumentId": null, "legalReference": null, "gazetteIssueNumber": null, "gazettePageNumber": null, "publicationDate": null, "effectiveDateFrom": null, "yearEnacted": null, "speedLimitZoneReasonName": null, "speedLimitZoneVarPrdName": null, "speedLimitZoneLanePurposeName": null, "speedLimitZoneStructureTypeName": null, "speedLimitZoneStatusTypeName": "Draft", "speedValueTypeName": "70 km/h", "speedCategoryName": "Permanent", "variableSpeeds": null, "rcaZoneReferenceName": "Carterton District", "speedLimitZoneId": "{D1223385-3C2E-46EC-8814-0480056B703B}", "speedManagementPlanName": null, "speedManagementPlanURL": null, "speedLimitZoneName": "GSC Test", "speedLimitZoneStatusDate": -2209161600000, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null, "speedLimitZoneApprovalURL": null, "speedLimitZoneApprovalEndDate": null, "speedLimitZoneSeasonalRecurring": null, "speedLimitZoneSeasonalDesc": null, "speedLimitZoneEmergencyReason": null, "speedLimitZoneDescription": null, "speedZoneDirectionTypeId": null, "speedLimitZoneLock": 0, "speedLimitZoneLockOwner": null, "speedLimitZoneLockStartDate": null, "lanesOutFromCentreline": null, "speedLimitZoneSubmittedBy": null, "GlobalIdGeometry": null, "speedLimitZoneSeasonalRecur": null, "parentSpeedLimitZoneId": null, "CorrectionCount": null, "ClarificationCount": null, "GlobalID": "{00000000-0000-0000-0000-000000000000}", "OBJECTID": 4, "displaySpeed": null, "GeometryCount": null, "lastEditedUser": null, "geometry": null, "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedCategoryId": 1001, "speedValueTypeId": 1007, "speedLimitZoneStatusTypeId": 1001}, "geometry": {"rings": [[[1810316.6372999996, 5443646.8364], [1809874.7687999997, 5444196.4103], [1810438.023, 5444654.0543], [1810045.2045, 5445015.4473], [1810431.2928999998, 5445342.783], [1811338.9825999998, 5444487.6437], [1810316.6372999996, 5443646.8364]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}, "type": "polygon"}}, {"attributes": {"legalInstrumentTitle": null, "legalInstrumentURL": null, "legalInstrumentId": null, "legalReference": null, "gazetteIssueNumber": null, "gazettePageNumber": null, "publicationDate": null, "effectiveDateFrom": null, "yearEnacted": null, "speedLimitZoneReasonName": null, "speedLimitZoneVarPrdName": null, "speedLimitZoneLanePurposeName": null, "speedLimitZoneStructureTypeName": null, "speedLimitZoneStatusTypeName": "Draft", "speedValueTypeName": "50 km/h", "speedCategoryName": "Permanent", "variableSpeeds": null, "rcaZoneReferenceName": "Carterton District", "speedLimitZoneId": "{A427BEE8-6834-4BFE-8E11-E32BDF465E3E}", "speedManagementPlanName": null, "speedManagementPlanURL": null, "speedLimitZoneName": "GSC Test", "speedLimitZoneStatusDate": -2209161600000, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null, "speedLimitZoneApprovalURL": null, "speedLimitZoneApprovalEndDate": null, "speedLimitZoneSeasonalRecurring": null, "speedLimitZoneSeasonalDesc": null, "speedLimitZoneEmergencyReason": null, "speedLimitZoneDescription": null, "speedZoneDirectionTypeId": null, "speedLimitZoneLock": 0, "speedLimitZoneLockOwner": null, "speedLimitZoneLockStartDate": null, "lanesOutFromCentreline": null, "speedLimitZoneSubmittedBy": null, "GlobalIdGeometry": null, "speedLimitZoneSeasonalRecur": null, "parentSpeedLimitZoneId": null, "CorrectionCount": null, "ClarificationCount": null, "GlobalID": "{00000000-0000-0000-0000-000000000000}", "OBJECTID": 5, "displaySpeed": null, "GeometryCount": null, "lastEditedUser": null, "geometry": null, "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedCategoryId": 1001, "speedValueTypeId": 1005, "speedLimitZoneStatusTypeId": 1001}, "geometry": {"rings": [[[1810731.0859000003, 5444709.7888], [1810339.3460999997, 5445082.4194], [1810946.0650000004, 5445517.155], [1811347.3594000004, 5445201.8522], [1810731.0859000003, 5444709.7888]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}, "type": "polygon"}}, {"attributes": {"legalInstrumentTitle": null, "legalInstrumentURL": null, "legalInstrumentId": null, "legalReference": null, "gazetteIssueNumber": null, "gazettePageNumber": null, "publicationDate": null, "effectiveDateFrom": null, "yearEnacted": null, "speedLimitZoneReasonName": null, "speedLimitZoneVarPrdName": null, "speedLimitZoneLanePurposeName": null, "speedLimitZoneStructureTypeName": null, "speedLimitZoneStatusTypeName": "Draft", "speedValueTypeName": "70 km/h", "speedCategoryName": "Permanent", "variableSpeeds": null, "rcaZoneReferenceName": "Carterton District", "speedLimitZoneId": "{67C43EF4-8919-4B8A-B303-321B46236112}", "speedManagementPlanName": null, "speedManagementPlanURL": null, "speedLimitZoneName": "Sub Test", "speedLimitZoneStatusDate": -2209161600000, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null, "speedLimitZoneApprovalURL": null, "speedLimitZoneApprovalEndDate": null, "speedLimitZoneSeasonalRecurring": null, "speedLimitZoneSeasonalDesc": null, "speedLimitZoneEmergencyReason": null, "speedLimitZoneDescription": null, "speedZoneDirectionTypeId": null, "speedLimitZoneLock": 0, "speedLimitZoneLockOwner": null, "speedLimitZoneLockStartDate": null, "lanesOutFromCentreline": null, "speedLimitZoneSubmittedBy": null, "GlobalIdGeometry": null, "speedLimitZoneSeasonalRecur": null, "parentSpeedLimitZoneId": null, "CorrectionCount": null, "ClarificationCount": null, "GlobalID": "{00000000-0000-0000-0000-000000000000}", "OBJECTID": 6, "displaySpeed": null, "GeometryCount": null, "lastEditedUser": null, "geometry": null, "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedCategoryId": 1001, "speedValueTypeId": 1007, "speedLimitZoneStatusTypeId": 1001}, "geometry": {"rings": [[[1810309.7588, 5443761.242], [1809913.5206000004, 5444227.8961], [1810438.023, 5444654.0543], [1810040.6341000004, 5445019.652], [1810508.0174000002, 5445309.0918], [1811327.3268, 5444582.94], [1810309.7588, 5443761.242]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}, "type": "polygon"}}]
+28/09/2021 - 12:19:31: INFO - Process started...
+28/09/2021 - 12:19:31: INFO - input file: C:\projects\gp\data\YZTest_noField.gdb
+28/09/2021 - 12:19:31: ERROR - The input is wrong file format
+28/09/2021 - 12:20:20: INFO - Process started...
+28/09/2021 - 12:20:20: INFO - input file: C:\projects\gp\data\YZTest_noField.gdb.zip
+28/09/2021 - 12:20:20: INFO - Zip Folder C:\Users\yxz\AppData\Local\Temp\scratch\7bc61924-1fe9-11ec-ad3a-cc483a7b2fd3
+28/09/2021 - 12:20:21: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\7bc61924-1fe9-11ec-ad3a-cc483a7b2fd3\YZTest_noField.gdb\SpeedLimitZoneGeometryDraft
+28/09/2021 - 12:20:21: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\7bc61924-1fe9-11ec-ad3a-cc483a7b2fd3\YZTest_noField.gdb\RCAZoneReference
+28/09/2021 - 12:20:21: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\7bc61924-1fe9-11ec-ad3a-cc483a7b2fd3\YZTest_noField.gdb\SpeedLimitZone
+28/09/2021 - 12:20:21: INFO - Generating output json ...
+28/09/2021 - 12:20:21: INFO - process file geodatbase: C:\Users\yxz\AppData\Local\Temp\scratch\7bc61924-1fe9-11ec-ad3a-cc483a7b2fd3\YZTest_noField.gdb
+28/09/2021 - 12:20:21: INFO - reading geometry draft features ...
+28/09/2021 - 12:20:21: ERROR - A column was specified that does not exist.
+28/09/2021 - 12:20:21: ERROR - No output is generated
+28/09/2021 - 12:32:33: INFO - Process started...
+28/09/2021 - 12:32:33: INFO - Zip Folder C:\projects\gp\publishGP\scratch\30c1190a-1feb-11ec-ba5d-cc483a7b2fd3
+28/09/2021 - 12:32:34: INFO - fc: C:\projects\gp\publishGP\scratch\30c1190a-1feb-11ec-ba5d-cc483a7b2fd3\YZTest_noField.gdb\SpeedLimitZoneGeometryDraft
+28/09/2021 - 12:32:34: INFO - fc: C:\projects\gp\publishGP\scratch\30c1190a-1feb-11ec-ba5d-cc483a7b2fd3\YZTest_noField.gdb\RCAZoneReference
+28/09/2021 - 12:32:34: INFO - fc: C:\projects\gp\publishGP\scratch\30c1190a-1feb-11ec-ba5d-cc483a7b2fd3\YZTest_noField.gdb\SpeedLimitZone
+28/09/2021 - 12:32:34: INFO - Generating output json ...
+28/09/2021 - 12:32:34: INFO - process file geodatbase: C:\projects\gp\publishGP\scratch\30c1190a-1feb-11ec-ba5d-cc483a7b2fd3\YZTest_noField.gdb
+28/09/2021 - 12:32:34: INFO - reading geometry draft features ...
+28/09/2021 - 12:32:34: ERROR - A column was specified that does not exist.
+28/09/2021 - 12:32:34: ERROR - No output is generated
+28/09/2021 - 12:36:21: INFO - Process started...
+28/09/2021 - 12:36:21: INFO - input file: C:\projects\gp\data\YZTest_noGeo.gdb
+28/09/2021 - 12:36:21: ERROR - The input is wrong file format
+28/09/2021 - 12:36:52: INFO - Process started...
+28/09/2021 - 12:36:52: INFO - input file: C:\projects\gp\data\YZTest_noGeo.gdb.zip
+28/09/2021 - 12:36:52: INFO - Zip Folder C:\Users\yxz\AppData\Local\Temp\scratch\cac0401c-1feb-11ec-a7d7-cc483a7b2fd3
+28/09/2021 - 12:36:52: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\cac0401c-1feb-11ec-a7d7-cc483a7b2fd3\YZTest_noGeo.gdb\SpeedLimitZoneGeometryDraft
+28/09/2021 - 12:36:52: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\cac0401c-1feb-11ec-a7d7-cc483a7b2fd3\YZTest_noGeo.gdb\RCAZoneReference
+28/09/2021 - 12:36:52: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\cac0401c-1feb-11ec-a7d7-cc483a7b2fd3\YZTest_noGeo.gdb\SpeedLimitZone
+28/09/2021 - 12:36:52: INFO - Generating output json ...
+28/09/2021 - 12:36:52: INFO - process file geodatbase: C:\Users\yxz\AppData\Local\Temp\scratch\cac0401c-1feb-11ec-a7d7-cc483a7b2fd3\YZTest_noGeo.gdb
+28/09/2021 - 12:36:52: INFO - reading geometry draft features ...
+28/09/2021 - 12:36:52: INFO - total draft geometries: 0
+28/09/2021 - 12:36:52: INFO - reading rca reference records ...
+28/09/2021 - 12:36:52: INFO - total rca reference: 70
+28/09/2021 - 12:36:52: INFO - reading speed limit zone records ...
+28/09/2021 - 12:36:52: INFO - process speedLimitZoneId: {AF6ADC89-476B-43CC-B626-AD159EB01DE8}
+28/09/2021 - 12:36:52: INFO - process speedLimitZoneId: {A427BEE8-6834-4BFE-8E11-E32BDF465E3E}
+28/09/2021 - 12:36:52: INFO - output data: None
+28/09/2021 - 12:36:52: ERROR - No output is generated
+28/09/2021 - 12:39:40: INFO - Process started...
+28/09/2021 - 12:39:40: INFO - input file: C:\projects\gp\data\YZTest_noGeo.gdb.zip
+28/09/2021 - 12:39:40: INFO - Zip Folder C:\Users\yxz\AppData\Local\Temp\scratch\2f06c10c-1fec-11ec-9d71-cc483a7b2fd3
+28/09/2021 - 12:39:40: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\2f06c10c-1fec-11ec-9d71-cc483a7b2fd3\YZTest_noGeo.gdb\SpeedLimitZoneGeometryDraft
+28/09/2021 - 12:39:40: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\2f06c10c-1fec-11ec-9d71-cc483a7b2fd3\YZTest_noGeo.gdb\RCAZoneReference
+28/09/2021 - 12:39:40: INFO - fc: C:\Users\yxz\AppData\Local\Temp\scratch\2f06c10c-1fec-11ec-9d71-cc483a7b2fd3\YZTest_noGeo.gdb\SpeedLimitZone
+28/09/2021 - 12:39:40: INFO - Generating output json ...
+28/09/2021 - 12:39:40: INFO - process file geodatbase: C:\Users\yxz\AppData\Local\Temp\scratch\2f06c10c-1fec-11ec-9d71-cc483a7b2fd3\YZTest_noGeo.gdb
+28/09/2021 - 12:39:40: INFO - reading geometry draft features ...
+28/09/2021 - 12:39:40: INFO - total draft geometries: 0
+28/09/2021 - 12:39:40: INFO - reading rca reference records ...
+28/09/2021 - 12:39:40: INFO - total rca reference: 70
+28/09/2021 - 12:39:40: INFO - reading speed limit zone records ...
+28/09/2021 - 12:39:40: INFO - process speedLimitZoneId: {AF6ADC89-476B-43CC-B626-AD159EB01DE8}
+28/09/2021 - 12:39:40: INFO - process speedLimitZoneId: {A427BEE8-6834-4BFE-8E11-E32BDF465E3E}
+28/09/2021 - 12:39:40: INFO - output data: [{}]
+28/09/2021 - 12:45:15: INFO - Process started...
+28/09/2021 - 12:45:15: INFO - input file: C:\projects\gp\data\YZTest1.gdb.zip
+28/09/2021 - 12:45:15: INFO - Zip Folder C:\projects\gp\publishGP\scratch\f6adeb36-1fec-11ec-84cf-cc483a7b2fd3
+28/09/2021 - 12:45:15: INFO - fc: C:\projects\gp\publishGP\scratch\f6adeb36-1fec-11ec-84cf-cc483a7b2fd3\YZTest1.gdb\SpeedLimitZoneGeometryDraft
+28/09/2021 - 12:45:15: INFO - fc: C:\projects\gp\publishGP\scratch\f6adeb36-1fec-11ec-84cf-cc483a7b2fd3\YZTest1.gdb\RCAZoneReference
+28/09/2021 - 12:45:15: INFO - fc: C:\projects\gp\publishGP\scratch\f6adeb36-1fec-11ec-84cf-cc483a7b2fd3\YZTest1.gdb\SpeedLimitZone
+28/09/2021 - 12:45:15: INFO - Generating output json ...
+28/09/2021 - 12:45:15: INFO - process file geodatbase: C:\projects\gp\publishGP\scratch\f6adeb36-1fec-11ec-84cf-cc483a7b2fd3\YZTest1.gdb
+28/09/2021 - 12:45:15: INFO - reading geometry draft features ...
+28/09/2021 - 12:45:15: INFO - total draft geometries: 2
+28/09/2021 - 12:45:15: INFO - reading rca reference records ...
+28/09/2021 - 12:45:15: INFO - total rca reference: 70
+28/09/2021 - 12:45:15: INFO - reading speed limit zone records ...
+28/09/2021 - 12:45:15: INFO - process speedLimitZoneId: {AF6ADC89-476B-43CC-B626-AD159EB01DE8}
+28/09/2021 - 12:45:15: INFO - process speedLimitZoneId: {A427BEE8-6834-4BFE-8E11-E32BDF465E3E}
+28/09/2021 - 12:45:15: INFO - output data: [{"attributes": {"legalInstrumentTitle": null, "legalInstrumentURL": null, "legalInstrumentId": null, "legalReference": null, "gazetteIssueNumber": null, "gazettePageNumber": null, "publicationDate": null, "effectiveDateFrom": null, "yearEnacted": null, "speedLimitZoneReasonName": null, "speedLimitZoneVarPrdName": null, "speedLimitZoneLanePurposeName": null, "speedLimitZoneStructureTypeName": null, "speedLimitZoneStatusTypeName": "Submitted", "speedValueTypeName": "50 km/h", "speedCategoryName": "Permanent", "variableSpeeds": null, "rcaZoneReferenceName": "Carterton District", "speedLimitZoneId": "{AF6ADC89-476B-43CC-B626-AD159EB01DE8}", "speedManagementPlanName": null, "speedManagementPlanURL": null, "speedLimitZoneName": "YZ Test1", "speedLimitZoneStatusDate": -2209161600000, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null, "speedLimitZoneApprovalURL": null, "speedLimitZoneApprovalEndDate": null, "speedLimitZoneSeasonalRecurring": null, "speedLimitZoneSeasonalDesc": null, "speedLimitZoneEmergencyReason": null, "speedLimitZoneDescription": null, "speedZoneDirectionTypeId": null, "speedLimitZoneLock": 0, "speedLimitZoneLockOwner": null, "speedLimitZoneLockStartDate": null, "lanesOutFromCentreline": null, "speedLimitZoneSubmittedBy": null, "GlobalIdGeometry": null, "speedLimitZoneSeasonalRecur": null, "parentSpeedLimitZoneId": null, "CorrectionCount": null, "ClarificationCount": null, "GlobalID": "{00000000-0000-0000-0000-000000000000}", "OBJECTID": 3, "displaySpeed": null, "GeometryCount": null, "lastEditedUser": null, "geometry": null, "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedCategoryId": 1001, "speedValueTypeId": 1005, "speedLimitZoneStatusTypeId": 1003}, "geometry": {"rings": [[[1809520.7785999998, 5443908.7933], [1808976.1648000004, 5444128.5497], [1809195.9212999996, 5444998.0209], [1809721.4258000003, 5445313.3237], [1810438.023, 5444654.0543], [1809520.7785999998, 5443908.7933]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}, "type": "polygon"}}, {"attributes": {"legalInstrumentTitle": null, "legalInstrumentURL": null, "legalInstrumentId": null, "legalReference": null, "gazetteIssueNumber": null, "gazettePageNumber": null, "publicationDate": null, "effectiveDateFrom": null, "yearEnacted": null, "speedLimitZoneReasonName": null, "speedLimitZoneVarPrdName": null, "speedLimitZoneLanePurposeName": null, "speedLimitZoneStructureTypeName": null, "speedLimitZoneStatusTypeName": "Draft", "speedValueTypeName": "50 km/h", "speedCategoryName": "Permanent", "variableSpeeds": null, "rcaZoneReferenceName": "Carterton District", "speedLimitZoneId": "{A427BEE8-6834-4BFE-8E11-E32BDF465E3E}", "speedManagementPlanName": null, "speedManagementPlanURL": null, "speedLimitZoneName": "YZ Test2", "speedLimitZoneStatusDate": -2209161600000, "speedLimitZoneStartDate": "2021-09-17 12:00:00", "speedLimitZoneEndDate": null, "speedLimitZoneApprovalURL": null, "speedLimitZoneApprovalEndDate": null, "speedLimitZoneSeasonalRecurring": null, "speedLimitZoneSeasonalDesc": null, "speedLimitZoneEmergencyReason": null, "speedLimitZoneDescription": null, "speedZoneDirectionTypeId": null, "speedLimitZoneLock": 0, "speedLimitZoneLockOwner": null, "speedLimitZoneLockStartDate": null, "lanesOutFromCentreline": null, "speedLimitZoneSubmittedBy": null, "GlobalIdGeometry": null, "speedLimitZoneSeasonalRecur": null, "parentSpeedLimitZoneId": null, "CorrectionCount": null, "ClarificationCount": null, "GlobalID": "{00000000-0000-0000-0000-000000000000}", "OBJECTID": 5, "displaySpeed": null, "GeometryCount": null, "lastEditedUser": null, "geometry": null, "rcaZoneReferenceId": "{5EC1E0D2-F639-4E97-B5BC-BD2F4EBF0D5E}", "speedCategoryId": 1001, "speedValueTypeId": 1005, "speedLimitZoneStatusTypeId": 1001}, "geometry": {"rings": [[[1810731.0859000003, 5444709.7888], [1810339.3460999997, 5445082.4194], [1810946.0650000004, 5445517.155], [1811347.3594000004, 5445201.8522], [1810731.0859000003, 5444709.7888]]], "spatialReference": {"wkid": 2193, "latestWkid": 2193}, "type": "polygon"}}]

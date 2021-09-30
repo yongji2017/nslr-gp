@@ -1,0 +1,40 @@
+https://geonet.esri.com/thread/100347
+{"itemID":"i80dfa12f-52ed-4841-94ff-37f9c3f5dd6f"}  
+
+import arcpy, os, zipfile  
+infile = arcpy.GetParameterAsText(0)
+ outpath, outfileext = os.path.splitext(infile) 
+filename = outpath.split('\\')[-1]  
+try:     # unzip file     
+fireZip = zipfile.ZipFile(infile, 'r')     
+fireZip.extractall(outpath)     
+fireZip.close()     
+shpPath = outpath + "\\" + filename + ".shp"     
+arcpy.AddMessage("Finished unzipping file.")  
+# Local variables:     
+WildFire_Table_Target = "Database Connections\\SQL_DB(TEST Server).sde\\ArcSDE.dbo.WILDFIREPERIM"  
+# Create FieldMappings object and load the target dataset      
+fieldmappings = arcpy.FieldMappings()     
+fieldmappings.addTable(WildFire_Table_Target)      
+inputfields = [field.name for field in arcpy.ListFields(shpPath) if not field.required]     
+for inputfield in inputfields:         
+# Iterate through each FieldMap in the FieldMappings         
+#         for i in range(fieldmappings.fieldCount):             
+fieldmap = fieldmappings.getFieldMap(i)             
+#arcpy.AddMessage(fieldmap.getInputFieldName(0))             
+# If the field name from the target dataset matches to a validated input field name            
+ #             if fieldmap.getInputFieldName(0) == inputfield.replace("", ""):                 
+# Add the input field to the FieldMap and replace the old FieldMap with the new                
+ #                 fieldmap.addInputField(shpPath, inputfield)                 
+fieldmappings.replaceFieldMap(i, fieldmap)                 
+break              
+ # Process: Append      
+ arcpy.Append_management(shpPath, WildFire_Table_Target, "NO_TEST", fieldmappings) 
+ except Exception as e:      
+ print e.message       
+arcpy.AddError(e.message)
+
+
+=============
+zipfile info
+https://pymotw.com/2/zipfile/
